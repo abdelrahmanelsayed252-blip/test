@@ -1,0 +1,237 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'GE SS';
+  src: url('/fonts/GE-SS-Two-Medium.otf') format('opentype');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --font-sans: 'Montserrat', system-ui, sans-serif;
+  --font-ar: 'GE SS', 'Montserrat', system-ui, sans-serif;
+  --bg: #EDECE8;
+  --fg: #000000;
+  --accent: #004AAD;
+  --muted: #6b6b6b;
+  --border: rgba(0, 0, 0, 0.1);
+}
+
+.dark {
+  --bg: #000000;
+  --fg: #EDECE8;
+  --accent: #004AAD;
+  --muted: #8a8a8a;
+  --border: rgba(237, 236, 232, 0.12);
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--fg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: var(--font-sans);
+  transition: background-color 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+    color 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html[lang='ar'] body {
+  font-family: var(--font-ar);
+}
+
+::selection {
+  background-color: #004AAD;
+  color: #ffffff;
+}
+
+/* Reset focus rings, then add tasteful one */
+*:focus {
+  outline: none;
+}
+*:focus-visible {
+  outline: 2px solid #004AAD;
+  outline-offset: 2px;
+}
+
+a,
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Hide native scrollbars in select horizontal areas */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Subtle scrollbar in dark/light */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 999px;
+}
+
+/* RAW wavy logo style helpers */
+.raw-mark {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  transform: scaleY(1.05) scaleX(1.6);
+  transform-origin: center;
+  display: inline-block;
+}
+
+.editorial {
+  font-feature-settings: 'ss01', 'ss02', 'ss03';
+  letter-spacing: -0.035em;
+  line-height: 0.92;
+}
+
+.section-label {
+  font-size: 11px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: #004AAD;
+  color: #ffffff;
+  padding: 1rem 1.75rem;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+    background-color 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-primary:hover {
+  background-color: #003a8a;
+}
+.btn-primary:active {
+  transform: scale(0.98);
+}
+
+.btn-outline {
+  border: 1px solid currentColor;
+  padding: 1rem 1.75rem;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-outline:hover {
+  background-color: currentColor;
+}
+.btn-outline:hover > span,
+.btn-outline:hover > svg {
+  color: var(--bg);
+  mix-blend-mode: difference;
+}
+
+input,
+select,
+textarea {
+  background: transparent;
+  border: 1px solid var(--border);
+  width: 100%;
+  padding: 1rem 1rem;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--fg);
+  transition: border-color 0.2s ease;
+}
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #004AAD;
+}
+input::placeholder,
+textarea::placeholder {
+  color: var(--muted);
+}
+select option {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+/* Disable input number arrows */
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type='number'] {
+  -moz-appearance: textfield;
+}
