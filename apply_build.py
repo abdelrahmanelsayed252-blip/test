@@ -2,6 +2,7 @@
 Reads apply/<slug>.json, writes apply/<slug>/index.html."""
 import json, sys, html, pathlib
 
+CSSV = "2"
 PDF = "https://drive.google.com/file/d/1ew7FIP2rW-dcuGnLQMi-8I99_wXS-K0f/view"
 WA = "201019815508"
 
@@ -34,7 +35,7 @@ def build(slug):
 <meta property="og:image" content="/w/{d["images"][0]["src"]}.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Inter:wght@400;600;700&family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/style.css?v={CSSV}">
 <script>(function(){{var d=document.documentElement,p=new URLSearchParams(location.search).get('lang');function s(l){{d.dataset.lang=l;d.lang=l;d.dir=l==='ar'?'rtl':'ltr'}}if(p==='ar'||p==='en')s(p);document.addEventListener('click',function(e){{if(e.target.closest('[data-toggle-lang]'))s(d.dataset.lang==='ar'?'en':'ar')}})}})();</script>
 </head>
 <body>

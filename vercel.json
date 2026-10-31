@@ -1,8 +1,1 @@
-{
-  "cleanUrls": true,
-  "rewrites": [
-    { "source": "/w/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@358c11391f6307e071874dc2c04f567fd50cd23a/w/:path*" },
-    { "source": "/cv/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@358c11391f6307e071874dc2c04f567fd50cd23a/cv/:path*" },
-    { "source": "/assets/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@358c11391f6307e071874dc2c04f567fd50cd23a/assets/:path*" }
-  ]
-}
+{"cleanUrls": true, "rewrites": [{"source": "/w/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@40eef06561e8bd1d604d7dbfebacca667b17ecda/w/:path*"}, {"source": "/cv/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@40eef06561e8bd1d604d7dbfebacca667b17ecda/cv/:path*"}, {"source": "/assets/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@40eef06561e8bd1d604d7dbfebacca667b17ecda/assets/:path*"}]}
