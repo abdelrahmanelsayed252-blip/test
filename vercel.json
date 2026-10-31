@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/w/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@358c11391f6307e071874dc2c04f567fd50cd23a/w/:path*" },
+    { "source": "/cv/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@358c11391f6307e071874dc2c04f567fd50cd23a/cv/:path*" },
+    { "source": "/assets/:path*", "destination": "https://cdn.jsdelivr.net/gh/abdelrahmanelsayed252-blip/test@358c11391f6307e071874dc2c04f567fd50cd23a/assets/:path*" }
+  ]
+}
