@@ -1,8 +1,15 @@
 # How this site is deployed
 
-- Images, CVs and CSS live in this repo and are served through jsDelivr at a fixed commit (see vercel.json rewrites).
-- HTML pages are deployed to Vercel project `abdelrahman-elsayed` (team_X4ldoYphcuyvyC50EY0oIJzB, prj_yzDBjujg302EeDSDe7erAQ9RUl3l), domain https://abdelrahmanelsayed.vercel.app
-- New application page: write `apply/<slug>.json` (copy abhar.json or misk.json; `en` + `ar` copy, `default_lang` = language of the job ad), run `python3 apply_build.py <slug>`, commit + push.
-- After pushing, set the jsDelivr commit in vercel.json to the new HEAD only if images/CVs/CSS changed.
-- Vercel create_deployment: vercel.json inline, unchanged HTML files by {file, sha1, size}, new/changed HTML inline (utf-8). If a sha is reported missing, send that file inline.
-- Never proxy HTML through jsDelivr (it serves text/plain with immutable caching).
+Domain: https://abdelrahmanelsayed.vercel.app (Vercel project abdelrahman-elsayed, team_X4ldoYphcuyvyC50EY0oIJzB, prj_yzDBjujg302EeDSDe7erAQ9RUl3l)
+
+- Static assets (images /w, CVs /cv, CSS + GE SS fonts /assets) and page data (apply/<slug>.json) live in this repo and are served through jsDelivr at a fixed commit, via the rewrites in vercel.json.
+- Every company page is rendered by ONE shell, apply.html, at /apply/<slug>. It loads /data/<slug>.json. Pages always open in English; the top button switches the whole page to Arabic (GE SS fonts).
+
+## Add a company page
+1. Copy apply/abhar.json (web/event roles) or apply/misk.json (AI content / real estate) to apply/<slug>.json. Rewrite every "en" and "ar" string for that company (Arabic in clean Gulf-friendly Arabic). Pick 4 images from /w/. Set "cv" to "AI" or "Designer".
+2. Commit and push to main. Note the new HEAD sha.
+3. In vercel.json replace the old 40-char commit sha with the new HEAD sha (all rewrites). Commit + push.
+4. Vercel create_deployment with ONLY: vercel.json (inline, utf-8), apply.html and index.html referenced by {file, sha1, size} of the repo files (inline them only if Vercel says they are missing).
+5. Check https://abdelrahmanelsayed.vercel.app/data/<slug>.json returns 200, then use https://abdelrahmanelsayed.vercel.app/apply/<slug>.
+
+Never proxy HTML through jsDelivr (it serves text/plain). Bump ?v= on the CSS link in apply.html when style.css changes.

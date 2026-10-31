@@ -1,7 +1,7 @@
 {
   "slug": "misk",
   "company": "Misk Real Estate Development",
-  "default_lang": "ar",
+  "default_lang": "en",
   "cv": "AI",
   "country_en": "Oman",
   "country_ar": "عُمان",
@@ -13,17 +13,38 @@
     "lead": "Hi Misk team, I'm Abdelrahman, a graphic designer who produces real estate visuals and video with AI. I saw your opening for an AI Content Designer in Muscat, so I made this page for you instead of sending a plain CV.",
     "why_title": "What I'd bring to Misk",
     "why": [
-      {"h": "Property visuals that sell a lifestyle", "p": "Realistic AI scenes of your projects with people living in them, finished by hand in Photoshop so they look designed, not generated."},
-      {"h": "AI video that moves the building", "p": "Animated renders and photos, and presenter videos in Gulf dialect. I made a recurring AI podcast host for a Saudi real estate exhibition (Siredo 2026)."},
-      {"h": "Social and ads every week", "p": "6+ years of social and ad design for Gulf brands, in Arabic and English, with Photoshop, Illustrator and After Effects."}
+      {
+        "h": "Property visuals that sell a lifestyle",
+        "p": "Realistic AI scenes of your projects with people living in them, finished by hand in Photoshop so they look designed, not generated."
+      },
+      {
+        "h": "AI video that moves the building",
+        "p": "Animated renders and photos, and presenter videos in Gulf dialect. I made a recurring AI podcast host for a Saudi real estate exhibition (Siredo 2026)."
+      },
+      {
+        "h": "Social and ads every week",
+        "p": "6+ years of social and ad design for Gulf brands, in Arabic and English, with Photoshop, Illustrator and After Effects."
+      }
     ],
     "steps_title": "A project launch, step by step",
     "steps_sub": "Repeatable for every project you launch.",
     "steps": [
-      {"h": "Renders to lifestyle scenes", "p": "Turn your renders or site photos into warm scenes with families, sunsets and real life."},
-      {"h": "Motion and AI video", "p": "Animate the building and the scene for reels, ads and the sales office screens."},
-      {"h": "Launch kit", "p": "Posts, stories, ads and brochure pages in one look, ready for launch day."},
-      {"h": "Weekly content", "p": "A steady flow of new visuals so the project stays visible until it sells out."}
+      {
+        "h": "Renders to lifestyle scenes",
+        "p": "Turn your renders or site photos into warm scenes with families, sunsets and real life."
+      },
+      {
+        "h": "Motion and AI video",
+        "p": "Animate the building and the scene for reels, ads and the sales office screens."
+      },
+      {
+        "h": "Launch kit",
+        "p": "Posts, stories, ads and brochure pages in one look, ready for launch day."
+      },
+      {
+        "h": "Weekly content",
+        "p": "A steady flow of new visuals so the project stays visible until it sells out."
+      }
     ],
     "cta_h": "Can we talk for 15 minutes?",
     "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
@@ -37,26 +58,71 @@
     "lead": "أهلاً فريق مسك، معكم عبدالرحمن السيد، مصمم جرافيك أنتج صوراً وفيديوهات عقارية بالذكاء الاصطناعي. شاهدت إعلانكم عن وظيفة مصمم محتوى بالذكاء الاصطناعي في مسقط، فجهزت لكم هذه الصفحة بدلاً من سيرة ذاتية تقليدية.",
     "why_title": "ماذا أضيف لمسك",
     "why": [
-      {"h": "صور عقارية تبيع أسلوب حياة", "p": "مشاهد واقعية لمشاريعكم وفيها ناس يعيشون فيها، أكملها يدوياً على فوتوشوب حتى تظهر مصممة باحتراف وليست مولّدة."},
-      {"h": "فيديو بالذكاء الاصطناعي يحرّك المبنى", "p": "تحريك الرندرات والصور، وفيديوهات بمقدّم يتكلم باللهجة الخليجية. صممت مقدّم بودكاست بالذكاء الاصطناعي لمعرض عقاري سعودي (سيريدو 2026)."},
-      {"h": "سوشيال وإعلانات كل أسبوع", "p": "أكثر من 6 سنوات في تصميم السوشيال والإعلانات لبراندات خليجية، بالعربي والإنجليزي، على فوتوشوب وإليستريتور وأفتر إفكتس."}
+      {
+        "h": "صور عقارية تبيع أسلوب حياة",
+        "p": "مشاهد واقعية لمشاريعكم وفيها ناس يعيشون فيها، أكملها يدوياً على فوتوشوب حتى تظهر مصممة باحتراف وليست مولّدة."
+      },
+      {
+        "h": "فيديو بالذكاء الاصطناعي يحرّك المبنى",
+        "p": "تحريك الرندرات والصور، وفيديوهات بمقدّم يتكلم باللهجة الخليجية. صممت مقدّم بودكاست بالذكاء الاصطناعي لمعرض عقاري سعودي (سيريدو 2026)."
+      },
+      {
+        "h": "سوشيال وإعلانات كل أسبوع",
+        "p": "أكثر من 6 سنوات في تصميم السوشيال والإعلانات لبراندات خليجية، بالعربي والإنجليزي، على فوتوشوب وإليستريتور وأفتر إفكتس."
+      }
     ],
     "steps_title": "إطلاق مشروع خطوة بخطوة",
     "steps_sub": "طريقة تتكرر مع كل مشروع جديد.",
     "steps": [
-      {"h": "من الرندر إلى مشهد حياة", "p": "نحوّل الرندرات أو صور الموقع إلى مشاهد دافئة فيها عائلات وغروب وحياة حقيقية."},
-      {"h": "موشن وفيديو بالذكاء الاصطناعي", "p": "نحرّك المبنى والمشهد للريلز والإعلانات وشاشات مكتب المبيعات."},
-      {"h": "حزمة الإطلاق", "p": "بوستات وستوريز وإعلانات وصفحات بروشور بنفس الشكل، جاهزة ليوم الإطلاق."},
-      {"h": "محتوى أسبوعي", "p": "صور جديدة باستمرار حتى يبقى المشروع ظاهراً إلى أن يكتمل البيع."}
+      {
+        "h": "من الرندر إلى مشهد حياة",
+        "p": "نحوّل الرندرات أو صور الموقع إلى مشاهد دافئة فيها عائلات وغروب وحياة حقيقية."
+      },
+      {
+        "h": "موشن وفيديو بالذكاء الاصطناعي",
+        "p": "نحرّك المبنى والمشهد للريلز والإعلانات وشاشات مكتب المبيعات."
+      },
+      {
+        "h": "حزمة الإطلاق",
+        "p": "بوستات وستوريز وإعلانات وصفحات بروشور بنفس الشكل، جاهزة ليوم الإطلاق."
+      },
+      {
+        "h": "محتوى أسبوعي",
+        "p": "صور جديدة باستمرار حتى يبقى المشروع ظاهراً إلى أن يكتمل البيع."
+      }
     ],
     "cta_h": "نتكلم 15 دقيقة؟",
     "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
     "wa_text": "أهلاً عبدالرحمن، معك مسك للتطوير العقاري بخصوص وظيفة مصمم المحتوى بالذكاء الاصطناعي"
   },
   "images": [
-    {"src": "villa", "en_title": "Key visual · Villa launch", "en_cap": "Sells the life inside the home, not just the building.", "ar_title": "صورة رئيسية · إطلاق فيلا", "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."},
-    {"src": "ai-video-zone", "en_title": "AI video · UAE brand", "en_cap": "UGC-style ads with AI characters and voice.", "ar_title": "فيديو بالذكاء الاصطناعي · براند إماراتي", "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."},
-    {"src": "ksa-day-meals", "en_title": "Key visual · Riyadh skyline", "en_cap": "AI-built city scene, finished by hand.", "ar_title": "صورة رئيسية · أفق الرياض", "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."},
-    {"src": "ai-saba", "en_title": "AI campaign · Saba HomeCare", "en_cap": "A consistent AI cast across a full campaign.", "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير", "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."}
+    {
+      "src": "villa",
+      "en_title": "Key visual · Villa launch",
+      "en_cap": "Sells the life inside the home, not just the building.",
+      "ar_title": "صورة رئيسية · إطلاق فيلا",
+      "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+    },
+    {
+      "src": "ai-video-zone",
+      "en_title": "AI video · UAE brand",
+      "en_cap": "UGC-style ads with AI characters and voice.",
+      "ar_title": "فيديو بالذكاء الاصطناعي · براند إماراتي",
+      "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+    },
+    {
+      "src": "ksa-day-meals",
+      "en_title": "Key visual · Riyadh skyline",
+      "en_cap": "AI-built city scene, finished by hand.",
+      "ar_title": "صورة رئيسية · أفق الرياض",
+      "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+    },
+    {
+      "src": "ai-saba",
+      "en_title": "AI campaign · Saba HomeCare",
+      "en_cap": "A consistent AI cast across a full campaign.",
+      "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+      "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+    }
   ]
 }

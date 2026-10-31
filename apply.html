@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en" dir="ltr" data-lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Abdelrahman Elsayed | Application</title>
+<meta name="robots" content="noindex">
+<meta property="og:title" content="Abdelrahman Elsayed | A page made for you">
+<meta property="og:description" content="Graphic & motion designer and AI content creator. Key visuals, brand identity, AI video for Gulf brands.">
+<meta property="og:image" content="https://abdelrahmanelsayed.vercel.app/w/villa.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="preload" href="/assets/fonts/gess-text-bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=3">
+</head>
+<body>
+<div id="app" class="loading">Loading…</div>
+<script>
+(function(){
+  var PDF = "https://drive.google.com/file/d/1ew7FIP2rW-dcuGnLQMi-8I99_wXS-K0f/view";
+  var WA = "201019815508";
+  var root = document.documentElement;
+  function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+  function t(en, ar){return '<span class="en-t">'+en+'</span><span class="ar-t">'+ar+'</span>'}
+  function setLang(l){root.dataset.lang=l; root.lang=l; root.dir = l==="ar"?"rtl":"ltr";}
+  var q = new URLSearchParams(location.search).get("lang");
+  setLang(q==="ar" ? "ar" : "en");
+  document.addEventListener("click", function(e){
+    if (e.target.closest("[data-toggle-lang]")) setLang(root.dataset.lang==="ar" ? "en" : "ar");
+  });
+  var slug = (location.pathname.split("/").filter(Boolean)[1] || "").toLowerCase().replace(/[^a-z0-9-]/g,"");
+  if (!slug) { location.replace("/"); return; }
+  fetch("/data/"+slug+".json").then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(render).catch(function(){
+    document.getElementById("app").innerHTML = 'Page not found. <a href="/">See the portfolio</a>';
+  });
+
+  function render(d){
+    var E=d.en, A=d.ar, cv="/cv/Abdelrahman_Elsayed_CV_"+(d.cv||"AI")+".pdf";
+    document.title = E.title;
+    var why = E.why.map(function(e,i){var a=A.why[i];return '<div class="tcard"><div class="n">0'+(i+1)+'</div><h3>'+t(e.h,a.h)+'</h3><p>'+t(e.p,a.p)+'</p></div>'}).join("");
+    var steps = E.steps.map(function(e,i){var a=A.steps[i];return '<div class="tcard"><div class="n">'+(i+1)+'</div><h3>'+t(e.h,a.h)+'</h3><p>'+t(e.p,a.p)+'</p></div>'}).join("");
+    var imgs = d.images.map(function(im){return '<figure class="card"><img src="/w/'+esc(im.src)+'.jpg" alt="'+esc(im.en_title)+'" loading="lazy"><figcaption class="cap"><b>'+t(im.en_title,im.ar_title)+'</b>'+t(im.en_cap,im.ar_cap)+'</figcaption></figure>'}).join("");
+    var cEn = d.country_en || "Oman", cAr = d.country_ar || "عُمان";
+    var html =
+'<header class="bar"><div class="wrap">'+
+  '<a class="logo" href="/">'+t("Abdelrahman","عبدالرحمن")+'<span>.</span></a>'+
+  '<div class="bar-right"><span class="tag">'+t(E.tag,A.tag)+'</span><button class="btn small lang-btn" data-toggle-lang>'+t("عربي","English")+'</button></div>'+
+'</div></header>'+
+'<main class="wrap">'+
+'<div class="hero">'+
+  '<span class="eyebrow">'+t(E.eyebrow,A.eyebrow)+'</span>'+
+  '<h1>'+t(E.h1,A.h1)+'</h1>'+
+  '<p class="lead">'+t(E.lead,A.lead)+'</p>'+
+  '<div class="btns">'+
+    '<a class="btn primary" href="#talk">'+t("Book 15 minutes","نحجز 15 دقيقة")+'</a>'+
+    '<a class="btn" href="'+cv+'" target="_blank">'+t("Download CV","تحميل السيرة الذاتية")+'</a>'+
+    '<a class="btn" href="'+PDF+'" target="_blank">'+t("Full portfolio with videos ↗","البورتفوليو كاملاً مع الفيديوهات ↗")+'</a>'+
+  '</div>'+
+'</div>'+
+'<section><div class="sec-head"><h2><small>'+t("Why me","لماذا أنا")+'</small>'+t(E.why_title,A.why_title)+'</h2></div><div class="grid g3">'+why+'</div></section>'+
+'<section><div class="sec-head"><h2><small>'+t("How I work","أسلوبي في العمل")+'</small>'+t(E.steps_title,A.steps_title)+'</h2><p>'+t(E.steps_sub,A.steps_sub)+'</p></div><div class="grid g2">'+steps+'</div></section>'+
+'<section><div class="sec-head"><h2><small>'+t("Selected work","نماذج من أعمالي")+'</small>'+t("A few pieces","بعض الأعمال")+'</h2><p>'+t('More in the <a href="'+PDF+'" target="_blank">full portfolio</a>, with the AI videos linked inside.','المزيد في <a href="'+PDF+'" target="_blank">البورتفوليو الكامل</a> مع روابط فيديوهات الذكاء الاصطناعي.')+'</p></div><div class="grid g2">'+imgs+'</div></section>'+
+'<section><div class="facts" style="margin-top:0">'+
+  '<span><b>'+t("Nationality","الجنسية")+'</b> '+t("Egyptian","مصري")+'</span>'+
+  '<span><b>'+t("Relocation","الانتقال")+'</b> '+t("ready to move to "+cEn,"مستعد للانتقال إلى "+cAr)+'</span>'+
+  '<span><b>'+t("Start","المباشرة")+'</b> '+t("within 1 week","خلال أسبوع")+'</span>'+
+  '<span><b>'+t("Driving licence","رخصة قيادة")+'</b> '+t("yes","نعم")+'</span>'+
+  '<span><b>'+t("Languages","اللغات")+'</b> '+t("Arabic, English","العربية والإنجليزية")+'</span>'+
+'</div></section>'+
+'<div class="cta" id="talk"><h2>'+t(E.cta_h,A.cta_h)+'</h2><p>'+t(E.cta_p,A.cta_p)+'</p><div class="btns">'+
+  '<a class="btn primary en-t" href="https://wa.me/'+WA+'?text='+encodeURIComponent(E.wa_text)+'" target="_blank">WhatsApp me</a>'+
+  '<a class="btn primary ar-t" href="https://wa.me/'+WA+'?text='+encodeURIComponent(A.wa_text)+'" target="_blank">تواصلوا عبر واتساب</a>'+
+  '<a class="btn" href="mailto:abdelrahmanelsayed252@gmail.com?subject='+encodeURIComponent(E.mail_subject||E.title)+'">'+t("Email me","راسلوني بالبريد")+'</a>'+
+  '<a class="btn" href="'+cv+'" target="_blank">'+t("Download CV","تحميل السيرة الذاتية")+'</a>'+
+'</div></div>'+
+'</main>'+
+'<footer><div class="wrap"><span>'+t("Abdelrahman Elsayed","عبدالرحمن السيد")+' · <span dir="ltr">+20 101 981 5508</span></span><a href="https://www.linkedin.com/in/abdelrahman-elsayed-8a51b51ba" target="_blank">LinkedIn ↗</a></div></footer>';
+    var app = document.getElementById("app");
+    app.className = ""; app.innerHTML = html;
+    if (location.hash) { var el = document.querySelector(location.hash); if (el) el.scrollIntoView(); }
+  }
+})();
+</script>
+</body>
+</html>
