@@ -1,0 +1,129 @@
+{
+ "slug": "aj-fitness",
+ "company": "AJ Fitness Al Khuwair",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For AJ Fitness Al Khuwair | Abdelrahman Elsayed",
+  "tag": "Prepared for AJ Fitness Al Khuwair",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Make every transformation <em>look like a story.</em>",
+  "lead": "Hi AJ Fitness team, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and video for Gulf brands. I saw your transformation and personal training programs in Al Khuwair, so I made this page with ideas to present them.",
+  "why_title": "What I could do for AJ Fitness Al Khuwair",
+  "why": [
+   {
+    "h": "A before and after reel series",
+    "p": "One format for every member story, so the series is easy to recognise and repeat."
+   },
+   {
+    "h": "Designs with one identity",
+    "p": "Before and after posts, offers and stories in the same look."
+   },
+   {
+    "h": "A simple member tracking tool",
+    "p": "A small internal tool for tracking members, like the staff app I built for a coffee chain, now approved for 5 branches."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is AJ Fitness Al Khuwair. I saw your page.",
+  "mail_subject": "Collaboration idea for AJ Fitness Al Khuwair"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ إيه جيه فيتنس الخوير",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "اجعلوا كل تحول <em>يظهر كقصة.</em>",
+  "lead": "أهلاً فريق إيه جيه فيتنس، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. اطلعت على برامج التحول الجسدي والتدريب الشخصي في الخوير، فجهزت لكم هذه الصفحة بأفكار لعرضها.",
+  "why_title": "ماذا أستطيع أن أقدم لـ إيه جيه فيتنس الخوير",
+  "why": [
+   {
+    "h": "سلسلة ريلز قبل وبعد",
+    "p": "قالب واحد لكل قصة عضو، ليسهل التعرف على السلسلة وتكرارها."
+   },
+   {
+    "h": "تصاميم بهوية واحدة",
+    "p": "بوستات قبل وبعد وعروض وستوريز بالشكل نفسه."
+   },
+   {
+    "h": "أداة بسيطة لمتابعة الأعضاء",
+    "p": "أداة داخلية صغيرة لمتابعة الأعضاء، مثل تطبيق الموظفين الذي بنيته لسلسلة مقاهٍ واعتُمد في 5 فروع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تبيعونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك إيه جيه فيتنس الخوير. اطلعت على صفحتك.",
+  "title": "لـ إيه جيه فيتنس الخوير | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}

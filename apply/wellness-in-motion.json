@@ -1,0 +1,129 @@
+{
+ "slug": "wellness-in-motion",
+ "company": "Community - Wellness In Motion",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Community - Wellness In Motion | Abdelrahman Elsayed",
+  "tag": "Prepared for Community - Wellness In Motion",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Let people see the session <em>before they book it.</em>",
+  "lead": "Hi team, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and video for Gulf brands. I saw that Community in Qurum offers EMS training, so I made this page with ideas for explaining the experience step by step.",
+  "why_title": "What I could do for Community - Wellness In Motion",
+  "why": [
+   {
+    "h": "Motion explainers",
+    "p": "A short animated video that walks through an EMS session from arrival to finish."
+   },
+   {
+    "h": "AI visuals",
+    "p": "Clear, friendly visuals of the experience, finished by hand."
+   },
+   {
+    "h": "Simple social content",
+    "p": "Posts and stories in one look that answer the common questions new clients ask."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Community - Wellness In Motion. I saw your page.",
+  "mail_subject": "Collaboration idea for Community - Wellness In Motion"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ كوميونيتي - ويلنس إن موشن",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "دعوا الناس يرون الجلسة <em>قبل أن يحجزوها.</em>",
+  "lead": "أهلاً فريق العمل، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. لاحظت أن كوميونيتي في القرم تقدم تدريب EMS، فجهزت لكم هذه الصفحة بأفكار لشرح التجربة خطوة بخطوة.",
+  "why_title": "ماذا أستطيع أن أقدم لـ كوميونيتي - ويلنس إن موشن",
+  "why": [
+   {
+    "h": "فيديوهات موشن توضيحية",
+    "p": "فيديو متحرك قصير يشرح جلسة EMS من الوصول إلى النهاية."
+   },
+   {
+    "h": "صور بالذكاء الاصطناعي",
+    "p": "صور واضحة ومريحة للتجربة، أكملتها يدوياً."
+   },
+   {
+    "h": "محتوى بسيط للسوشيال",
+    "p": "بوستات وستوريز بهوية واحدة تجيب عن أسئلة العملاء الجدد المتكررة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تبيعونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك كوميونيتي - ويلنس إن موشن. اطلعت على صفحتك.",
+  "title": "لـ كوميونيتي - ويلنس إن موشن | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

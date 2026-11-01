@@ -1,0 +1,129 @@
+{
+ "slug": "spare-room-gym",
+ "company": "Spare Room Gym",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Spare Room Gym | Abdelrahman Elsayed",
+  "tag": "Prepared for Spare Room Gym",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Let clients meet <em>the coach first.</em>",
+  "lead": "Hi Spare Room team, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and video for Gulf brands. I saw your private training with certified coaches in Muscat, so I made this page with ideas to present them.",
+  "why_title": "What I could do for Spare Room Gym",
+  "why": [
+   {
+    "h": "Coach intro reels",
+    "p": "A short reel for each coach: who they are, how they train and who they help."
+   },
+   {
+    "h": "AI visuals for the private experience",
+    "p": "Calm, premium visuals that suit a one to one service, finished by hand."
+   },
+   {
+    "h": "A consistent look",
+    "p": "Posts, stories and offers that feel like one private studio."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Spare Room Gym. I saw your page.",
+  "mail_subject": "Collaboration idea for Spare Room Gym"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ سبير روم جيم",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "اجعلوا العميل يتعرف <em>على المدرب أولاً.</em>",
+  "lead": "أهلاً فريق سبير روم، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. اطلعت على التدريب الخاص مع مدربين معتمدين في مسقط، فجهزت لكم هذه الصفحة بأفكار لعرضهم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ سبير روم جيم",
+  "why": [
+   {
+    "h": "ريلز تعريفية بالمدربين",
+    "p": "ريل قصير لكل مدرب: من هو وكيف يدرّب ولمن."
+   },
+   {
+    "h": "صور بالذكاء الاصطناعي لتجربة التدريب الخاص",
+    "p": "صور هادئة وراقية تناسب خدمة فردية، أكملتها يدوياً."
+   },
+   {
+    "h": "هوية بصرية متناسقة",
+    "p": "بوستات وستوريز وعروض تظهر كأنها استوديو خاص واحد."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تبيعونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك سبير روم جيم. اطلعت على صفحتك.",
+  "title": "لـ سبير روم جيم | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}
