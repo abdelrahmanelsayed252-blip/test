@@ -1,0 +1,128 @@
+{
+ "slug": "wujha",
+ "company": "WUJHA Development",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For WUJHA Development | Abdelrahman Elsayed",
+  "tag": "Prepared for WUJHA Development",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Show people the life <em>before the keys.</em>",
+  "lead": "Hi WUJHA team, I'm Abdelrahman, a graphic and motion designer who makes AI property visuals and video for Gulf brands. I made this page with a few ideas for Uptown Muscat and Central 7.",
+  "why_title": "What I could do for WUJHA Development",
+  "why": [
+   {
+    "h": "Lifestyle scenes from your renders",
+    "p": "Families, evenings and everyday moments placed into your projects, finished by hand in Photoshop."
+   },
+   {
+    "h": "Launch reels",
+    "p": "Animated renders and short motion reels for social, ads and the sales office screens. I made an AI podcast host for a Saudi real estate exhibition (Siredo 2026)."
+   },
+   {
+    "h": "One look per project",
+    "p": "Posts, stories and brochure pages that keep each project easy to recognise."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on the project, the buyer and the launch date."
+   },
+   {
+    "h": "A first scene",
+    "p": "One lifestyle scene or short reel made from your own renders."
+   },
+   {
+    "h": "Launch kit",
+    "p": "Posts, stories, ads and brochure pages in one look."
+   },
+   {
+    "h": "Steady content",
+    "p": "New visuals every week until the project sells."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is WUJHA Development. I saw your page.",
+  "mail_subject": "Collaboration idea for WUJHA Development"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ وجهة للتطوير",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "أروا الناس الحياة <em>قبل تسليم المفاتيح.</em>",
+  "lead": "أهلاً فريق وجهة، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج صوراً وفيديوهات عقارية بالذكاء الاصطناعي لعلامات تجارية خليجية. جهزت لكم هذه الصفحة بأفكار لمشروعي أب تاون مسقط وسنترال 7.",
+  "why_title": "ماذا أستطيع أن أقدم لـ وجهة للتطوير",
+  "why": [
+   {
+    "h": "مشاهد حياة من رندراتكم",
+    "p": "عائلات وأمسيات ولحظات يومية داخل مشاريعكم، أكملها يدوياً على فوتوشوب."
+   },
+   {
+    "h": "ريلز الإطلاق",
+    "p": "تحريك الرندرات وريلز موشن قصيرة للسوشيال والإعلانات وشاشات مكتب المبيعات. صممت مقدّم بودكاست بالذكاء الاصطناعي لمعرض عقاري سعودي (سيريدو 2026)."
+   },
+   {
+    "h": "هوية لكل مشروع",
+    "p": "بوستات وستوريز وصفحات بروشور تجعل كل مشروع سهل التمييز."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن المشروع والمشتري وموعد الإطلاق."
+   },
+   {
+    "h": "مشهد أول",
+    "p": "مشهد حياة واحد أو ريل قصير من رندرات مشروعكم."
+   },
+   {
+    "h": "حزمة الإطلاق",
+    "p": "بوستات وستوريز وإعلانات وصفحات بروشور بنفس الشكل."
+   },
+   {
+    "h": "محتوى منتظم",
+    "p": "صور جديدة كل أسبوع حتى يكتمل البيع."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك وجهة للتطوير. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}

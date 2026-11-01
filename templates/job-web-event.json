@@ -1,0 +1,127 @@
+{
+ "slug": "abhar",
+ "company": "Abhar",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Abhar | Event Website Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Abhar · Muscat",
+  "eyebrow": "Application · Event Website Designer",
+  "h1": "Your guests meet the event on their phone, <em>days before they arrive.</em>",
+  "lead": "Hi Abhar team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. I saw your opening for an Event Website Designer in Muscat, so I made this page for you instead of sending a plain CV.",
+  "why_title": "What I'd bring to Abhar",
+  "why": [
+   {
+    "h": "Design that sells the event",
+    "p": "6+ years of key visuals and campaigns for Gulf brands, with strong Arabic and English typography. The site should feel like the event before anyone walks in."
+   },
+   {
+    "h": "Pages I build myself",
+    "p": "I design the page and build it too. One example is a self-serve worker CV page for a Saudi recruitment agency, live at <a href=\"https://taraf-cv.vercel.app/\" target=\"_blank\">taraf-cv.vercel.app</a>. I also built a staff app now approved for 5 café branches."
+   },
+   {
+    "h": "Promo content in the same look",
+    "p": "Motion reels, AI teaser videos and stories that push people to register, so the site and the campaign feel like one piece."
+   }
+  ],
+  "steps_title": "An event site, step by step",
+  "steps_sub": "Simple enough to repeat for every event you run.",
+  "steps": [
+   {
+    "h": "Message and key visual",
+    "p": "Agree the event's message, audience and one key visual that everything else follows."
+   },
+   {
+    "h": "One-page build",
+    "p": "Mobile-first, Arabic and English, with agenda, speakers, location and a clear registration button."
+   },
+   {
+    "h": "Launch kit",
+    "p": "Reels, stories and posts in the same look, ready for launch day."
+   },
+   {
+    "h": "Live updates",
+    "p": "Quick changes during the event, then a recap page with photos and video after it."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Abhar about the Event Website Designer role",
+  "mail_subject": "Abhar - Event Website Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لشركة أبهر · مسقط",
+  "eyebrow": "طلب توظيف · مصمم مواقع فعاليات",
+  "h1": "ضيوفكم يتعرفون على الفعالية من جوالهم، <em>قبل وصولهم بأيام.</em>",
+  "lead": "أهلاً فريق أبهر، معكم عبدالرحمن السيد، مصمم جرافيك وموشن وأبني صفحات الويب بنفسي. شاهدت إعلانكم عن وظيفة مصمم مواقع فعاليات في مسقط، فجهزت لكم هذه الصفحة بدلاً من سيرة ذاتية تقليدية.",
+  "why_title": "ماذا أضيف لأبهر",
+  "why": [
+   {
+    "h": "تصميم يبيع الفعالية",
+    "p": "أكثر من 6 سنوات في تصميم الحملات والهويات لعلامات تجارية خليجية، بخط عربي وإنجليزي قوي. يجب أن يعطي الموقع إحساس الفعالية قبل الحضور."
+   },
+   {
+    "h": "صفحات أبنيها بنفسي",
+    "p": "أصمم الصفحة وأبنيها أيضاً. مثال: صفحة سير ذاتية لمكتب استقدام سعودي، متاحة على <a href=\"https://taraf-cv.vercel.app/\" target=\"_blank\">taraf-cv.vercel.app</a>. وبنيت تطبيق موظفين معتمد لـ 5 فروع مقاهي."
+   },
+   {
+    "h": "محتوى ترويجي بنفس الهوية",
+    "p": "ريلز موشن وفيديوهات تشويقية بالذكاء الاصطناعي وستوريز تدفع الجمهور للتسجيل، فيظهر الموقع والحملة كقطعة واحدة."
+   }
+  ],
+  "steps_title": "موقع الفعالية خطوة بخطوة",
+  "steps_sub": "طريقة بسيطة تتكرر مع كل فعالية.",
+  "steps": [
+   {
+    "h": "الرسالة والصورة الرئيسية",
+    "p": "نتفق على رسالة الفعالية والجمهور وصورة رئيسية واحدة يُبنى عليها كل شيء."
+   },
+   {
+    "h": "بناء صفحة واحدة",
+    "p": "مناسبة للجوال، بالعربي والإنجليزي، فيها البرنامج والمتحدثون والموقع وزر تسجيل واضح."
+   },
+   {
+    "h": "حزمة الإطلاق",
+    "p": "ريلز وستوريز وبوستات بنفس الشكل، جاهزة ليوم الإطلاق."
+   },
+   {
+    "h": "تحديثات وقت الفعالية",
+    "p": "تعديلات سريعة أثناء الفعالية، وبعدها صفحة ملخص بالصور والفيديو."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك أبهر بخصوص وظيفة مصمم مواقع الفعاليات"
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "id-carly",
+   "en_title": "Identity · CARLY",
+   "en_cap": "Logo, palette, type and mockups.",
+   "ar_title": "هوية · CARLY",
+   "ar_cap": "شعار وألوان وخطوط ونماذج تطبيق."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
+}

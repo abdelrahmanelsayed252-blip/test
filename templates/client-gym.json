@@ -1,0 +1,129 @@
+{
+ "slug": "reform-pilates",
+ "company": "Reform Pilates Studio",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Reform Pilates Studio | Abdelrahman Elsayed",
+  "tag": "Prepared for Reform Pilates Studio",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Every class explained <em>in thirty seconds.</em>",
+  "lead": "Hi Reform Pilates team, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and video for Gulf brands. I saw how many different classes the studio offers in Muscat, so I made this page with ideas for explaining each one clearly.",
+  "why_title": "What I could do for Reform Pilates Studio",
+  "why": [
+   {
+    "h": "Short motion reels per class",
+    "p": "A calm 20 to 30 second reel for each class showing what it is, who it suits and what to expect."
+   },
+   {
+    "h": "Story designs with one look",
+    "p": "Weekly timetable and class-of-the-day stories in the studio's own colours, easy to repeat."
+   },
+   {
+    "h": "Clean visuals for the website and booking",
+    "p": "Consistent images and banners so the page and social feel like the same studio."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Reform Pilates Studio. I saw your page.",
+  "mail_subject": "Collaboration idea for Reform Pilates Studio"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ استوديو ريفورم بيلاتس",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "كل حصة مشروحة <em>في ثلاثين ثانية.</em>",
+  "lead": "أهلاً فريق ريفورم بيلاتس، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. لاحظت تنوع الحصص في الاستوديو بمسقط، فجهزت لكم هذه الصفحة بأفكار لشرح كل حصة بوضوح.",
+  "why_title": "ماذا أستطيع أن أقدم لـ استوديو ريفورم بيلاتس",
+  "why": [
+   {
+    "h": "ريلز موشن قصيرة لكل حصة",
+    "p": "ريل هادئ مدته 20 إلى 30 ثانية لكل حصة يوضح ما هي ولمن تناسب وماذا يتوقع الحاضر."
+   },
+   {
+    "h": "ستوريز بهوية ثابتة",
+    "p": "جدول أسبوعي وحصة اليوم بألوان الاستوديو نفسها وبشكل سهل التكرار."
+   },
+   {
+    "h": "صور نظيفة للموقع والحجز",
+    "p": "صور وبنرات متناسقة ليظهر الموقع والسوشيال كأنهما استوديو واحد."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تبيعونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك استوديو ريفورم بيلاتس. اطلعت على صفحتك.",
+  "title": "لـ استوديو ريفورم بيلاتس | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  }
+ ],
+ "kind": "client"
+}

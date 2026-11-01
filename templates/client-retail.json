@@ -1,0 +1,128 @@
+{
+ "slug": "fahmy-furniture",
+ "company": "Fahmy Furniture",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Fahmy Furniture | Abdelrahman Elsayed",
+  "tag": "Prepared for Fahmy Furniture",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Every piece in a room, <em>without a photo shoot.</em>",
+  "lead": "Hi Fahmy Furniture team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and video for Gulf brands. I made this page with a few ideas for showing your furniture.",
+  "why_title": "What I could do for Fahmy Furniture",
+  "why": [
+   {
+    "h": "AI room scenes",
+    "p": "Your products placed in styled rooms, finished by hand so they look real."
+   },
+   {
+    "h": "Product reels",
+    "p": "Short motion reels for new arrivals and offers."
+   },
+   {
+    "h": "One look for every channel",
+    "p": "Posts, stories and catalogue pages in the same style."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Fahmy Furniture. I saw your page.",
+  "mail_subject": "Collaboration idea for Fahmy Furniture"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ فهمي للأثاث",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "كل قطعة داخل غرفة، <em>بدون جلسة تصوير.</em>",
+  "lead": "أهلاً فريق فهمي للأثاث، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وفيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. جهزت لكم هذه الصفحة بأفكار لعرض أثاثكم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ فهمي للأثاث",
+  "why": [
+   {
+    "h": "مشاهد غرف بالذكاء الاصطناعي",
+    "p": "منتجاتكم داخل غرف منسقة، مكتملة يدوياً لتبدو حقيقية."
+   },
+   {
+    "h": "ريلز للمنتجات",
+    "p": "ريلز موشن قصيرة للوصول الجديد والعروض."
+   },
+   {
+    "h": "هوية واحدة في كل القنوات",
+    "p": "بوستات وستوريز وصفحات كتالوج بنفس الأسلوب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تبيعونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك فهمي للأثاث. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}
