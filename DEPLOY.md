@@ -6,7 +6,7 @@ Domain: https://abdelrahmanelsayed.vercel.app (Vercel project abdelrahman-elsaye
 - Every company page is rendered by ONE shell, apply.html, at /apply/<slug>. It loads /data/<slug>.json. Pages always open in English; the top button switches the whole page to Arabic (GE SS fonts).
 
 ## Add a company page
-1. Copy apply/abhar.json (web/event roles) or apply/misk.json (AI content / real estate) to apply/<slug>.json. Rewrite every "en" and "ar" string for that company (Arabic in clean Gulf-friendly Arabic). Pick 4 images from /w/. Set "cv" to "AI" or "Designer".
+1. Jobs: copy apply/abhar.json (web/event roles) or apply/misk.json (AI content / real estate). Clients (cafes, gyms, clinics, real estate, retail): copy apply/client-template.json, which has "kind": "client" (hides relocation/start facts). Rewrite every "en" and "ar" string for that company (Arabic in clean Gulf-friendly Arabic). Pick 4 images from /w/. No CV anywhere on pages.
 2. Commit and push to main. Note the new HEAD sha.
 3. In vercel.json replace the old 40-char commit sha with the new HEAD sha (all rewrites). Commit + push.
 4. Vercel create_deployment with ONLY: vercel.json (inline, utf-8), apply.html and index.html referenced by {file, sha1, size} of the repo files (inline them only if Vercel says they are missing).

@@ -35,7 +35,7 @@
   });
 
   function render(d){
-    var E=d.en, A=d.ar, cv="/cv/Abdelrahman_Elsayed_CV_"+(d.cv||"AI")+".pdf";
+    var E=d.en, A=d.ar;
     document.title = E.title;
     var why = E.why.map(function(e,i){var a=A.why[i];return '<div class="tcard"><div class="n">0'+(i+1)+'</div><h3>'+t(e.h,a.h)+'</h3><p>'+t(e.p,a.p)+'</p></div>'}).join("");
     var steps = E.steps.map(function(e,i){var a=A.steps[i];return '<div class="tcard"><div class="n">'+(i+1)+'</div><h3>'+t(e.h,a.h)+'</h3><p>'+t(e.p,a.p)+'</p></div>'}).join("");
@@ -53,25 +53,30 @@
   '<p class="lead">'+t(E.lead,A.lead)+'</p>'+
   '<div class="btns">'+
     '<a class="btn primary" href="#talk">'+t("Book 15 minutes","نحجز 15 دقيقة")+'</a>'+
-    '<a class="btn" href="'+cv+'" target="_blank">'+t("Download CV","تحميل السيرة الذاتية")+'</a>'+
     '<a class="btn" href="'+PDF+'" target="_blank">'+t("Full portfolio with videos ↗","البورتفوليو كاملاً مع الفيديوهات ↗")+'</a>'+
   '</div>'+
 '</div>'+
 '<section><div class="sec-head"><h2><small>'+t("Why me","لماذا أنا")+'</small>'+t(E.why_title,A.why_title)+'</h2></div><div class="grid g3">'+why+'</div></section>'+
 '<section><div class="sec-head"><h2><small>'+t("How I work","أسلوبي في العمل")+'</small>'+t(E.steps_title,A.steps_title)+'</h2><p>'+t(E.steps_sub,A.steps_sub)+'</p></div><div class="grid g2">'+steps+'</div></section>'+
 '<section><div class="sec-head"><h2><small>'+t("Selected work","نماذج من أعمالي")+'</small>'+t("A few pieces","بعض الأعمال")+'</h2><p>'+t('More in the <a href="'+PDF+'" target="_blank">full portfolio</a>, with the AI videos linked inside.','المزيد في <a href="'+PDF+'" target="_blank">البورتفوليو الكامل</a> مع روابط فيديوهات الذكاء الاصطناعي.')+'</p></div><div class="grid g2">'+imgs+'</div></section>'+
+(d.kind==="client" ?
+'<section><div class="facts" style="margin-top:0">'+
+  '<span><b>'+t("Experience","الخبرة")+'</b> '+t("6+ years","أكثر من 6 سنوات")+'</span>'+
+  '<span><b>'+t("Brands","العلامات")+'</b> '+t("20+ across the Gulf","أكثر من 20 علامة في الخليج")+'</span>'+
+  '<span><b>'+t("One place","في مكان واحد")+'</b> '+t("design, motion, AI video","تصميم وموشن وفيديو بالذكاء الاصطناعي")+'</span>'+
+  '<span><b>'+t("Languages","اللغات")+'</b> '+t("Arabic, English","العربية والإنجليزية")+'</span>'+
+'</div></section>' :
 '<section><div class="facts" style="margin-top:0">'+
   '<span><b>'+t("Nationality","الجنسية")+'</b> '+t("Egyptian","مصري")+'</span>'+
   '<span><b>'+t("Relocation","الانتقال")+'</b> '+t("ready to move to "+cEn,"مستعد للانتقال إلى "+cAr)+'</span>'+
   '<span><b>'+t("Start","المباشرة")+'</b> '+t("within 1 week","خلال أسبوع")+'</span>'+
   '<span><b>'+t("Driving licence","رخصة قيادة")+'</b> '+t("yes","نعم")+'</span>'+
   '<span><b>'+t("Languages","اللغات")+'</b> '+t("Arabic, English","العربية والإنجليزية")+'</span>'+
-'</div></section>'+
+'</div></section>')+
 '<div class="cta" id="talk"><h2>'+t(E.cta_h,A.cta_h)+'</h2><p>'+t(E.cta_p,A.cta_p)+'</p><div class="btns">'+
   '<a class="btn primary en-t" href="https://wa.me/'+WA+'?text='+encodeURIComponent(E.wa_text)+'" target="_blank">WhatsApp me</a>'+
   '<a class="btn primary ar-t" href="https://wa.me/'+WA+'?text='+encodeURIComponent(A.wa_text)+'" target="_blank">تواصلوا عبر واتساب</a>'+
   '<a class="btn" href="mailto:abdelrahmanelsayed252@gmail.com?subject='+encodeURIComponent(E.mail_subject||E.title)+'">'+t("Email me","راسلوني بالبريد")+'</a>'+
-  '<a class="btn" href="'+cv+'" target="_blank">'+t("Download CV","تحميل السيرة الذاتية")+'</a>'+
 '</div></div>'+
 '</main>'+
 '<footer><div class="wrap"><span>'+t("Abdelrahman Elsayed","عبدالرحمن السيد")+' · <span dir="ltr">+20 101 981 5508</span></span><a href="https://www.linkedin.com/in/abdelrahman-elsayed-8a51b51ba" target="_blank">LinkedIn ↗</a></div></footer>';

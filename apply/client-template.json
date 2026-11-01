@@ -1,0 +1,128 @@
+{
+ "slug": "client-template",
+ "company": "Template",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A content idea for your brand | Abdelrahman Elsayed",
+  "tag": "Prepared for your brand",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Your next customers decide in <em>the first three seconds.</em>",
+  "lead": "Hi team, I'm Abdelrahman, a graphic and motion designer who also produces AI visuals and video for Gulf brands. I looked at how you show up online and made this page with a few ideas for you.",
+  "why_title": "What I could do for you",
+  "why": [
+   {
+    "h": "Product and place visuals",
+    "p": "Clean, appetising images of what you sell, finished by hand so they look designed, not generated."
+   },
+   {
+    "h": "Short videos for social",
+    "p": "Reels and ads in Arabic and English, from AI product scenes to motion graphics."
+   },
+   {
+    "h": "One consistent look",
+    "p": "Posts, stories and menus or brochures in the same style, so people recognise you at a glance."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Collaboration idea"
+ },
+ "ar": {
+  "tag": "مُعدّة لعلامتكم التجارية",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "عملاؤكم القادمون يقررون في <em>أول ثلاث ثوانٍ.</em>",
+  "lead": "أهلاً فريق العمل، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. اطلعت على حضوركم على الإنترنت وجهزت لكم هذه الصفحة بأفكار مقترحة.",
+  "why_title": "ماذا أستطيع أن أقدم لكم",
+  "why": [
+   {
+    "h": "صور للمنتج والمكان",
+    "p": "صور نظيفة وجذابة لما تبيعونه، أكملها يدوياً لتظهر مصممة باحتراف وليست مولّدة."
+   },
+   {
+    "h": "فيديوهات قصيرة للسوشيال",
+    "p": "ريلز وإعلانات بالعربية والإنجليزية، من مشاهد المنتج بالذكاء الاصطناعي إلى الموشن جرافيك."
+   },
+   {
+    "h": "هوية بصرية متناسقة",
+    "p": "بوستات وستوريز وقوائم أو بروشورات بنفس الأسلوب، ليتعرف عليكم الناس من النظرة الأولى."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تبيعونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  }
+ ],
+ "kind": "client"
+}
