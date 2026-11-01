@@ -1,128 +1,127 @@
 {
-  "slug": "ark47",
-  "company": "ARK47 Studio",
-  "default_lang": "en",
-  "cv": "Designer",
-  "country_en": "Saudi Arabia",
-  "country_ar": "السعودية",
-  "en": {
-    "title": "For ARK47 Studio | Video Editor & Motion Designer, Abdelrahman Elsayed",
-    "tag": "Prepared for ARK47 Studio · Riyadh",
-    "eyebrow": "Application · Video Editor & Motion Designer",
-    "h1": "Show a business owner <em>their system being built in seconds.</em>",
-    "lead": "Hi ARK47 team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands. I also build internal tools with AI myself: a staff app I made with Claude Code was approved for 5 branches. So I know the moment your app sells.",
-    "why_title": "What I'd bring to ARK47",
-    "why": [
-      {
-        "h": "Screen recordings that sell",
-        "p": "Short edits that turn an app demo into a clear before and after, with Arabic and English titles."
-      },
-      {
-        "h": "Motion in After Effects",
-        "p": "Titles, subtitles and simple UI motion that explain a feature in a few seconds."
-      },
-      {
-        "h": "I've been your user",
-        "p": "I built a staff app for a café chain with AI, so I can show the owner's side of the story."
-      }
-    ],
-    "steps_title": "One feature, one video",
-    "steps_sub": "A repeatable plan for app store and social videos.",
-    "steps": [
-      {
-        "h": "Pick the moment",
-        "p": "One owner problem and the screen that solves it."
-      },
-      {
-        "h": "Record and cut",
-        "p": "Screen capture plus footage, edited to a strong hook."
-      },
-      {
-        "h": "Motion and subtitles",
-        "p": "Arabic and English titles, sized for each platform and store."
-      },
-      {
-        "h": "Learn and plan",
-        "p": "Use each video's results to plan the next one."
-      }
-    ],
-    "cta_h": "Can we talk for 15 minutes?",
-    "cta_p": "I can relocate to Riyadh and start within a week.",
-    "wa_text": "Hi Abdelrahman, this is ARK47 about the Video Editor and Motion Designer role",
-    "mail_subject": "ARK47 - Video Editor & Motion Designer"
+ "slug": "ark47",
+ "company": "ARK47 Studio",
+ "default_lang": "en",
+ "country_en": "Saudi Arabia",
+ "country_ar": "السعودية",
+ "en": {
+  "title": "For ARK47 Studio | Video Editor & Motion Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for ARK47 Studio · Riyadh",
+  "eyebrow": "Application · Video Editor & Motion Designer",
+  "h1": "Show a business owner <em>their system being built in seconds.</em>",
+  "lead": "Hi ARK47 team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands. I also build internal tools with AI myself: a staff app I made with Claude Code was approved for 5 branches. So I know the moment your app sells.",
+  "why_title": "What I'd bring to ARK47",
+  "why": [
+   {
+    "h": "Screen recordings that sell",
+    "p": "Short edits that turn an app demo into a clear before and after, with Arabic and English titles."
+   },
+   {
+    "h": "Motion in After Effects",
+    "p": "Titles, subtitles and simple UI motion that explain a feature in a few seconds."
+   },
+   {
+    "h": "I've been your user",
+    "p": "I built a staff app for a café chain with AI, so I can show the owner's side of the story."
+   }
+  ],
+  "steps_title": "One feature, one video",
+  "steps_sub": "A repeatable plan for app store and social videos.",
+  "steps": [
+   {
+    "h": "Pick the moment",
+    "p": "One owner problem and the screen that solves it."
+   },
+   {
+    "h": "Record and cut",
+    "p": "Screen capture plus footage, edited to a strong hook."
+   },
+   {
+    "h": "Motion and subtitles",
+    "p": "Arabic and English titles, sized for each platform and store."
+   },
+   {
+    "h": "Learn and plan",
+    "p": "Use each video's results to plan the next one."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "I can relocate to Riyadh and start within a week.",
+  "wa_text": "Hi Abdelrahman, this is ARK47 about the Video Editor and Motion Designer role",
+  "mail_subject": "ARK47 - Video Editor & Motion Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ARK47 Studio · الرياض",
+  "eyebrow": "طلب توظيف · مونتير ومصمم موشن",
+  "h1": "أروا صاحب العمل <em>نظامه وهو يُبنى في ثوانٍ.</em>",
+  "lead": "أهلاً فريق ARK47، معكم عبدالرحمن السيد، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. أبني أيضاً أدوات داخلية بالذكاء الاصطناعي بنفسي، وتطبيق للموظفين صممته بـ Claude Code اعتُمد في 5 فروع. لذلك أعرف اللحظة التي يبيع فيها تطبيقكم.",
+  "why_title": "ماذا أضيف لـ ARK47",
+  "why": [
+   {
+    "h": "تسجيلات شاشة تبيع",
+    "p": "مونتاج قصير يحوّل عرض التطبيق إلى قبل وبعد واضح، بعناوين عربية وإنجليزية."
+   },
+   {
+    "h": "موشن على أفتر إفكتس",
+    "p": "عناوين وترجمة وحركة بسيطة للواجهة تشرح الميزة في ثوانٍ."
+   },
+   {
+    "h": "كنت مستخدماً مثل عملائكم",
+    "p": "بنيت تطبيقاً للموظفين لسلسلة مقاهٍ بالذكاء الاصطناعي، فأعرف جانب صاحب العمل من القصة."
+   }
+  ],
+  "steps_title": "ميزة واحدة، فيديو واحد",
+  "steps_sub": "خطة تتكرر لفيديوهات المتاجر والسوشيال.",
+  "steps": [
+   {
+    "h": "اختيار اللحظة",
+    "p": "مشكلة واحدة لصاحب العمل والشاشة التي تحلها."
+   },
+   {
+    "h": "التسجيل والمونتاج",
+    "p": "تسجيل الشاشة مع لقطات مصورة، ببداية قوية."
+   },
+   {
+    "h": "الموشن والترجمة",
+    "p": "عناوين عربية وإنجليزية بمقاس كل منصة ومتجر."
+   },
+   {
+    "h": "التعلم والتخطيط",
+    "p": "نتائج كل فيديو تحدد الفيديو التالي."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "مستعد للانتقال إلى الرياض والبدء خلال أسبوع.",
+  "wa_text": "أهلاً عبدالرحمن، معك ARK47 بخصوص وظيفة المونتير ومصمم الموشن"
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
   },
-  "ar": {
-    "tag": "مُعدّة لـ ARK47 Studio · الرياض",
-    "eyebrow": "طلب توظيف · مونتير ومصمم موشن",
-    "h1": "أروا صاحب العمل <em>نظامه وهو يُبنى في ثوانٍ.</em>",
-    "lead": "أهلاً فريق ARK47، معكم عبدالرحمن السيد، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. أبني أيضاً أدوات داخلية بالذكاء الاصطناعي بنفسي، وتطبيق للموظفين صممته بـ Claude Code اعتُمد في 5 فروع. لذلك أعرف اللحظة التي يبيع فيها تطبيقكم.",
-    "why_title": "ماذا أضيف لـ ARK47",
-    "why": [
-      {
-        "h": "تسجيلات شاشة تبيع",
-        "p": "مونتاج قصير يحوّل عرض التطبيق إلى قبل وبعد واضح، بعناوين عربية وإنجليزية."
-      },
-      {
-        "h": "موشن على أفتر إفكتس",
-        "p": "عناوين وترجمة وحركة بسيطة للواجهة تشرح الميزة في ثوانٍ."
-      },
-      {
-        "h": "كنت مستخدماً مثل عملائكم",
-        "p": "بنيت تطبيقاً للموظفين لسلسلة مقاهٍ بالذكاء الاصطناعي، فأعرف جانب صاحب العمل من القصة."
-      }
-    ],
-    "steps_title": "ميزة واحدة، فيديو واحد",
-    "steps_sub": "خطة تتكرر لفيديوهات المتاجر والسوشيال.",
-    "steps": [
-      {
-        "h": "اختيار اللحظة",
-        "p": "مشكلة واحدة لصاحب العمل والشاشة التي تحلها."
-      },
-      {
-        "h": "التسجيل والمونتاج",
-        "p": "تسجيل الشاشة مع لقطات مصورة، ببداية قوية."
-      },
-      {
-        "h": "الموشن والترجمة",
-        "p": "عناوين عربية وإنجليزية بمقاس كل منصة ومتجر."
-      },
-      {
-        "h": "التعلم والتخطيط",
-        "p": "نتائج كل فيديو تحدد الفيديو التالي."
-      }
-    ],
-    "cta_h": "نتكلم 15 دقيقة؟",
-    "cta_p": "مستعد للانتقال إلى الرياض والبدء خلال أسبوع.",
-    "wa_text": "أهلاً عبدالرحمن، معك ARK47 بخصوص وظيفة المونتير ومصمم الموشن"
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
   },
-  "images": [
-    {
-      "src": "motion-pancakes",
-      "en_title": "Motion · Pancakes Coffee",
-      "en_cap": "Product and offer reels in After Effects.",
-      "ar_title": "موشن · Pancakes Coffee",
-      "ar_cap": "ريلز للمنتجات والعروض على After Effects."
-    },
-    {
-      "src": "ai-pancakes",
-      "en_title": "AI product scene · Pancakes Coffee",
-      "en_cap": "Each product scene made in under an hour.",
-      "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
-      "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
-    },
-    {
-      "src": "social-1",
-      "en_title": "Social design · Gulf brands",
-      "en_cap": "Posts and stories in Arabic and English.",
-      "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
-      "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
-    },
-    {
-      "src": "ai-video-zone",
-      "en_title": "AI video · UAE brand",
-      "en_cap": "UGC-style ads with AI characters and voice.",
-      "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
-      "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
-    }
-  ]
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ]
 }

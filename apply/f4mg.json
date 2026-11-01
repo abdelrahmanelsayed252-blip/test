@@ -1,128 +1,127 @@
 {
-  "slug": "f4mg",
-  "company": "F4MG",
-  "default_lang": "en",
-  "cv": "AI",
-  "country_en": "UAE",
-  "country_ar": "الإمارات",
-  "en": {
-    "title": "For F4MG | AI Content Creator, Abdelrahman Elsayed",
-    "tag": "Prepared for F4MG · Dubai",
-    "eyebrow": "Application · AI Content Creator",
-    "h1": "Turn every service into <em>a short video people finish.</em>",
-    "lead": "Hi F4MG team, I'm Abdelrahman, a graphic and motion designer and AI content creator with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. You want AI video, avatars, voiceovers and ads, so here is what I've already shipped.",
-    "why_title": "What I'd bring to F4MG",
-    "why": [
-      {
-        "h": "AI ads already live in the UAE",
-        "p": "UGC-style ads for Ozone International with AI characters and voice."
-      },
-      {
-        "h": "Avatars and voiceovers",
-        "p": "Talking-character ads in Gulf dialect and an AI podcast host, made with Higgsfield, Kling, Veo 3 and ElevenLabs."
-      },
-      {
-        "h": "Edited like a designer",
-        "p": "Final cut in Premiere and After Effects, with hooks, captions and motion graphics."
-      }
-    ],
-    "steps_title": "A week of content",
-    "steps_sub": "How I'd keep Reels, Shorts and ads coming.",
-    "steps": [
-      {
-        "h": "Script",
-        "p": "Hooks and captions for one service at a time."
-      },
-      {
-        "h": "Generate",
-        "p": "AI visuals, avatars and voice in a consistent look."
-      },
-      {
-        "h": "Edit",
-        "p": "Platform-sized cuts for Instagram, TikTok, YouTube and Facebook."
-      },
-      {
-        "h": "Automate",
-        "p": "Templates and AI tools that speed up the next batch."
-      }
-    ],
-    "cta_h": "Can we talk for 15 minutes?",
-    "cta_p": "I can relocate to Dubai and start within a week.",
-    "wa_text": "Hi Abdelrahman, this is F4MG about the AI Content Creator role",
-    "mail_subject": "F4MG - AI Content Creator"
+ "slug": "f4mg",
+ "company": "F4MG",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For F4MG | AI Content Creator, Abdelrahman Elsayed",
+  "tag": "Prepared for F4MG · Dubai",
+  "eyebrow": "Application · AI Content Creator",
+  "h1": "Turn every service into <em>a short video people finish.</em>",
+  "lead": "Hi F4MG team, I'm Abdelrahman, a graphic and motion designer and AI content creator with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. You want AI video, avatars, voiceovers and ads, so here is what I've already shipped.",
+  "why_title": "What I'd bring to F4MG",
+  "why": [
+   {
+    "h": "AI ads already live in the UAE",
+    "p": "UGC-style ads for Ozone International with AI characters and voice."
+   },
+   {
+    "h": "Avatars and voiceovers",
+    "p": "Talking-character ads in Gulf dialect and an AI podcast host, made with Higgsfield, Kling, Veo 3 and ElevenLabs."
+   },
+   {
+    "h": "Edited like a designer",
+    "p": "Final cut in Premiere and After Effects, with hooks, captions and motion graphics."
+   }
+  ],
+  "steps_title": "A week of content",
+  "steps_sub": "How I'd keep Reels, Shorts and ads coming.",
+  "steps": [
+   {
+    "h": "Script",
+    "p": "Hooks and captions for one service at a time."
+   },
+   {
+    "h": "Generate",
+    "p": "AI visuals, avatars and voice in a consistent look."
+   },
+   {
+    "h": "Edit",
+    "p": "Platform-sized cuts for Instagram, TikTok, YouTube and Facebook."
+   },
+   {
+    "h": "Automate",
+    "p": "Templates and AI tools that speed up the next batch."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "I can relocate to Dubai and start within a week.",
+  "wa_text": "Hi Abdelrahman, this is F4MG about the AI Content Creator role",
+  "mail_subject": "F4MG - AI Content Creator"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ F4MG · دبي",
+  "eyebrow": "طلب توظيف · صانع محتوى بالذكاء الاصطناعي",
+  "h1": "حوّلوا كل خدمة <em>إلى فيديو قصير يُشاهد حتى النهاية.</em>",
+  "lead": "أهلاً فريق F4MG، معكم عبدالرحمن السيد، مصمم جرافيك وموشن وصانع محتوى بالذكاء الاصطناعي بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. تبحثون عن فيديو وأفاتار وتعليق صوتي وإعلانات بالذكاء الاصطناعي، وهذه أعمال أنجزتها فعلاً.",
+  "why_title": "ماذا أضيف لـ F4MG",
+  "why": [
+   {
+    "h": "إعلانات منشورة في الإمارات",
+    "p": "إعلانات بأسلوب UGC لشركة Ozone International بشخصيات وأصوات بالذكاء الاصطناعي."
+   },
+   {
+    "h": "أفاتار وتعليق صوتي",
+    "p": "إعلانات بشخصيات تتحدث باللهجة الخليجية ومقدّم بودكاست، باستخدام Higgsfield وKling وVeo 3 وElevenLabs."
+   },
+   {
+    "h": "مونتاج بعين مصمم",
+    "p": "المونتاج النهائي على بريمير وأفتر إفكتس، ببدايات جاذبة ونصوص وموشن."
+   }
+  ],
+  "steps_title": "أسبوع من المحتوى",
+  "steps_sub": "كيف أحافظ على تدفق الريلز والشورتس والإعلانات.",
+  "steps": [
+   {
+    "h": "السكريبت",
+    "p": "بدايات ونصوص لخدمة واحدة في كل مرة."
+   },
+   {
+    "h": "التوليد",
+    "p": "صور وأفاتار وصوت بالذكاء الاصطناعي بشكل ثابت."
+   },
+   {
+    "h": "المونتاج",
+    "p": "نسخ بمقاس إنستغرام وتيك توك ويوتيوب وفيسبوك."
+   },
+   {
+    "h": "الأتمتة",
+    "p": "قوالب وأدوات ذكاء اصطناعي تسرّع الدفعة التالية."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "مستعد للانتقال إلى دبي والبدء خلال أسبوع.",
+  "wa_text": "أهلاً عبدالرحمن، معك F4MG بخصوص وظيفة صانع المحتوى بالذكاء الاصطناعي"
+ },
+ "images": [
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
   },
-  "ar": {
-    "tag": "مُعدّة لـ F4MG · دبي",
-    "eyebrow": "طلب توظيف · صانع محتوى بالذكاء الاصطناعي",
-    "h1": "حوّلوا كل خدمة <em>إلى فيديو قصير يُشاهد حتى النهاية.</em>",
-    "lead": "أهلاً فريق F4MG، معكم عبدالرحمن السيد، مصمم جرافيك وموشن وصانع محتوى بالذكاء الاصطناعي بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. تبحثون عن فيديو وأفاتار وتعليق صوتي وإعلانات بالذكاء الاصطناعي، وهذه أعمال أنجزتها فعلاً.",
-    "why_title": "ماذا أضيف لـ F4MG",
-    "why": [
-      {
-        "h": "إعلانات منشورة في الإمارات",
-        "p": "إعلانات بأسلوب UGC لشركة Ozone International بشخصيات وأصوات بالذكاء الاصطناعي."
-      },
-      {
-        "h": "أفاتار وتعليق صوتي",
-        "p": "إعلانات بشخصيات تتحدث باللهجة الخليجية ومقدّم بودكاست، باستخدام Higgsfield وKling وVeo 3 وElevenLabs."
-      },
-      {
-        "h": "مونتاج بعين مصمم",
-        "p": "المونتاج النهائي على بريمير وأفتر إفكتس، ببدايات جاذبة ونصوص وموشن."
-      }
-    ],
-    "steps_title": "أسبوع من المحتوى",
-    "steps_sub": "كيف أحافظ على تدفق الريلز والشورتس والإعلانات.",
-    "steps": [
-      {
-        "h": "السكريبت",
-        "p": "بدايات ونصوص لخدمة واحدة في كل مرة."
-      },
-      {
-        "h": "التوليد",
-        "p": "صور وأفاتار وصوت بالذكاء الاصطناعي بشكل ثابت."
-      },
-      {
-        "h": "المونتاج",
-        "p": "نسخ بمقاس إنستغرام وتيك توك ويوتيوب وفيسبوك."
-      },
-      {
-        "h": "الأتمتة",
-        "p": "قوالب وأدوات ذكاء اصطناعي تسرّع الدفعة التالية."
-      }
-    ],
-    "cta_h": "نتكلم 15 دقيقة؟",
-    "cta_p": "مستعد للانتقال إلى دبي والبدء خلال أسبوع.",
-    "wa_text": "أهلاً عبدالرحمن، معك F4MG بخصوص وظيفة صانع المحتوى بالذكاء الاصطناعي"
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
   },
-  "images": [
-    {
-      "src": "ai-video-zone",
-      "en_title": "AI video · UAE brand",
-      "en_cap": "UGC-style ads with AI characters and voice.",
-      "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
-      "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
-    },
-    {
-      "src": "ai-saba",
-      "en_title": "AI campaign · Saba HomeCare",
-      "en_cap": "A consistent AI cast across a full campaign.",
-      "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
-      "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
-    },
-    {
-      "src": "ksa-day-meals",
-      "en_title": "Key visual · Riyadh skyline",
-      "en_cap": "AI-built city scene, finished by hand.",
-      "ar_title": "صورة رئيسية · أفق الرياض",
-      "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
-    },
-    {
-      "src": "ai-pancakes",
-      "en_title": "AI product scene · Pancakes Coffee",
-      "en_cap": "Each product scene made in under an hour.",
-      "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
-      "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
-    }
-  ]
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  }
+ ]
 }

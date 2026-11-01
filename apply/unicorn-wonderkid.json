@@ -1,128 +1,127 @@
 {
-  "slug": "unicorn-wonderkid",
-  "company": "Unicorn Wonderkid Trading",
-  "default_lang": "en",
-  "cv": "AI",
-  "country_en": "Qatar",
-  "country_ar": "قطر",
-  "en": {
-    "title": "For Unicorn Wonderkid | Senior AI Video Creator, Abdelrahman Elsayed",
-    "tag": "Prepared for Unicorn Wonderkid Trading · Doha",
-    "eyebrow": "Application · Senior AI Video Creator & Social Media Manager",
-    "h1": "AI video for finance brands <em>that people trust and watch.</em>",
-    "lead": "Hi, I'm Abdelrahman, a graphic and motion designer and AI content creator with 6+ years of work for Gulf brands. You asked to see finished AI video, not a tool list, so this page leads with the work.",
-    "why_title": "What I'd bring to your brands",
-    "why": [
-      {
-        "h": "AI video for a financing company",
-        "p": "Talking-character ads in Gulf dialect for a Saudi financing company, made with AI video and voice."
-      },
-      {
-        "h": "Consistent AI characters",
-        "p": "A recurring AI podcast host for Siredo 2026 and a consistent cast across a full campaign."
-      },
-      {
-        "h": "Design and edit, start to finish",
-        "p": "Concept, script, Kling and Veo 3 footage, ElevenLabs voice, then the final edit in Premiere and After Effects."
-      }
-    ],
-    "steps_title": "From idea to published post",
-    "steps_sub": "How one video moves through my workflow.",
-    "steps": [
-      {
-        "h": "Concept and script",
-        "p": "A hook, a clear message and no unrealistic financial promises."
-      },
-      {
-        "h": "AI generation",
-        "p": "Scenes and characters kept consistent with references and prompts."
-      },
-      {
-        "h": "Edit and finish",
-        "p": "Pacing, captions, sound and motion graphics, sized per platform."
-      },
-      {
-        "h": "Publish and learn",
-        "p": "Track retention and engagement and adjust the next one."
-      }
-    ],
-    "cta_h": "Can we talk for 15 minutes?",
-    "cta_p": "I can walk you through any project on this page.",
-    "wa_text": "Hi Abdelrahman, this is Unicorn Wonderkid about the Senior AI Video Creator role",
-    "mail_subject": "Unicorn Wonderkid - Senior AI Video Creator"
+ "slug": "unicorn-wonderkid",
+ "company": "Unicorn Wonderkid Trading",
+ "default_lang": "en",
+ "country_en": "Qatar",
+ "country_ar": "قطر",
+ "en": {
+  "title": "For Unicorn Wonderkid | Senior AI Video Creator, Abdelrahman Elsayed",
+  "tag": "Prepared for Unicorn Wonderkid Trading · Doha",
+  "eyebrow": "Application · Senior AI Video Creator & Social Media Manager",
+  "h1": "AI video for finance brands <em>that people trust and watch.</em>",
+  "lead": "Hi, I'm Abdelrahman, a graphic and motion designer and AI content creator with 6+ years of work for Gulf brands. You asked to see finished AI video, not a tool list, so this page leads with the work.",
+  "why_title": "What I'd bring to your brands",
+  "why": [
+   {
+    "h": "AI video for a financing company",
+    "p": "Talking-character ads in Gulf dialect for a Saudi financing company, made with AI video and voice."
+   },
+   {
+    "h": "Consistent AI characters",
+    "p": "A recurring AI podcast host for Siredo 2026 and a consistent cast across a full campaign."
+   },
+   {
+    "h": "Design and edit, start to finish",
+    "p": "Concept, script, Kling and Veo 3 footage, ElevenLabs voice, then the final edit in Premiere and After Effects."
+   }
+  ],
+  "steps_title": "From idea to published post",
+  "steps_sub": "How one video moves through my workflow.",
+  "steps": [
+   {
+    "h": "Concept and script",
+    "p": "A hook, a clear message and no unrealistic financial promises."
+   },
+   {
+    "h": "AI generation",
+    "p": "Scenes and characters kept consistent with references and prompts."
+   },
+   {
+    "h": "Edit and finish",
+    "p": "Pacing, captions, sound and motion graphics, sized per platform."
+   },
+   {
+    "h": "Publish and learn",
+    "p": "Track retention and engagement and adjust the next one."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "I can walk you through any project on this page.",
+  "wa_text": "Hi Abdelrahman, this is Unicorn Wonderkid about the Senior AI Video Creator role",
+  "mail_subject": "Unicorn Wonderkid - Senior AI Video Creator"
+ },
+ "ar": {
+  "tag": "مُعدّة لشركة يونيكورن وندركيد · الدوحة",
+  "eyebrow": "طلب توظيف · صانع فيديو بالذكاء الاصطناعي ومدير سوشيال",
+  "h1": "فيديو بالذكاء الاصطناعي لعلامات مالية <em>يثق بها الناس ويشاهدونها.</em>",
+  "lead": "أهلاً، معكم عبدالرحمن السيد، مصمم جرافيك وموشن وصانع محتوى بالذكاء الاصطناعي بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. طلبتم أعمالاً منجزة وليس قائمة أدوات، لذلك تبدأ هذه الصفحة بالأعمال.",
+  "why_title": "ماذا أضيف لعلاماتكم",
+  "why": [
+   {
+    "h": "فيديو لشركة تمويل",
+    "p": "إعلانات بشخصيات تتحدث باللهجة الخليجية لشركة تمويل سعودية، بالفيديو والصوت بالذكاء الاصطناعي."
+   },
+   {
+    "h": "شخصيات ثابتة",
+    "p": "مقدّم بودكاست بالذكاء الاصطناعي لمعرض سيريدو 2026، وشخصيات ثابتة على مدار حملة كاملة."
+   },
+   {
+    "h": "من الفكرة إلى المونتاج",
+    "p": "الفكرة والسكريبت، ثم مشاهد Kling وVeo 3 وصوت ElevenLabs، ثم المونتاج على بريمير وأفتر إفكتس."
+   }
+  ],
+  "steps_title": "من الفكرة إلى النشر",
+  "steps_sub": "رحلة الفيديو الواحد في طريقة عملي.",
+  "steps": [
+   {
+    "h": "الفكرة والسكريبت",
+    "p": "بداية جاذبة ورسالة واضحة بدون وعود مالية غير واقعية."
+   },
+   {
+    "h": "التوليد بالذكاء الاصطناعي",
+    "p": "مشاهد وشخصيات ثابتة باستخدام المراجع والأوامر."
+   },
+   {
+    "h": "المونتاج والإنهاء",
+    "p": "إيقاع ونصوص وصوت وموشن، بمقاس كل منصة."
+   },
+   {
+    "h": "النشر والتطوير",
+    "p": "متابعة المشاهدة والتفاعل وتحسين الفيديو التالي."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "أستطيع أن أشرح لكم أي مشروع في هذه الصفحة.",
+  "wa_text": "أهلاً عبدالرحمن، معك يونيكورن وندركيد بخصوص وظيفة صانع الفيديو بالذكاء الاصطناعي"
+ },
+ "images": [
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
   },
-  "ar": {
-    "tag": "مُعدّة لشركة يونيكورن وندركيد · الدوحة",
-    "eyebrow": "طلب توظيف · صانع فيديو بالذكاء الاصطناعي ومدير سوشيال",
-    "h1": "فيديو بالذكاء الاصطناعي لعلامات مالية <em>يثق بها الناس ويشاهدونها.</em>",
-    "lead": "أهلاً، معكم عبدالرحمن السيد، مصمم جرافيك وموشن وصانع محتوى بالذكاء الاصطناعي بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. طلبتم أعمالاً منجزة وليس قائمة أدوات، لذلك تبدأ هذه الصفحة بالأعمال.",
-    "why_title": "ماذا أضيف لعلاماتكم",
-    "why": [
-      {
-        "h": "فيديو لشركة تمويل",
-        "p": "إعلانات بشخصيات تتحدث باللهجة الخليجية لشركة تمويل سعودية، بالفيديو والصوت بالذكاء الاصطناعي."
-      },
-      {
-        "h": "شخصيات ثابتة",
-        "p": "مقدّم بودكاست بالذكاء الاصطناعي لمعرض سيريدو 2026، وشخصيات ثابتة على مدار حملة كاملة."
-      },
-      {
-        "h": "من الفكرة إلى المونتاج",
-        "p": "الفكرة والسكريبت، ثم مشاهد Kling وVeo 3 وصوت ElevenLabs، ثم المونتاج على بريمير وأفتر إفكتس."
-      }
-    ],
-    "steps_title": "من الفكرة إلى النشر",
-    "steps_sub": "رحلة الفيديو الواحد في طريقة عملي.",
-    "steps": [
-      {
-        "h": "الفكرة والسكريبت",
-        "p": "بداية جاذبة ورسالة واضحة بدون وعود مالية غير واقعية."
-      },
-      {
-        "h": "التوليد بالذكاء الاصطناعي",
-        "p": "مشاهد وشخصيات ثابتة باستخدام المراجع والأوامر."
-      },
-      {
-        "h": "المونتاج والإنهاء",
-        "p": "إيقاع ونصوص وصوت وموشن، بمقاس كل منصة."
-      },
-      {
-        "h": "النشر والتطوير",
-        "p": "متابعة المشاهدة والتفاعل وتحسين الفيديو التالي."
-      }
-    ],
-    "cta_h": "نتكلم 15 دقيقة؟",
-    "cta_p": "أستطيع أن أشرح لكم أي مشروع في هذه الصفحة.",
-    "wa_text": "أهلاً عبدالرحمن، معك يونيكورن وندركيد بخصوص وظيفة صانع الفيديو بالذكاء الاصطناعي"
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
   },
-  "images": [
-    {
-      "src": "ai-video-zone",
-      "en_title": "AI video · UAE brand",
-      "en_cap": "UGC-style ads with AI characters and voice.",
-      "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
-      "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
-    },
-    {
-      "src": "ai-saba",
-      "en_title": "AI campaign · Saba HomeCare",
-      "en_cap": "A consistent AI cast across a full campaign.",
-      "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
-      "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
-    },
-    {
-      "src": "ksa-day-meals",
-      "en_title": "Key visual · Riyadh skyline",
-      "en_cap": "AI-built city scene, finished by hand.",
-      "ar_title": "صورة رئيسية · أفق الرياض",
-      "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
-    },
-    {
-      "src": "motion-pancakes",
-      "en_title": "Motion · Pancakes Coffee",
-      "en_cap": "Product and offer reels in After Effects.",
-      "ar_title": "موشن · Pancakes Coffee",
-      "ar_cap": "ريلز للمنتجات والعروض على After Effects."
-    }
-  ]
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
 }

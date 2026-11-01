@@ -1,128 +1,127 @@
 {
-  "slug": "alqasr",
-  "company": "Al Qasr Group Real Estate",
-  "default_lang": "en",
-  "cv": "Designer",
-  "country_en": "Qatar",
-  "country_ar": "قطر",
-  "en": {
-    "title": "For Al Qasr Group | Graphic Designer & Video Editor, Abdelrahman Elsayed",
-    "tag": "Prepared for Al Qasr Group Real Estate · Qatar",
-    "eyebrow": "Application · Graphic Designer & Video Editor",
-    "h1": "Graphics that stop the scroll, <em>reels that keep them watching.</em>",
-    "lead": "Hi Al Qasr Group team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your ad puts graphic design and Reels editing first, so this page shows exactly those two.",
-    "why_title": "What I'd bring to Al Qasr Group",
-    "why": [
-      {
-        "h": "Property visuals that sell",
-        "p": "Key visuals for real estate launches, like a villa campaign that sells the life inside the home."
-      },
-      {
-        "h": "Reels with hooks and pacing",
-        "p": "Short videos edited in Premiere and After Effects, with captions, music, sound and motion graphics."
-      },
-      {
-        "h": "One look on every platform",
-        "p": "Posts, stories and ads adapted per platform while the brand stays consistent, in Arabic and English."
-      }
-    ],
-    "steps_title": "A listing, step by step",
-    "steps_sub": "Repeatable for every property you market.",
-    "steps": [
-      {
-        "h": "Key visual",
-        "p": "One strong image that sets the look for the property."
-      },
-      {
-        "h": "Reel",
-        "p": "A short edit with a hook in the first seconds, captions and music."
-      },
-      {
-        "h": "Social kit",
-        "p": "Posts, stories and ad sizes from the same idea."
-      },
-      {
-        "h": "Weekly rhythm",
-        "p": "Fresh content every week so listings stay visible."
-      }
-    ],
-    "cta_h": "Can we talk for 15 minutes?",
-    "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
-    "wa_text": "Hi Abdelrahman, this is Al Qasr Group about the Graphic Designer & Video Editor role",
-    "mail_subject": "Al Qasr Group - Graphic Designer & Video Editor"
+ "slug": "alqasr",
+ "company": "Al Qasr Group Real Estate",
+ "default_lang": "en",
+ "country_en": "Qatar",
+ "country_ar": "قطر",
+ "en": {
+  "title": "For Al Qasr Group | Graphic Designer & Video Editor, Abdelrahman Elsayed",
+  "tag": "Prepared for Al Qasr Group Real Estate · Qatar",
+  "eyebrow": "Application · Graphic Designer & Video Editor",
+  "h1": "Graphics that stop the scroll, <em>reels that keep them watching.</em>",
+  "lead": "Hi Al Qasr Group team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your ad puts graphic design and Reels editing first, so this page shows exactly those two.",
+  "why_title": "What I'd bring to Al Qasr Group",
+  "why": [
+   {
+    "h": "Property visuals that sell",
+    "p": "Key visuals for real estate launches, like a villa campaign that sells the life inside the home."
+   },
+   {
+    "h": "Reels with hooks and pacing",
+    "p": "Short videos edited in Premiere and After Effects, with captions, music, sound and motion graphics."
+   },
+   {
+    "h": "One look on every platform",
+    "p": "Posts, stories and ads adapted per platform while the brand stays consistent, in Arabic and English."
+   }
+  ],
+  "steps_title": "A listing, step by step",
+  "steps_sub": "Repeatable for every property you market.",
+  "steps": [
+   {
+    "h": "Key visual",
+    "p": "One strong image that sets the look for the property."
+   },
+   {
+    "h": "Reel",
+    "p": "A short edit with a hook in the first seconds, captions and music."
+   },
+   {
+    "h": "Social kit",
+    "p": "Posts, stories and ad sizes from the same idea."
+   },
+   {
+    "h": "Weekly rhythm",
+    "p": "Fresh content every week so listings stay visible."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Al Qasr Group about the Graphic Designer & Video Editor role",
+  "mail_subject": "Al Qasr Group - Graphic Designer & Video Editor"
+ },
+ "ar": {
+  "tag": "مُعدّة لمجموعة القصر العقارية · قطر",
+  "eyebrow": "طلب توظيف · مصمم جرافيك ومونتير فيديو",
+  "h1": "تصاميم توقف التمرير، <em>وريلز تُبقي المشاهد حتى النهاية.</em>",
+  "lead": "أهلاً فريق مجموعة القصر، معكم عبدالرحمن السيد، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. إعلانكم يضع التصميم ومونتاج الريلز في المقدمة، لذلك تعرض هذه الصفحة هذين الجانبين تحديداً.",
+  "why_title": "ماذا أضيف لمجموعة القصر",
+  "why": [
+   {
+    "h": "صور عقارية تبيع",
+    "p": "صور رئيسية لإطلاق المشاريع العقارية، مثل حملة فيلا تبيع الحياة داخل البيت."
+   },
+   {
+    "h": "ريلز بإيقاع وبداية قوية",
+    "p": "فيديوهات قصيرة على بريمير وأفتر إفكتس، مع نصوص وموسيقى ومؤثرات صوتية وموشن جرافيك."
+   },
+   {
+    "h": "شكل واحد على كل المنصات",
+    "p": "بوستات وستوريز وإعلانات بمقاسات كل منصة مع الحفاظ على هوية العلامة، بالعربي والإنجليزي."
+   }
+  ],
+  "steps_title": "تسويق عقار خطوة بخطوة",
+  "steps_sub": "طريقة تتكرر مع كل عقار تسوّقونه.",
+  "steps": [
+   {
+    "h": "الصورة الرئيسية",
+    "p": "صورة قوية واحدة تحدد شكل الحملة."
+   },
+   {
+    "h": "الريل",
+    "p": "مونتاج قصير ببداية جاذبة ونصوص وموسيقى."
+   },
+   {
+    "h": "حزمة السوشيال",
+    "p": "بوستات وستوريز ومقاسات إعلانات من نفس الفكرة."
+   },
+   {
+    "h": "إيقاع أسبوعي",
+    "p": "محتوى جديد كل أسبوع حتى تبقى العقارات ظاهرة."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مجموعة القصر بخصوص وظيفة مصمم الجرافيك ومونتير الفيديو"
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
   },
-  "ar": {
-    "tag": "مُعدّة لمجموعة القصر العقارية · قطر",
-    "eyebrow": "طلب توظيف · مصمم جرافيك ومونتير فيديو",
-    "h1": "تصاميم توقف التمرير، <em>وريلز تُبقي المشاهد حتى النهاية.</em>",
-    "lead": "أهلاً فريق مجموعة القصر، معكم عبدالرحمن السيد، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. إعلانكم يضع التصميم ومونتاج الريلز في المقدمة، لذلك تعرض هذه الصفحة هذين الجانبين تحديداً.",
-    "why_title": "ماذا أضيف لمجموعة القصر",
-    "why": [
-      {
-        "h": "صور عقارية تبيع",
-        "p": "صور رئيسية لإطلاق المشاريع العقارية، مثل حملة فيلا تبيع الحياة داخل البيت."
-      },
-      {
-        "h": "ريلز بإيقاع وبداية قوية",
-        "p": "فيديوهات قصيرة على بريمير وأفتر إفكتس، مع نصوص وموسيقى ومؤثرات صوتية وموشن جرافيك."
-      },
-      {
-        "h": "شكل واحد على كل المنصات",
-        "p": "بوستات وستوريز وإعلانات بمقاسات كل منصة مع الحفاظ على هوية العلامة، بالعربي والإنجليزي."
-      }
-    ],
-    "steps_title": "تسويق عقار خطوة بخطوة",
-    "steps_sub": "طريقة تتكرر مع كل عقار تسوّقونه.",
-    "steps": [
-      {
-        "h": "الصورة الرئيسية",
-        "p": "صورة قوية واحدة تحدد شكل الحملة."
-      },
-      {
-        "h": "الريل",
-        "p": "مونتاج قصير ببداية جاذبة ونصوص وموسيقى."
-      },
-      {
-        "h": "حزمة السوشيال",
-        "p": "بوستات وستوريز ومقاسات إعلانات من نفس الفكرة."
-      },
-      {
-        "h": "إيقاع أسبوعي",
-        "p": "محتوى جديد كل أسبوع حتى تبقى العقارات ظاهرة."
-      }
-    ],
-    "cta_h": "نتكلم 15 دقيقة؟",
-    "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
-    "wa_text": "أهلاً عبدالرحمن، معك مجموعة القصر بخصوص وظيفة مصمم الجرافيك ومونتير الفيديو"
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
   },
-  "images": [
-    {
-      "src": "villa",
-      "en_title": "Key visual · Villa launch",
-      "en_cap": "Sells the life inside the home, not just the building.",
-      "ar_title": "صورة رئيسية · إطلاق فيلا",
-      "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
-    },
-    {
-      "src": "motion-pancakes",
-      "en_title": "Motion · Pancakes Coffee",
-      "en_cap": "Product and offer reels in After Effects.",
-      "ar_title": "موشن · Pancakes Coffee",
-      "ar_cap": "ريلز للمنتجات والعروض على After Effects."
-    },
-    {
-      "src": "delivery",
-      "en_title": "Key visual · Delivery campaign",
-      "en_cap": "One idea carried across posts, stories and ads.",
-      "ar_title": "صورة رئيسية · حملة توصيل",
-      "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
-    },
-    {
-      "src": "social-1",
-      "en_title": "Social design · Gulf brands",
-      "en_cap": "Posts and stories in Arabic and English.",
-      "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
-      "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
-    }
-  ]
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ]
 }
