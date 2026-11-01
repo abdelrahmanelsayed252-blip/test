@@ -1,0 +1,128 @@
+{
+  "slug": "omc",
+  "company": "OMC Holding",
+  "default_lang": "en",
+  "cv": "Designer",
+  "country_en": "Qatar",
+  "country_ar": "قطر",
+  "en": {
+    "title": "For OMC Holding | Graphic Designer, Abdelrahman Elsayed",
+    "tag": "Prepared for OMC Holding · Qatar",
+    "eyebrow": "Application · Graphic Designer",
+    "h1": "One holding, many businesses, <em>one clear visual language.</em>",
+    "lead": "Hi OMC Holding team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for 20+ brands in Saudi Arabia, the UAE, Oman and Qatar. You asked for social media graphics, branding and marketing materials, so here is how I'd handle all three.",
+    "why_title": "What I'd bring to OMC",
+    "why": [
+      {
+        "h": "Branding that holds together",
+        "p": "Identities built from logo to applications, like Gamela, CARLY and Khayrat Al-Ahsa."
+      },
+      {
+        "h": "Social graphics every week",
+        "p": "Posts, stories and campaign visuals in Arabic and English, on deadline."
+      },
+      {
+        "h": "Motion when it helps",
+        "p": "Short animated posts and reels in After Effects to lift key messages."
+      }
+    ],
+    "steps_title": "How I'd start",
+    "steps_sub": "A simple plan for the first month.",
+    "steps": [
+      {
+        "h": "Brand audit",
+        "p": "Review current logos, colours and posts across your accounts."
+      },
+      {
+        "h": "Toolkit",
+        "p": "Templates and rules so every piece looks like OMC."
+      },
+      {
+        "h": "Content",
+        "p": "Social graphics and marketing materials on a weekly rhythm."
+      },
+      {
+        "h": "Review",
+        "p": "Check what performs and refine the look."
+      }
+    ],
+    "cta_h": "Can we talk for 15 minutes?",
+    "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+    "wa_text": "Hi Abdelrahman, this is OMC Holding about the Graphic Designer role",
+    "mail_subject": "OMC Holding - Graphic Designer"
+  },
+  "ar": {
+    "tag": "مُعدّة لمجموعة OMC القابضة · قطر",
+    "eyebrow": "طلب توظيف · مصمم جرافيك",
+    "h1": "مجموعة واحدة وأعمال متعددة، <em>بلغة بصرية واحدة واضحة.</em>",
+    "lead": "أهلاً فريق OMC القابضة، معكم عبدالرحمن السيد، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر. طلبتم تصاميم سوشيال وهويات ومواد تسويقية، وهذه طريقتي في الثلاثة.",
+    "why_title": "ماذا أضيف لـ OMC",
+    "why": [
+      {
+        "h": "هويات متماسكة",
+        "p": "هويات كاملة من الشعار إلى التطبيقات، مثل Gamela وCARLY وخيرات الأحساء."
+      },
+      {
+        "h": "تصاميم سوشيال كل أسبوع",
+        "p": "بوستات وستوريز وتصاميم حملات بالعربي والإنجليزي في مواعيدها."
+      },
+      {
+        "h": "موشن عند الحاجة",
+        "p": "بوستات متحركة وريلز قصيرة على أفتر إفكتس لإبراز الرسائل المهمة."
+      }
+    ],
+    "steps_title": "كيف أبدأ",
+    "steps_sub": "خطة بسيطة للشهر الأول.",
+    "steps": [
+      {
+        "h": "مراجعة الهوية",
+        "p": "مراجعة الشعارات والألوان والمنشورات الحالية على حساباتكم."
+      },
+      {
+        "h": "أدوات التصميم",
+        "p": "قوالب وقواعد حتى تظهر كل قطعة بهوية OMC."
+      },
+      {
+        "h": "المحتوى",
+        "p": "تصاميم سوشيال ومواد تسويقية بإيقاع أسبوعي."
+      },
+      {
+        "h": "التقييم",
+        "p": "متابعة ما ينجح وتطوير الشكل."
+      }
+    ],
+    "cta_h": "نتكلم 15 دقيقة؟",
+    "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+    "wa_text": "أهلاً عبدالرحمن، معك OMC القابضة بخصوص وظيفة مصمم الجرافيك"
+  },
+  "images": [
+    {
+      "src": "id-gamela",
+      "en_title": "Identity · Gamela",
+      "en_cap": "A full brand identity, from logo to applications.",
+      "ar_title": "هوية · Gamela",
+      "ar_cap": "هوية بصرية كاملة من الشعار إلى التطبيقات."
+    },
+    {
+      "src": "social-1",
+      "en_title": "Social design · Gulf brands",
+      "en_cap": "Posts and stories in Arabic and English.",
+      "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+      "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+    },
+    {
+      "src": "id-khayrat",
+      "en_title": "Identity · Khayrat Al-Ahsa",
+      "en_cap": "A Saudi brand identity with a clear, warm look.",
+      "ar_title": "هوية · خيرات الأحساء",
+      "ar_cap": "هوية لعلامة سعودية بشكل واضح ودافئ."
+    },
+    {
+      "src": "delivery",
+      "en_title": "Key visual · Delivery campaign",
+      "en_cap": "One idea carried across posts, stories and ads.",
+      "ar_title": "صورة رئيسية · حملة توصيل",
+      "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+    }
+  ]
+}
