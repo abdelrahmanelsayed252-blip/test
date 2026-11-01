@@ -1,0 +1,127 @@
+{
+ "slug": "asian-paints",
+ "company": "Asian Paints Arabia",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Asian Paints Arabia | Marketing Executive, Brand Communication & Design, Abdelrahman Elsayed",
+  "tag": "Prepared for Asian Paints Arabia · Muscat",
+  "eyebrow": "Application · Marketing Executive, Brand Communication & Design",
+  "h1": "Colour sells <em>when people can see it at home.</em>",
+  "lead": "Hi Asian Paints Arabia team, I'm Abdelrahman, a graphic and motion designer with 6+ years of brand work for Gulf companies. I saw your opening for a Marketing Executive in brand communication and design, so I made this page for you.",
+  "why_title": "What I'd bring to Asian Paints Arabia",
+  "why": [
+   {
+    "h": "Campaign key visuals",
+    "p": "One idea carried across posts, stories, ads and in-store material, like my delivery campaign and Saudi National Day visuals."
+   },
+   {
+    "h": "AI room scenes",
+    "p": "Rooms shown in new colours and finished by hand, so people can picture the result."
+   },
+   {
+    "h": "Motion and social",
+    "p": "Short reels and posts in Arabic and English with After Effects and Premiere."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the message, the audience and the season."
+   },
+   {
+    "h": "Key visual",
+    "p": "One strong visual that everything else follows."
+   },
+   {
+    "h": "Roll-out",
+    "p": "Posts, stories, ads, in-store and print in the same look."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next campaign."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Asian Paints Arabia. I saw your page.",
+  "mail_subject": "Asian Paints Arabia - Marketing Executive, Brand Communication & Design"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ آسيان بينتس العربية · مسقط",
+  "eyebrow": "طلب توظيف · تنفيذي تسويق، اتصال العلامة والتصميم",
+  "h1": "اللون يبيع <em>حين يراه الناس في بيوتهم.</em>",
+  "lead": "أهلاً فريق آسيان بينتس العربية، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات في العلامات التجارية الخليجية. شاهدت إعلانكم عن وظيفة تنفيذي تسويق في اتصال العلامة والتصميم، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ آسيان بينتس العربية",
+  "why": [
+   {
+    "h": "صور رئيسية للحملات",
+    "p": "فكرة واحدة تمتد عبر البوستات والستوريز والإعلانات ومواد المتاجر، مثل حملة التوصيل وتصاميم اليوم الوطني السعودي."
+   },
+   {
+    "h": "مشاهد غرف بالذكاء الاصطناعي",
+    "p": "غرف بألوان جديدة مكتملة يدوياً، ليتخيل الناس النتيجة."
+   },
+   {
+    "h": "موشن وسوشيال",
+    "p": "ريلز وبوستات قصيرة بالعربية والإنجليزية على أفتر إفكتس وبريمير."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "الاتفاق على الرسالة والجمهور والموسم."
+   },
+   {
+    "h": "الصورة الرئيسية",
+    "p": "صورة قوية واحدة يتبعها كل شيء."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "بوستات وستوريز وإعلانات ومواد المتاجر والمطبوعات بنفس الشكل."
+   },
+   {
+    "h": "المراجعة",
+    "p": "مراجعة ما نجح وتطوير الحملة التالية."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك آسيان بينتس العربية. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
+}

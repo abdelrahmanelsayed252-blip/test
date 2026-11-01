@@ -1,0 +1,127 @@
+{
+ "slug": "digital-mall",
+ "company": "Digital Mall",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Digital Mall | Product Designer (UI/UX & Brand), Abdelrahman Elsayed",
+  "tag": "Prepared for Digital Mall · Muscat",
+  "eyebrow": "Application · Product Designer (UI/UX & Brand)",
+  "h1": "A brand people trust <em>and screens they enjoy.</em>",
+  "lead": "Hi Digital Mall team, I'm Abdelrahman, a graphic designer with 6+ years of brand work for Gulf companies, and I design and build pages myself. I saw your opening for a Product Designer in Muscat, so I made this page for you.",
+  "why_title": "What I'd bring to Digital Mall",
+  "why": [
+   {
+    "h": "A brand that holds together",
+    "p": "Identities like Gamela and CARLY: logo, palette, type and applications, so every screen and post feels like one brand."
+   },
+   {
+    "h": "Screens designed and built",
+    "p": "I design in Figma and ship working pages with Claude Code, like a live page for Taraf and a staff app approved for 5 branches."
+   },
+   {
+    "h": "Content that sells the product",
+    "p": "Social posts, motion and AI product visuals for launches and offers, in Arabic and English."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Audit",
+    "p": "Look at the app, the site and the brand together and list what feels inconsistent."
+   },
+   {
+    "h": "Design system",
+    "p": "Colours, type, components and icons in Figma, in Arabic and English."
+   },
+   {
+    "h": "Key screens",
+    "p": "Redesign the screens people use most, then test them."
+   },
+   {
+    "h": "Launch content",
+    "p": "Visuals and short reels that explain new features."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Digital Mall. I saw your page.",
+  "mail_subject": "Digital Mall - Product Designer (UI/UX & Brand)"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ديجيتال مول · مسقط",
+  "eyebrow": "طلب توظيف · مصمم منتج (واجهات وتجربة مستخدم وهوية)",
+  "h1": "هوية يثق بها الناس <em>وشاشات يستمتعون بها.</em>",
+  "lead": "أهلاً فريق ديجيتال مول، معكم عبدالرحمن، مصمم جرافيك بخبرة أكثر من 6 سنوات في هويات الشركات الخليجية، وأصمم الصفحات وأبنيها بنفسي. شاهدت إعلانكم عن وظيفة مصمم منتج في مسقط، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ ديجيتال مول",
+  "why": [
+   {
+    "h": "هوية متماسكة",
+    "p": "هويات مثل جميلة وكارلي: الشعار والألوان والخطوط والتطبيقات، لتبدو كل شاشة وكل منشور كعلامة واحدة."
+   },
+   {
+    "h": "شاشات مصممة ومنفذة",
+    "p": "أصمم على فيغما وأنفذ صفحات تعمل فعلاً باستخدام Claude Code، مثل صفحة ترف المنشورة وتطبيق موظفين اعتُمد في 5 فروع."
+   },
+   {
+    "h": "محتوى يبيع المنتج",
+    "p": "بوستات وموشن وصور منتجات بالذكاء الاصطناعي للإطلاقات والعروض بالعربية والإنجليزية."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "مراجعة",
+    "p": "مراجعة التطبيق والموقع والهوية معاً وتحديد ما يحتاج إلى توحيد."
+   },
+   {
+    "h": "نظام التصميم",
+    "p": "الألوان والخطوط والمكونات والأيقونات على فيغما بالعربية والإنجليزية."
+   },
+   {
+    "h": "الشاشات الرئيسية",
+    "p": "إعادة تصميم أكثر الشاشات استخداماً ثم اختبارها."
+   },
+   {
+    "h": "محتوى الإطلاق",
+    "p": "صور وريلز قصيرة تشرح المزايا الجديدة."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ديجيتال مول. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A full brand identity, from logo to applications.",
+   "ar_title": "هوية · Gamela",
+   "ar_cap": "هوية بصرية كاملة من الشعار إلى التطبيقات."
+  },
+  {
+   "src": "id-carly",
+   "en_title": "Identity · CARLY",
+   "en_cap": "Logo, palette, type and mockups.",
+   "ar_title": "هوية · CARLY",
+   "ar_cap": "شعار وألوان وخطوط ونماذج تطبيق."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ]
+}
