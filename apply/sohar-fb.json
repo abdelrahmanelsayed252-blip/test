@@ -1,0 +1,127 @@
+{
+ "slug": "sohar-fb",
+ "company": "Sohar Food and Beverage",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Sohar Food and Beverage | Digital Marketing & Content Specialist, Abdelrahman Elsayed",
+  "tag": "Prepared for Sohar Food and Beverage · Muscat",
+  "eyebrow": "Application · Digital Marketing & Content Specialist",
+  "h1": "Content that makes people <em>hungry enough to order.</em>",
+  "lead": "Hi Sohar Food and Beverage team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands, now in-house at Pancakes Coffee. You're hiring a Digital Marketing & Content Specialist, so I made this page for you.",
+  "why_title": "What I'd bring to the role",
+  "why": [
+   {
+    "h": "Campaign creatives",
+    "p": "Key visuals and ad creatives carried across posts, stories and ads, like my delivery campaign."
+   },
+   {
+    "h": "AI product scenes",
+    "p": "Fresh scenes for each item, made in under an hour and finished by hand."
+   },
+   {
+    "h": "Reels and motion",
+    "p": "Short videos in Arabic and English with After Effects and Premiere."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Audit",
+    "p": "Look at your brands, menus and accounts."
+   },
+   {
+    "h": "Plan",
+    "p": "A monthly content calendar."
+   },
+   {
+    "h": "Produce",
+    "p": "Posts, reels and ad creatives in one look."
+   },
+   {
+    "h": "Review",
+    "p": "Check results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Sohar Food and Beverage. I saw your page.",
+  "mail_subject": "Sohar Food and Beverage - Digital Marketing & Content Specialist"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ صحار للأغذية والمشروبات · مسقط",
+  "eyebrow": "طلب توظيف · أخصائي تسويق رقمي ومحتوى",
+  "h1": "محتوى يفتح الشهية <em>حتى يطلب الناس.</em>",
+  "lead": "أهلاً فريق صحار للأغذية والمشروبات، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية، وأعمل حالياً داخل Pancakes Coffee. تبحثون عن أخصائي تسويق رقمي ومحتوى، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لهذا الدور",
+  "why": [
+   {
+    "h": "تصاميم الحملات",
+    "p": "صور رئيسية وتصاميم إعلانات تمتد عبر البوستات والستوريز، مثل حملة التوصيل."
+   },
+   {
+    "h": "مشاهد منتجات بالذكاء الاصطناعي",
+    "p": "مشهد جديد لكل صنف، يُنجز في أقل من ساعة ويكتمل يدوياً."
+   },
+   {
+    "h": "ريلز وموشن",
+    "p": "فيديوهات قصيرة بالعربية والإنجليزية على أفتر إفكتس وبريمير."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "مراجعة",
+    "p": "مراجعة علاماتكم وقوائمكم وحساباتكم."
+   },
+   {
+    "h": "الخطة",
+    "p": "خطة محتوى شهرية."
+   },
+   {
+    "h": "الإنتاج",
+    "p": "بوستات وريلز وتصاميم إعلانات بأسلوب واحد."
+   },
+   {
+    "h": "التقييم",
+    "p": "مراجعة النتائج والتطوير."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك صحار للأغذية والمشروبات. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  }
+ ]
+}

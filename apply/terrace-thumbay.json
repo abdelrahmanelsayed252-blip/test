@@ -1,0 +1,127 @@
+{
+ "slug": "terrace-thumbay",
+ "company": "The Terrace (Thumbay Group)",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For The Terrace | Graphic Designer & Video Editor, Abdelrahman Elsayed",
+  "tag": "Prepared for The Terrace · Ajman",
+  "eyebrow": "Application · Graphic Designer & Video Editor",
+  "h1": "Make every plate <em>stop the scroll.</em>",
+  "lead": "Hi Terrace team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands, including an in-house role at Pancakes Coffee. You're hiring a designer and video editor for social and reels, so I made this page for The Terrace.",
+  "why_title": "What I'd bring to The Terrace",
+  "why": [
+   {
+    "h": "Food that looks worth ordering",
+    "p": "AI product scenes and key visuals, like my delivery campaign and Pancakes Coffee work, each scene in under an hour."
+   },
+   {
+    "h": "Reels and motion",
+    "p": "Short edits and motion graphics in Premiere and After Effects."
+   },
+   {
+    "h": "One look everywhere",
+    "p": "Posts, stories, offers and menus in the same style."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the menu stars, offers and audience."
+   },
+   {
+    "h": "Key visual",
+    "p": "One strong look for the month."
+   },
+   {
+    "h": "Roll-out",
+    "p": "Posts, stories and reels in that look."
+   },
+   {
+    "h": "Review",
+    "p": "See what got orders and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is The Terrace (Thumbay Group). I saw your page.",
+  "mail_subject": "The Terrace - Graphic Designer & Video Editor"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ذا تيراس · عجمان",
+  "eyebrow": "طلب توظيف · مصمم جرافيك ومونتير فيديو",
+  "h1": "اجعلوا كل طبق <em>يوقف التمرير.</em>",
+  "lead": "أهلاً فريق ذا تيراس، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية، منها عملي الداخلي في Pancakes Coffee. تبحثون عن مصمم ومونتير للسوشيال والريلز، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ ذا تيراس",
+  "why": [
+   {
+    "h": "أطباق تستحق الطلب",
+    "p": "مشاهد منتجات وصور رئيسية بالذكاء الاصطناعي، مثل حملة التوصيل وأعمال Pancakes Coffee، كل مشهد في أقل من ساعة."
+   },
+   {
+    "h": "ريلز وموشن",
+    "p": "مونتاج قصير وموشن جرافيك على بريمير وأفتر إفكتس."
+   },
+   {
+    "h": "أسلوب واحد",
+    "p": "بوستات وستوريز وعروض وقوائم بنفس الأسلوب."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "الاتفاق على أبرز الأطباق والعروض والجمهور."
+   },
+   {
+    "h": "الصورة الرئيسية",
+    "p": "أسلوب قوي واحد للشهر."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "بوستات وستوريز وريلز بنفس الأسلوب."
+   },
+   {
+    "h": "المراجعة",
+    "p": "معرفة ما جلب الطلبات والتطوير."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ذا تيراس. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A seasonal campaign visual, finished by hand.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "تصميم حملة موسمية مكتمل يدوياً."
+  }
+ ]
+}

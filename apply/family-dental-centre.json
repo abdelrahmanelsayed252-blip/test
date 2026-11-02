@@ -1,0 +1,128 @@
+{
+ "slug": "family-dental-centre",
+ "company": "Family Dental Centre",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "kind": "client",
+ "en": {
+  "title": "For Family Dental Centre | Abdelrahman Elsayed",
+  "tag": "Prepared for Family Dental Centre · Al Hail",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "From KiddieCare to the whole family, <em>tell that story.</em>",
+  "lead": "Hi Family Dental Centre team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands. You started as a children's clinic and grew into a family practice with a Platinum Elite Invisalign provider, so I made this page with a few ideas for you.",
+  "why_title": "What I could do for Family Dental Centre",
+  "why": [
+   {
+    "h": "Invisalign explainers",
+    "p": "Short motion videos that show teens and adults how aligners work, week by week."
+   },
+   {
+    "h": "Friendly kids content",
+    "p": "Light, colourful posts and reels that make a first visit feel easy for children and parents."
+   },
+   {
+    "h": "Booking made simple",
+    "p": "A clear Arabic and English page for each service that opens WhatsApp in one tap."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Family Dental Centre. I saw your page.",
+  "mail_subject": "Collaboration idea for Family Dental Centre"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مركز طب الأسنان العائلي · الحيل",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "من عيادة للأطفال إلى العائلة كلها، <em>احكوا هذه القصة.</em>",
+  "lead": "أهلاً فريق مركز طب الأسنان العائلي، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. بدأتم كعيادة أطفال ثم أصبحتم مركزاً للعائلة مع مقدم خدمة إنفزلاين بلاتينيوم إيليت، فجهزت لكم هذه الصفحة بعدة أفكار.",
+  "why_title": "ماذا أستطيع أن أقدم لكم",
+  "why": [
+   {
+    "h": "شرح إنفزلاين",
+    "p": "فيديوهات موشن قصيرة توضح للمراهقين والكبار كيف تعمل التقويمات الشفافة أسبوعاً بأسبوع."
+   },
+   {
+    "h": "محتوى ودود للأطفال",
+    "p": "بوستات وريلز خفيفة وملونة تجعل الزيارة الأولى سهلة على الأطفال والأهل."
+   },
+   {
+    "h": "حجز أسهل",
+    "p": "صفحة واضحة بالعربية والإنجليزية لكل خدمة تفتح واتساب بضغطة واحدة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون تحقيقه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مركز طب الأسنان العائلي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent monthly look across platforms.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب شهري ثابت على كل المنصات."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI video · Talking-character ads",
+   "en_cap": "Gulf-dialect characters for a Saudi financing company.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · شخصيات متحدثة",
+   "ar_cap": "شخصيات باللهجة الخليجية لشركة تمويل سعودية."
+  },
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  }
+ ]
+}

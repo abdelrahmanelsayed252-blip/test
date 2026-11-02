@@ -1,0 +1,128 @@
+{
+ "slug": "crown-dental",
+ "company": "Crown Dental Muscat",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "kind": "client",
+ "en": {
+  "title": "For Crown Dental Muscat | Abdelrahman Elsayed",
+  "tag": "Prepared for Crown Dental · Al Ghubrah",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Turn the free consultation <em>into a full calendar.</em>",
+  "lead": "Hi Crown Dental team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands. Your site leads with implants, veneers and a free consultation, so I made this page with ideas to get more people to that first visit.",
+  "why_title": "What I could do for Crown Dental",
+  "why": [
+   {
+    "h": "Implant and veneer explainers",
+    "p": "Short motion videos that walk patients through the treatment in plain words."
+   },
+   {
+    "h": "A consultation booking page",
+    "p": "One page in Arabic and English with the offer, the doctor and a WhatsApp button."
+   },
+   {
+    "h": "Weekly social content",
+    "p": "Posts and stories in one clean look, ready every week."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Crown Dental Muscat. I saw your page.",
+  "mail_subject": "Collaboration idea for Crown Dental"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ كراون دنتال · الغبرة",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "حوّلوا الاستشارة المجانية <em>إلى جدول ممتلئ.</em>",
+  "lead": "أهلاً فريق كراون دنتال، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. موقعكم يبرز الزراعة والفينير والاستشارة المجانية، فجهزت لكم هذه الصفحة بأفكار تجلب مراجعين أكثر للزيارة الأولى.",
+  "why_title": "ماذا أستطيع أن أقدم لـ كراون دنتال",
+  "why": [
+   {
+    "h": "شرح الزراعة والفينير",
+    "p": "فيديوهات موشن قصيرة تشرح العلاج للمراجع بكلمات بسيطة."
+   },
+   {
+    "h": "صفحة حجز الاستشارة",
+    "p": "صفحة واحدة بالعربية والإنجليزية فيها العرض والطبيب وزر واتساب."
+   },
+   {
+    "h": "محتوى أسبوعي",
+    "p": "بوستات وستوريز بأسلوب واحد نظيف، جاهزة كل أسبوع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون تحقيقه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك كراون دنتال. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Ozone International UAE",
+   "en_cap": "UGC-style ads made with AI.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent monthly look across platforms.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب شهري ثابت على كل المنصات."
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "profile-dental",
+ "company": "Profile Dental Clinic",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "kind": "client",
+ "en": {
+  "title": "For Profile Dental Clinic | Abdelrahman Elsayed",
+  "tag": "Prepared for Profile Dental Clinic · Azaiba",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Help patients understand <em>before they book.</em>",
+  "lead": "Hi Profile Dental team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands. You offer a lot, from Invisalign to implants and air polishing, so I made this page with ideas to explain each one simply.",
+  "why_title": "What I could do for Profile Dental",
+  "why": [
+   {
+    "h": "Treatment explainers",
+    "p": "Short motion videos that show how Invisalign, implants or a root canal work, step by step."
+   },
+   {
+    "h": "A booking page",
+    "p": "A fast Arabic and English page for each treatment that sends patients straight to WhatsApp."
+   },
+   {
+    "h": "One clean look",
+    "p": "Posts and stories that feel calm and trustworthy, every week."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Profile Dental Clinic. I saw your page.",
+  "mail_subject": "Collaboration idea for Profile Dental Clinic"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ عيادة بروفايل لطب الأسنان · العذيبة",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "ساعدوا المراجع على الفهم <em>قبل أن يحجز.</em>",
+  "lead": "أهلاً فريق بروفايل، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. خدماتكم كثيرة، من إنفزلاين إلى الزراعة والتلميع بالهواء، فجهزت لكم هذه الصفحة بأفكار لشرح كل خدمة ببساطة.",
+  "why_title": "ماذا أستطيع أن أقدم لـ بروفايل",
+  "why": [
+   {
+    "h": "فيديوهات شرح العلاج",
+    "p": "موشن قصير يوضح خطوات إنفزلاين أو الزراعة أو علاج العصب."
+   },
+   {
+    "h": "صفحة حجز",
+    "p": "صفحة سريعة بالعربية والإنجليزية لكل خدمة، توصل المراجع مباشرة إلى واتساب."
+   },
+   {
+    "h": "أسلوب هادئ وموحد",
+    "p": "بوستات وستوريز توحي بالثقة والهدوء كل أسبوع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون تحقيقه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك عيادة بروفايل لطب الأسنان. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI video · Talking-character ads",
+   "en_cap": "Gulf-dialect characters for a Saudi financing company.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · شخصيات متحدثة",
+   "ar_cap": "شخصيات باللهجة الخليجية لشركة تمويل سعودية."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent monthly look across platforms.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب شهري ثابت على كل المنصات."
+  }
+ ]
+}

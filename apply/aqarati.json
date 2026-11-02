@@ -1,0 +1,127 @@
+{
+ "slug": "aqarati",
+ "company": "Aqarati",
+ "default_lang": "en",
+ "country_en": "Qatar",
+ "country_ar": "قطر",
+ "en": {
+  "title": "For Aqarati | Social Media Specialist / Content Creator, Abdelrahman Elsayed",
+  "tag": "Prepared for Aqarati · Doha",
+  "eyebrow": "Application · Social Media Specialist / Content Creator (Arabic)",
+  "h1": "Three healthcare brands, <em>three clear voices.</em>",
+  "lead": "Hi Aqarati team, I'm Abdelrahman, a graphic and motion designer and AI content creator with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. You're looking for one person to run content for three healthcare companies, so I made this page for you.",
+  "why_title": "What I'd bring to the role",
+  "why": [
+   {
+    "h": "A look for each brand",
+    "p": "Three monthly calendars, each with its own visual system, so no brand blurs into another."
+   },
+   {
+    "h": "Reels and educational videos",
+    "p": "Short-form edits in Premiere and After Effects, in Arabic and English."
+   },
+   {
+    "h": "AI video when shoots are hard",
+    "p": "AI scenes and talking-character videos, like the Gulf-dialect ads I made for a Saudi financing company."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Audit",
+    "p": "Review the three accounts and what already works."
+   },
+   {
+    "h": "Calendars",
+    "p": "A monthly plan for each company."
+   },
+   {
+    "h": "Produce",
+    "p": "Posts, stories, reels and ad creatives in each brand's look."
+   },
+   {
+    "h": "Review",
+    "p": "Check results every month and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Aqarati. I saw your page.",
+  "mail_subject": "Aqarati - Social Media Specialist / Content Creator"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ عقاراتي · الدوحة",
+  "eyebrow": "طلب توظيف · أخصائي سوشيال ميديا وصانع محتوى",
+  "h1": "ثلاث علامات صحية، <em>وثلاثة أصوات واضحة.</em>",
+  "lead": "أهلاً فريق عقاراتي، معكم عبدالرحمن، مصمم جرافيك وموشن وصانع محتوى بالذكاء الاصطناعي بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. تبحثون عن شخص يدير محتوى ثلاث شركات صحية، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لهذا الدور",
+  "why": [
+   {
+    "h": "هوية لكل علامة",
+    "p": "ثلاث خطط شهرية، لكل منها نظام بصري خاص، حتى لا تتشابه العلامات."
+   },
+   {
+    "h": "ريلز وفيديوهات توعوية",
+    "p": "مونتاج قصير على بريمير وأفتر إفكتس بالعربية والإنجليزية."
+   },
+   {
+    "h": "فيديو بالذكاء الاصطناعي",
+    "p": "مشاهد وشخصيات متحدثة بالذكاء الاصطناعي، مثل إعلانات اللهجة الخليجية لشركة تمويل سعودية."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "مراجعة",
+    "p": "مراجعة الحسابات الثلاثة وما ينجح حالياً."
+   },
+   {
+    "h": "الخطط",
+    "p": "خطة شهرية لكل شركة."
+   },
+   {
+    "h": "الإنتاج",
+    "p": "بوستات وستوريز وريلز وتصاميم إعلانات بأسلوب كل علامة."
+   },
+   {
+    "h": "التقييم",
+    "p": "مراجعة النتائج شهرياً والتطوير."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك عقاراتي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI video · Talking-character ads",
+   "en_cap": "Gulf-dialect characters for a Saudi financing company.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · شخصيات متحدثة",
+   "ar_cap": "شخصيات باللهجة الخليجية لشركة تمويل سعودية."
+  },
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
+}
