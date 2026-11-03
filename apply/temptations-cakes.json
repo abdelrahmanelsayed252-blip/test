@@ -1,0 +1,128 @@
+{
+ "slug": "temptations-cakes",
+ "company": "Temptations - Cakes & More",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Temptations - Cakes & More | Abdelrahman Elsayed",
+  "tag": "Prepared for Temptations · Muscat",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Let every custom cake <em>sell the next one.</em>",
+  "lead": "Hi Temptations team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion content for a Gulf café brand. Custom cakes, event catering and delivery across Muscat gave me a few ideas, so I made this page for you.",
+  "why_title": "What I could do for Temptations",
+  "why": [
+   {
+    "h": "AI scenes for each cake",
+    "p": "Your cakes placed in birthday, wedding and Eid settings, each scene made in under an hour and finished by hand."
+   },
+   {
+    "h": "Order-to-delivery reels",
+    "p": "Short motion pieces showing a custom cake from idea to doorstep, in Arabic and English."
+   },
+   {
+    "h": "A simple order page",
+    "p": "A fast mobile page where people pick an occasion and send the order on WhatsApp. I design and build pages like this myself."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few scenes or one reel around your own cakes."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Temptations. I saw your page.",
+  "mail_subject": "Collaboration idea for Temptations - Cakes & More"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ تمبتيشنز · مسقط",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "اجعلوا كل كعكة مخصصة <em>تبيع التي بعدها.</em>",
+  "lead": "أهلاً فريق تمبتيشنز، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات بالذكاء الاصطناعي ومحتوى موشن لعلامة مقاهٍ خليجية. الكيك المخصص وتموين المناسبات والتوصيل في أنحاء مسقط ألهمتني بعض الأفكار، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أستطيع أن أقدم لـ تمبتيشنز",
+  "why": [
+   {
+    "h": "مشاهد بالذكاء الاصطناعي لكل كعكة",
+    "p": "كعكاتكم في أجواء أعياد الميلاد والأعراس والعيد، كل مشهد في أقل من ساعة ومكتمل يدوياً."
+   },
+   {
+    "h": "ريلز من الطلب للتوصيل",
+    "p": "فيديوهات موشن قصيرة تُظهر الكعكة المخصصة من الفكرة حتى باب العميل، بالعربية والإنجليزية."
+   },
+   {
+    "h": "صفحة طلب بسيطة",
+    "p": "صفحة سريعة على الجوال يختار فيها العميل المناسبة ويرسل الطلب عبر واتساب. أصمم هذه الصفحات وأبنيها بنفسي."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون زيادته."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "بعض المشاهد أو ريل واحد عن كعكاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الشكل."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك تمبتيشنز. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على أفتر إفكتس."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "شكل ثابت في كل بوست."
+  }
+ ],
+ "kind": "client"
+}

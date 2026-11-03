@@ -1,0 +1,127 @@
+{
+ "slug": "moomoo",
+ "company": "moomoo",
+ "default_lang": "en",
+ "country_en": "Saudi Arabia",
+ "country_ar": "السعودية",
+ "en": {
+  "title": "For moomoo | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for moomoo · Riyadh",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "Make investing <em>feel simple and local.</em>",
+  "lead": "Hi moomoo team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands, many of them in Saudi Arabia. Your Graphic Designer role asks for AI tools, Arabic RTL layouts and global assets adapted to the Saudi market, which is the work I do every week, so I made this page for you.",
+  "why_title": "What I'd bring to moomoo",
+  "why": [
+   {
+    "h": "Key visuals for the Saudi market",
+    "p": "Campaign visuals in Arabic and English, like my Saudi National Day key visual, built from one idea across posts, stories, banners and OOH."
+   },
+   {
+    "h": "AI design and video",
+    "p": "Daily work in Midjourney, Flux Kontext, Magnific, Firefly, Veo 3, Kling, Runway and Higgsfield. I made talking-character ads in Gulf dialect for a Saudi financing company."
+   },
+   {
+    "h": "Motion and templates",
+    "p": "Product explainers and reels in After Effects and Premiere, plus reusable templates so the in-house team moves faster."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brand and rules",
+    "p": "Learn the global brand, the local tone and the compliance review."
+   },
+   {
+    "h": "Template kit",
+    "p": "Arabic and English templates for posts, carousels and banners."
+   },
+   {
+    "h": "First campaign",
+    "p": "One key visual rolled out across social, app, web and OOH."
+   },
+   {
+    "h": "AI workflow",
+    "p": "Prompts and steps the team can repeat with the same quality."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is moomoo. I saw your page.",
+  "mail_subject": "moomoo - Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ moomoo · الرياض",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "اجعلوا الاستثمار <em>بسيطاً وقريباً من الناس.</em>",
+  "lead": "أهلاً فريق moomoo، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية، كثير منها في السعودية. وظيفة مصمم الجرافيك لديكم تطلب أدوات الذكاء الاصطناعي وتصاميم عربية من اليمين لليسار وتكييف المواد العالمية للسوق السعودي، وهذه أعمالي اليومية، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ moomoo",
+  "why": [
+   {
+    "h": "صور رئيسية للسوق السعودي",
+    "p": "تصاميم حملات بالعربية والإنجليزية، مثل تصميمي لليوم الوطني السعودي، من فكرة واحدة تمتد للبوستات والستوريز والبانرات والإعلانات الخارجية."
+   },
+   {
+    "h": "تصميم وفيديو بالذكاء الاصطناعي",
+    "p": "أعمل يومياً على Midjourney وFlux Kontext وMagnific وFirefly وVeo 3 وKling وRunway وHiggsfield. صممت إعلانات بشخصيات ناطقة باللهجة الخليجية لشركة تمويل سعودية."
+   },
+   {
+    "h": "موشن وقوالب",
+    "p": "فيديوهات شرح وريلز على أفتر إفكتس وبريمير، مع قوالب جاهزة تسرّع عمل الفريق الداخلي."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "العلامة والقواعد",
+    "p": "فهم العلامة العالمية والنبرة المحلية ومراجعة الامتثال."
+   },
+   {
+    "h": "حزمة القوالب",
+    "p": "قوالب بالعربية والإنجليزية للبوستات والكاروسيل والبانرات."
+   },
+   {
+    "h": "الحملة الأولى",
+    "p": "صورة رئيسية واحدة تمتد للسوشيال والتطبيق والموقع والإعلانات الخارجية."
+   },
+   {
+    "h": "طريقة عمل بالذكاء الاصطناعي",
+    "p": "خطوات وأوامر يكررها الفريق بنفس الجودة."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك فريق moomoo. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على أفتر إفكتس."
+  }
+ ]
+}

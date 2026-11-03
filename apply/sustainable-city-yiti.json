@@ -1,0 +1,128 @@
+{
+ "slug": "sustainable-city-yiti",
+ "company": "The Sustainable City - Yiti",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For The Sustainable City - Yiti | Abdelrahman Elsayed",
+  "tag": "Prepared for The Sustainable City - Yiti",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Show the beach life <em>before the handover.</em>",
+  "lead": "Hi Sustainable City - Yiti team, I'm Abdelrahman, a graphic and motion designer who makes AI property visuals and video for Gulf brands. With phase two selling and The Plaza and The Arc on the way, I made this page with a few content ideas for you.",
+  "why_title": "What I could do for Yiti",
+  "why": [
+   {
+    "h": "Life at The Arc and The Plaza",
+    "p": "Mornings by the marina, families on the beach, evenings at the outlets, placed into your renders and finished by hand."
+   },
+   {
+    "h": "Explainer reels",
+    "p": "Short motion pieces that make solar power, water recycling and car-free streets easy to understand in under 30 seconds, in Arabic and English."
+   },
+   {
+    "h": "A talking guide",
+    "p": "An AI presenter who walks buyers through the community. I made an AI podcast host for a Saudi real estate exhibition (Siredo 2026)."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on which collection needs content first."
+   },
+   {
+    "h": "A first scene",
+    "p": "One lifestyle scene or short reel from your renders."
+   },
+   {
+    "h": "Launch kit",
+    "p": "Posts, stories, ads and brochure pages in one look."
+   },
+   {
+    "h": "Steady content",
+    "p": "New visuals every week through the sales phase."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is The Sustainable City - Yiti. I saw your page.",
+  "mail_subject": "Collaboration idea for The Sustainable City - Yiti"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ المدينة المستدامة - يتي",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "أروا الناس حياة الشاطئ <em>قبل التسليم.</em>",
+  "lead": "أهلاً فريق المدينة المستدامة - يتي، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج صوراً وفيديوهات عقارية بالذكاء الاصطناعي لعلامات تجارية خليجية. مع بيع المرحلة الثانية وقرب ذا بلازا وذا آرك، جهزت لكم هذه الصفحة ببعض أفكار المحتوى.",
+  "why_title": "ماذا أستطيع أن أقدم لـ يتي",
+  "why": [
+   {
+    "h": "الحياة في ذا آرك وذا بلازا",
+    "p": "صباحات عند المارينا وعائلات على الشاطئ وأمسيات في المحلات، داخل رندراتكم ومكتملة يدوياً."
+   },
+   {
+    "h": "ريلز توضيحية",
+    "p": "فيديوهات موشن قصيرة تشرح الطاقة الشمسية وإعادة تدوير المياه والشوارع الخالية من السيارات في أقل من 30 ثانية، بالعربية والإنجليزية."
+   },
+   {
+    "h": "مرشد ناطق",
+    "p": "مقدّم بالذكاء الاصطناعي يعرّف المشترين بالمجتمع. صممت مقدّم بودكاست بالذكاء الاصطناعي لمعرض عقاري سعودي (سيريدو 2026)."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن المجموعة التي تحتاج محتوى أولاً."
+   },
+   {
+    "h": "مشهد أول",
+    "p": "مشهد حياة واحد أو ريل قصير من رندراتكم."
+   },
+   {
+    "h": "حزمة الإطلاق",
+    "p": "بوستات وستوريز وإعلانات وصفحات بروشور بنفس الشكل."
+   },
+   {
+    "h": "محتوى منتظم",
+    "p": "صور جديدة كل أسبوع طوال مرحلة البيع."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك فريق المدينة المستدامة - يتي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "شكل ثابت في كل بوست."
+  }
+ ],
+ "kind": "client"
+}

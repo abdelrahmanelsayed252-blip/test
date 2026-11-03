@@ -1,0 +1,128 @@
+{
+ "slug": "masculuxe",
+ "company": "Masculuxe",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Masculuxe | Abdelrahman Elsayed",
+  "tag": "Prepared for Masculuxe · Al Sarooj",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Where men arrive refined, <em>on every screen too.</em>",
+  "lead": "Hi Masculuxe team, I'm Abdelrahman, a graphic and motion designer who works with 20+ brands in the Gulf. Your Royal Package, the herbal steam bath and booking on WhatsApp gave me a few ideas, so I made this page for Masculuxe.",
+  "why_title": "What I could do for Masculuxe",
+  "why": [
+   {
+    "h": "Service reels",
+    "p": "Short motion reels for the Royal Package, the Moroccan bath and the steam room, so people see the experience before they book."
+   },
+   {
+    "h": "One premium look",
+    "p": "Posts and stories in Arabic and English that match the calm, refined feel of the shop."
+   },
+   {
+    "h": "A simple booking page",
+    "p": "A fast mobile page with your services and one button to book on WhatsApp. I design and build pages like this myself."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few posts or one reel around your own services."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Masculuxe. I saw your page.",
+  "mail_subject": "Collaboration idea for Masculuxe"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ماسكولوكس · السروج",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "حيث يصل الرجل بأناقة، <em>وعلى كل شاشة أيضاً.</em>",
+  "lead": "أهلاً فريق ماسكولوكس، معكم عبدالرحمن، مصمم جرافيك وموشن عملت مع أكثر من 20 علامة تجارية في الخليج. باقة رويال وحمام البخار بالأعشاب والحجز عبر واتساب ألهمتني بعض الأفكار، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أستطيع أن أقدم لـ ماسكولوكس",
+  "why": [
+   {
+    "h": "ريلز للخدمات",
+    "p": "ريلز موشن قصيرة لباقة رويال والحمام المغربي وغرفة البخار، ليرى العميل التجربة قبل الحجز."
+   },
+   {
+    "h": "شكل فاخر موحد",
+    "p": "بوستات وستوريز بالعربية والإنجليزية تناسب الطابع الهادئ والأنيق للصالون."
+   },
+   {
+    "h": "صفحة حجز بسيطة",
+    "p": "صفحة سريعة على الجوال بخدماتكم وزر واحد للحجز عبر واتساب. أصمم هذه الصفحات وأبنيها بنفسي."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون زيادته."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "بعض البوستات أو ريل واحد عن خدماتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الشكل."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ماسكولوكس. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على أفتر إفكتس."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A full identity from logo to social.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية كاملة من الشعار إلى السوشيال."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "albandar",
+ "company": "Albandar Development",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Albandar Development | Abdelrahman Elsayed",
+  "tag": "Prepared for Albandar Development",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Green views and mountains <em>deserve to be felt.</em>",
+  "lead": "Hi Albandar team, I'm Abdelrahman, a graphic and motion designer who makes AI property visuals and video for Gulf brands. AlMasharif Villas in Qurum and the 86 villas of Tilal AlBandar gave me a few ideas, so I made this page for you.",
+  "why_title": "What I could do for Albandar",
+  "why": [
+   {
+    "h": "Lifestyle scenes from your renders",
+    "p": "Families on the terrace at AlMasharif, evenings in Tilal AlBandar, placed into your own renders and finished by hand in Photoshop."
+   },
+   {
+    "h": "Launch reels",
+    "p": "Short motion reels from your renders for social, ads and the sales office screens. I made an AI podcast host for a Saudi real estate exhibition (Siredo 2026)."
+   },
+   {
+    "h": "One look per project",
+    "p": "Al Bandar, AlMasharif, Tilal AlBandar and WASL GRAND each get posts, stories and brochure pages that are easy to recognise."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on the project, the buyer and the next launch."
+   },
+   {
+    "h": "A first scene",
+    "p": "One lifestyle scene or short reel made from your renders."
+   },
+   {
+    "h": "Launch kit",
+    "p": "Posts, stories, ads and brochure pages in one look."
+   },
+   {
+    "h": "Steady content",
+    "p": "New visuals every week until the project sells."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Albandar Development. I saw your page.",
+  "mail_subject": "Collaboration idea for Albandar Development"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ البندر للتطوير",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "الخضرة وإطلالة الجبال <em>تستحق أن تُعاش.</em>",
+  "lead": "أهلاً فريق البندر، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج صوراً وفيديوهات عقارية بالذكاء الاصطناعي لعلامات تجارية خليجية. فلل المشارف في القرم وفلل تلال البندر الـ86 ألهمتني بعض الأفكار، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أستطيع أن أقدم لـ البندر",
+  "why": [
+   {
+    "h": "مشاهد حياة من رندراتكم",
+    "p": "عائلات على شرفات المشارف وأمسيات في تلال البندر، داخل رندراتكم نفسها ومكتملة يدوياً على فوتوشوب."
+   },
+   {
+    "h": "ريلز الإطلاق",
+    "p": "ريلز موشن قصيرة من رندراتكم للسوشيال والإعلانات وشاشات مكتب المبيعات. صممت مقدّم بودكاست بالذكاء الاصطناعي لمعرض عقاري سعودي (سيريدو 2026)."
+   },
+   {
+    "h": "هوية لكل مشروع",
+    "p": "البندر والمشارف وتلال البندر ووصل جراند، لكل مشروع بوستات وستوريز وصفحات بروشور يسهل تمييزها."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن المشروع والمشتري والإطلاق القادم."
+   },
+   {
+    "h": "مشهد أول",
+    "p": "مشهد حياة واحد أو ريل قصير من رندراتكم."
+   },
+   {
+    "h": "حزمة الإطلاق",
+    "p": "بوستات وستوريز وإعلانات وصفحات بروشور بنفس الشكل."
+   },
+   {
+    "h": "محتوى منتظم",
+    "p": "صور جديدة كل أسبوع حتى يكتمل البيع."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك البندر للتطوير. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  }
+ ],
+ "kind": "client"
+}

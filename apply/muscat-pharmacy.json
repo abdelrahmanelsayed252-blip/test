@@ -1,0 +1,128 @@
+{
+ "slug": "muscat-pharmacy",
+ "company": "Muscat Pharmacy & Stores",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Muscat Pharmacy & Stores | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Pharmacy · Perfumes & Cosmetics",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Every new fragrance <em>needs its own scene.</em>",
+  "lead": "Hi Muscat Pharmacy team, I'm Abdelrahman, a graphic and motion designer who works with 20+ brands in the Gulf. Your perfumes and cosmetics division brings new products to many stores, so I made this page with a few content ideas for it.",
+  "why_title": "What I could do for Muscat Pharmacy",
+  "why": [
+   {
+    "h": "AI product scenes",
+    "p": "Each perfume or cosmetic placed in its own mood scene for launches, stories and in-store screens, finished by hand."
+   },
+   {
+    "h": "UGC-style video",
+    "p": "Short AI videos with characters and voice that show how a product is used. I made UGC-style ads for Ozone International UAE."
+   },
+   {
+    "h": "One look across stores",
+    "p": "Posts, offers and shelf material in Arabic and English that stay consistent in every branch."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on the next launches."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few scenes or one video for one product."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muscat Pharmacy. I saw your page.",
+  "mail_subject": "Collaboration idea for Muscat Pharmacy & Stores"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ صيدلية مسقط · العطور ومستحضرات التجميل",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "كل عطر جديد <em>يستحق مشهداً خاصاً.</em>",
+  "lead": "أهلاً فريق صيدلية مسقط، معكم عبدالرحمن، مصمم جرافيك وموشن عملت مع أكثر من 20 علامة تجارية في الخليج. قسم العطور ومستحضرات التجميل لديكم يقدم منتجات جديدة في فروع كثيرة، فجهزت لكم هذه الصفحة ببعض أفكار المحتوى.",
+  "why_title": "ماذا أستطيع أن أقدم لـ صيدلية مسقط",
+  "why": [
+   {
+    "h": "مشاهد منتجات بالذكاء الاصطناعي",
+    "p": "كل عطر أو منتج تجميل في مشهد بأجواء خاصة للإطلاقات والستوريز وشاشات الفروع، مكتمل يدوياً."
+   },
+   {
+    "h": "فيديو بأسلوب UGC",
+    "p": "فيديوهات قصيرة بالذكاء الاصطناعي بشخصيات وأصوات توضح طريقة الاستخدام. صممت إعلانات بأسلوب UGC لشركة أوزون إنترناشونال في الإمارات."
+   },
+   {
+    "h": "شكل واحد في كل الفروع",
+    "p": "بوستات وعروض ومواد رفوف بالعربية والإنجليزية بنفس الشكل في كل فرع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن الإطلاقات القادمة."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "بعض المشاهد أو فيديو واحد لمنتج واحد."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الشكل."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك صيدلية مسقط. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for launches and stories.",
+   "ar_title": "صورة منتج · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة للإطلاقات والستوريز."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}
