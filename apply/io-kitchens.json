@@ -1,0 +1,128 @@
+{
+ "slug": "io-kitchens",
+ "company": "IO Kitchens",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For IO Kitchens | Abdelrahman Elsayed",
+  "tag": "Prepared for IO Kitchens",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Thirty brands, <em>each with its own look.</em>",
+  "lead": "Hi IO Kitchens team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes for a Gulf coffee brand and builds tools for its branches. With 30+ brands under your roof and more kitchens coming, I made this page with ideas to keep every brand looking sharp on Talabat and Instagram.",
+  "why_title": "What I could do for IO Kitchens",
+  "why": [
+   {
+    "h": "AI menu scenes per brand",
+    "p": "Every item of every brand in a fresh scene, each made in under an hour, so new brands launch with full menus."
+   },
+   {
+    "h": "Launch reels",
+    "p": "Short motion reels for each new brand or kitchen opening."
+   },
+   {
+    "h": "Pickup pager and staff tools",
+    "p": "A no-app pager that rings the guest's phone at pickup, and a staff app for shifts and daily reports like the one I built for a 5-branch cafe chain."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is IO Kitchens. I saw your page.",
+  "mail_subject": "Collaboration idea for IO Kitchens"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ آي أو كيتشنز",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "ثلاثون علامة، <em>ولكل منها شكلها الخاص.</em>",
+  "lead": "أهلاً فريق آي أو كيتشنز، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات بالذكاء الاصطناعي لعلامة قهوة خليجية وأبني أدوات لفروعها. مع أكثر من 30 علامة لديكم ومطابخ جديدة قادمة، جهزت لكم هذه الصفحة بأفكار تبقي كل علامة بمظهر قوي على طلبات وإنستغرام.",
+  "why_title": "ماذا أستطيع أن أقدم لـ آي أو كيتشنز",
+  "why": [
+   {
+    "h": "مشاهد قوائم لكل علامة",
+    "p": "كل صنف لكل علامة في مشهد جديد، يُنجز في أقل من ساعة، لتنطلق العلامات الجديدة بقوائم كاملة."
+   },
+   {
+    "h": "ريلز الإطلاق",
+    "p": "ريلز متحركة قصيرة لكل علامة جديدة أو مطبخ يُفتتح."
+   },
+   {
+    "h": "منبّه الاستلام وأدوات الفريق",
+    "p": "منبّه دون تطبيق يرن على هاتف الضيف عند الاستلام، وتطبيق للفريق للورديات والتقارير اليومية مثل الذي بنيته لسلسلة مقاهٍ من 5 فروع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك آي أو كيتشنز. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

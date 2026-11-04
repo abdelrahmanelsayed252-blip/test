@@ -1,0 +1,128 @@
+{
+ "slug": "haddiya",
+ "company": "Haddiya",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Haddiya | Abdelrahman Elsayed",
+  "tag": "Prepared for Haddiya",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Every gift, <em>shown the moment it's opened.</em>",
+  "lead": "Hi Haddiya team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and video for Gulf brands. Luxury gifts that arrive wrapped and on time deserve visuals that feel the same, so I made this page with ideas for Haddiya's app and social.",
+  "why_title": "What I could do for Haddiya",
+  "why": [
+   {
+    "h": "AI gift scenes",
+    "p": "Perfumes, leather goods and watches in wrapped, ready-to-give scenes, each made in under an hour."
+   },
+   {
+    "h": "Season reels",
+    "p": "Short reels for National Day, Eid and gift festivals, ready before each date."
+   },
+   {
+    "h": "One look in app and social",
+    "p": "App banners, category tiles, posts and stories in the same style."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Haddiya. I saw your page.",
+  "mail_subject": "Collaboration idea for Haddiya"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ هدية",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "كل هدية <em>تظهر كأنها تُفتح الآن.</em>",
+  "lead": "أهلاً فريق هدية، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وفيديو بالذكاء الاصطناعي لعلامات تجارية خليجية. الهدايا الفاخرة التي تصل مغلفة وفي موعدها تستحق صوراً بنفس الإحساس، فجهزت لكم هذه الصفحة بأفكار لتطبيق هدية وحساباتها.",
+  "why_title": "ماذا أستطيع أن أقدم لـ هدية",
+  "why": [
+   {
+    "h": "مشاهد هدايا بالذكاء الاصطناعي",
+    "p": "عطور ومنتجات جلدية وساعات في مشاهد مغلفة وجاهزة للإهداء، كل مشهد في أقل من ساعة."
+   },
+   {
+    "h": "ريلز المواسم",
+    "p": "ريلز قصيرة لليوم الوطني والعيد ومهرجانات الهدايا، جاهزة قبل كل موعد."
+   },
+   {
+    "h": "أسلوب واحد للتطبيق والسوشيال",
+    "p": "بنرات التطبيق وصور الأقسام والبوستات والستوريز بنفس الأسلوب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك هدية. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product scene · Skincare",
+   "en_cap": "Products placed in premium scenes, finished by hand.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "منتجات في مشاهد فاخرة، مكتملة يدوياً."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A national-day campaign built around one strong image.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة يوم وطني مبنية على صورة واحدة قوية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offers and launches in one consistent look.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "العروض والإطلاقات بأسلوب واحد ثابت."
+  }
+ ],
+ "kind": "client"
+}

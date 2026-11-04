@@ -1,0 +1,127 @@
+{
+ "slug": "parsons",
+ "company": "Parsons",
+ "default_lang": "en",
+ "country_en": "United Arab Emirates",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For Parsons | Senior Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Parsons · Abu Dhabi",
+  "eyebrow": "Application · Senior Graphic Designer, Civil & Infrastructure",
+  "h1": "Big projects win <em>when people can see them.</em>",
+  "lead": "Hi Parsons team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. I saw your opening for a Senior Graphic Designer in civil and infrastructure, so I made this page for you.",
+  "why_title": "What I'd bring to Parsons",
+  "why": [
+   {
+    "h": "Clear proposal layouts",
+    "p": "Long documents built in InDesign with one grid, one type system and clean infographics."
+   },
+   {
+    "h": "Key visuals for projects",
+    "p": "One strong image per project, like my villa launch and Saudi National Day visuals, carried across covers, boards and posts."
+   },
+   {
+    "h": "Motion when it helps",
+    "p": "Short explainer animations in After Effects to show phases, routes or timelines."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Learn the brand",
+    "p": "Study Parsons guidelines and recent proposals."
+   },
+   {
+    "h": "Templates",
+    "p": "Set up InDesign and slide templates the team can reuse."
+   },
+   {
+    "h": "Deliver",
+    "p": "Covers, infographics and visuals for live bids."
+   },
+   {
+    "h": "Review",
+    "p": "Check what reviewers liked and tighten the system."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Parsons. I saw your page.",
+  "mail_subject": "Parsons - Senior Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ بارسونز · أبوظبي",
+  "eyebrow": "طلب توظيف · مصمم جرافيك أول، الهندسة المدنية والبنية التحتية",
+  "h1": "المشاريع الكبيرة تفوز <em>حين يراها الناس بوضوح.</em>",
+  "lead": "أهلاً فريق بارسونز، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. شاهدت إعلانكم عن وظيفة مصمم جرافيك أول في الهندسة المدنية والبنية التحتية، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ بارسونز",
+  "why": [
+   {
+    "h": "تنسيق واضح للعروض",
+    "p": "مستندات طويلة على إن ديزاين بشبكة واحدة ونظام خطوط واحد وإنفوجرافيك واضح."
+   },
+   {
+    "h": "صور رئيسية للمشاريع",
+    "p": "صورة قوية لكل مشروع، مثل إطلاق الفيلا وتصاميم اليوم الوطني السعودي، تمتد على الأغلفة واللوحات والبوستات."
+   },
+   {
+    "h": "موشن عند الحاجة",
+    "p": "رسوم متحركة قصيرة على أفتر إفكتس لعرض المراحل والمسارات والجداول الزمنية."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "فهم العلامة",
+    "p": "دراسة إرشادات بارسونز وأحدث العروض."
+   },
+   {
+    "h": "القوالب",
+    "p": "تجهيز قوالب إن ديزاين والعروض التقديمية لاستخدام الفريق."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "أغلفة وإنفوجرافيك وصور للعروض الجارية."
+   },
+   {
+    "h": "المراجعة",
+    "p": "مراجعة ما أعجب المقيّمين وتحسين النظام."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك بارسونز. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A national-day campaign built around one strong image.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة يوم وطني مبنية على صورة واحدة قوية."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "Logo, colours and type that work at every size.",
+   "ar_title": "هوية · جميلة",
+   "ar_cap": "شعار وألوان وخطوط تعمل بكل المقاسات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
+}

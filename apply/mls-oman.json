@@ -1,0 +1,128 @@
+{
+ "slug": "mls-oman",
+ "company": "MLS Muscat Livestock",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For MLS Muscat Livestock | Abdelrahman Elsayed",
+  "tag": "Prepared for MLS Muscat Livestock",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "From the cut <em>to the plate, in one scene.</em>",
+  "lead": "Hi MLS team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and video for Gulf brands. With your seasoned range like the Omani chicken mishkak and grass-fed burgers, and the new Al Meera partnership, I made this page with ideas for showing each product cooked and served.",
+  "why_title": "What I could do for MLS Muscat Livestock",
+  "why": [
+   {
+    "h": "AI cooked-and-served scenes",
+    "p": "Each pack shown next to the finished dish on a family table, made in under an hour and finished by hand."
+   },
+   {
+    "h": "Value box reels",
+    "p": "Short reels that open a box and show the week of meals inside."
+   },
+   {
+    "h": "Shelf and online in one look",
+    "p": "Website tiles, posts and in-store visuals for Al Meera in the same style."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is MLS Muscat Livestock. I saw your page.",
+  "mail_subject": "Collaboration idea for MLS Muscat Livestock"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مواشي مسقط",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "من القطعة <em>إلى الطبق، في مشهد واحد.</em>",
+  "lead": "أهلاً فريق مواشي مسقط، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وفيديو بالذكاء الاصطناعي لعلامات تجارية خليجية. مع منتجاتكم المتبلة مثل مشاكيك الدجاج العماني والبرجر، وشراكتكم الجديدة مع الميرة، جهزت لكم هذه الصفحة بأفكار لعرض كل منتج مطبوخاً وجاهزاً للتقديم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مواشي مسقط",
+  "why": [
+   {
+    "h": "مشاهد الطبق الجاهز",
+    "p": "كل عبوة بجانب الطبق النهائي على مائدة عائلية، تُنجز في أقل من ساعة وتكتمل يدوياً."
+   },
+   {
+    "h": "ريلز صناديق التوفير",
+    "p": "ريلز قصيرة تفتح الصندوق وتعرض وجبات الأسبوع داخله."
+   },
+   {
+    "h": "المتجر والموقع بأسلوب واحد",
+    "p": "صور الموقع والبوستات ومواد العرض في الميرة بنفس الأسلوب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مواشي مسقط. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "id-khayrat",
+   "en_title": "Identity · Khayrat Al-Ahsa",
+   "en_cap": "A full identity for a Saudi food brand.",
+   "ar_title": "هوية · خيرات الأحساء",
+   "ar_cap": "هوية كاملة لعلامة أغذية سعودية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offers and launches in one consistent look.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "العروض والإطلاقات بأسلوب واحد ثابت."
+  }
+ ],
+ "kind": "client"
+}

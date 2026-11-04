@@ -1,0 +1,128 @@
+{
+ "slug": "mackenzies-kitchen",
+ "company": "Mackenzie's Kitchen",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Mackenzie's Kitchen | Abdelrahman Elsayed",
+  "tag": "Prepared for Mackenzie's Kitchen",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Fish and chips that <em>look as good as they taste.</em>",
+  "lead": "Hi Mackenzie's Kitchen team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee brand. Your build-your-box WhatsApp ordering in MQ is a smart setup, so I made this page with a few ideas to bring more people to it.",
+  "why_title": "What I could do for Mackenzie's Kitchen",
+  "why": [
+   {
+    "h": "AI scenes per dish",
+    "p": "The Classic Fish & Chips and the Weekend Family Combo in fresh coastal scenes, each made in under an hour."
+   },
+   {
+    "h": "Weekend combo reels",
+    "p": "Short motion reels for the family combo that end on the WhatsApp order button."
+   },
+   {
+    "h": "A pickup pager",
+    "p": "For takeaway orders, the guest's own phone rings when the box is ready, no app needed. I built this for a cafe chain, now in pilot."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Mackenzie's Kitchen. I saw your page.",
+  "mail_subject": "Collaboration idea for Mackenzie's Kitchen"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ماكنزيز كيتشن",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "سمك وبطاطا <em>بشكل يليق بطعمها.</em>",
+  "lead": "أهلاً فريق ماكنزيز كيتشن، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة خليجية. طريقة الطلب عبر واتساب وتجهيز الصندوق في مدينة السلطان قابوس فكرة ذكية، فجهزت لكم هذه الصفحة بأفكار تجلب المزيد من الطلبات.",
+  "why_title": "ماذا أستطيع أن أقدم لـ ماكنزيز كيتشن",
+  "why": [
+   {
+    "h": "مشهد لكل طبق",
+    "p": "طبق السمك والبطاطا الكلاسيكي وعرض العائلة في مشاهد ساحلية جديدة، كل مشهد في أقل من ساعة."
+   },
+   {
+    "h": "ريلز عرض نهاية الأسبوع",
+    "p": "ريلز متحركة قصيرة لعرض العائلة تنتهي بزر الطلب عبر واتساب."
+   },
+   {
+    "h": "منبّه استلام الطلب",
+    "p": "لطلبات الاستلام، يرن هاتف الضيف نفسه عند جاهزية الطلب دون تطبيق. بنيته لسلسلة مقاهٍ وهو الآن في مرحلة التجربة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ماكنزيز كيتشن. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}
