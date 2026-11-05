@@ -1,0 +1,128 @@
+{
+ "slug": "omasco",
+ "company": "OMASCO Al-Futtaim",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For OMASCO Al-Futtaim | Abdelrahman Elsayed",
+  "tag": "Prepared for OMASCO Al-Futtaim · Muscat",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Put each model <em>on an Omani road before the shoot.</em>",
+  "lead": "Hi OMASCO team, I'm Abdelrahman, a graphic and motion designer working with Gulf brands. Car launches and offers need fresh visuals every month, so I made this page with a few ideas for your showrooms and social.",
+  "why_title": "What I could do for OMASCO Al-Futtaim",
+  "why": [
+   {
+    "h": "AI car scenes",
+    "p": "Models placed in desert, coast and city scenes with AI, finished by hand in Photoshop."
+   },
+   {
+    "h": "Launch and offer reels",
+    "p": "Short motion pieces for new models, service offers and showroom screens."
+   },
+   {
+    "h": "AI video ads",
+    "p": "Presenter and UGC-style videos with AI characters and voice, like my ads for Ozone International UAE."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on your next launch or offer."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few car scenes and one reel."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is OMASCO. I saw your page.",
+  "mail_subject": "Collaboration idea for OMASCO Al-Futtaim",
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لـ أوماسكو الفطيم · مسقط",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "ضعوا كل طراز <em>على طريق عُماني قبل التصوير.</em>",
+  "lead": "أهلاً فريق أوماسكو، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية. إطلاق السيارات والعروض يحتاج صوراً جديدة كل شهر، فجهزت لكم هذه الصفحة بأفكار لصالات العرض والسوشيال.",
+  "why_title": "ماذا أستطيع أن أقدم لـ أوماسكو الفطيم",
+  "why": [
+   {
+    "h": "مشاهد سيارات بالذكاء الاصطناعي",
+    "p": "الطرازات في مشاهد صحراء وساحل ومدينة، مكتملة يدوياً على فوتوشوب."
+   },
+   {
+    "h": "ريلز الإطلاق والعروض",
+    "p": "مقاطع موشن قصيرة للطرازات الجديدة وعروض الصيانة وشاشات صالات العرض."
+   },
+   {
+    "h": "إعلانات فيديو بالذكاء الاصطناعي",
+    "p": "فيديوهات بمقدّم أو بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي، مثل إعلاناتي لأوزون إنترناشونال في الإمارات."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن الإطلاق أو العرض القادم."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "عدة مشاهد سيارات وريل واحد."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى مستمر بشكل واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك أوماسكو. اطلعت على صفحتك.",
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "ai-cars",
+   "en_title": "AI scene · Cars",
+   "en_cap": "Car scenes built with AI and finished by hand.",
+   "ar_title": "مشهد بالذكاء الاصطناعي · سيارات",
+   "ar_cap": "مشاهد سيارات بالذكاء الاصطناعي، مكتملة يدوياً."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent monthly look across platforms.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب شهري ثابت على كل المنصات."
+  }
+ ],
+ "kind": "client"
+}

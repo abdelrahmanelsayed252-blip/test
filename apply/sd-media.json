@@ -1,0 +1,127 @@
+{
+ "slug": "sd-media",
+ "company": "SD Media",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For SD Media | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for SD Media · Dubai",
+  "eyebrow": "Application · Graphic Designer (Mid-Level)",
+  "h1": "Every client <em>gets a look of its own.</em>",
+  "lead": "Hi SD Media team, I'm Abdelrahman, a graphic and motion designer with 6+ years of brand and social work for Gulf companies. Your ad asks for both social media and branding in Arabic and English, so I made this page around exactly that.",
+  "why_title": "What I'd bring to SD Media",
+  "why": [
+   {
+    "h": "Identities from scratch",
+    "p": "Logos, colours, type and guidelines, like Gamela, CARLY, IVY and Khayrat Al-Ahsa."
+   },
+   {
+    "h": "Social that stays on brand",
+    "p": "Posts, stories, carousels and ad creatives in Arabic and English for 20+ brands in Saudi Arabia, the UAE, Oman and Qatar."
+   },
+   {
+    "h": "Motion and AI on top",
+    "p": "After Effects reels and AI product scenes, which I share with the team as new tools come out."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Learn the clients",
+    "p": "Read each brand's guidelines and past work."
+   },
+   {
+    "h": "First briefs",
+    "p": "Turn briefs into clear concepts and present them."
+   },
+   {
+    "h": "Roll-out",
+    "p": "Adapt each design to every platform and size."
+   },
+   {
+    "h": "Share",
+    "p": "Bring new AI tools and shortcuts to the team."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is SD Media about the Graphic Designer role",
+  "mail_subject": "SD Media - Graphic Designer",
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لـ إس دي ميديا · دبي",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "كل عميل <em>بهوية خاصة به.</em>",
+  "lead": "أهلاً فريق إس دي ميديا، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات في الهويات والسوشيال لشركات خليجية. إعلانكم يطلب السوشيال والهويات معاً بالعربية والإنجليزية، فجهزت هذه الصفحة حول ذلك.",
+  "why_title": "ماذا أضيف لـ إس دي ميديا",
+  "why": [
+   {
+    "h": "هويات من البداية",
+    "p": "شعارات وألوان وخطوط وأدلة استخدام، مثل Gamela وCARLY وIVY وخيرات الأحساء."
+   },
+   {
+    "h": "سوشيال ملتزم بالهوية",
+    "p": "بوستات وستوريز وكاروسيل وإعلانات بالعربية والإنجليزية لأكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر."
+   },
+   {
+    "h": "موشن وذكاء اصطناعي",
+    "p": "ريلز على أفتر إفكتس ومشاهد منتجات بالذكاء الاصطناعي، وأشارك الفريق بكل أداة جديدة."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "فهم العملاء",
+    "p": "قراءة أدلة كل علامة وأعمالها السابقة."
+   },
+   {
+    "h": "الموجزات الأولى",
+    "p": "تحويل الموجز إلى أفكار واضحة وعرضها."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "تكييف كل تصميم لكل منصة ومقاس."
+   },
+   {
+    "h": "المشاركة",
+    "p": "نقل أدوات الذكاء الاصطناعي الجديدة للفريق."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك إس دي ميديا بخصوص وظيفة مصمم الجرافيك",
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A full brand identity, from logo to applications.",
+   "ar_title": "هوية · Gamela",
+   "ar_cap": "هوية بصرية كاملة من الشعار إلى التطبيقات."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A full identity from logo to social.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية كاملة من الشعار إلى السوشيال."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "nazart",
+ "company": "Nazart",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For Nazart | Senior AI Video Editor, Abdelrahman Elsayed",
+  "tag": "Prepared for Nazart · Dubai",
+  "eyebrow": "Application · Senior AI Video Editor & Generative Video Specialist",
+  "h1": "Show every piece <em>in a room it belongs in.</em>",
+  "lead": "Hi Nazart team, I'm Abdelrahman, a graphic and motion designer who makes AI video for Gulf brands. Your ad asks for AI product videos that keep materials, proportions and details true, so I made this page to show how I work.",
+  "why_title": "What I'd bring to Nazart",
+  "why": [
+   {
+    "h": "AI video that keeps the product right",
+    "p": "Image-to-video scenes with Veo 3, Kling, Runway and Higgsfield, checked frame by frame and finished in After Effects and Premiere."
+   },
+   {
+    "h": "Voice, dialect and versions",
+    "p": "AI voiceovers with ElevenLabs, including talking-character ads in Gulf dialect for a Saudi financing company, cut into every format and length."
+   },
+   {
+    "h": "A workflow, not one-off videos",
+    "p": "Reusable templates and AI pipelines, like the product scenes I make for Pancakes Coffee in under an hour each."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Product library",
+    "p": "Gather hero shots and specs so every AI scene stays true to the piece."
+   },
+   {
+    "h": "First scenes",
+    "p": "A few AI room and lifestyle scenes, reviewed with the marketing manager."
+   },
+   {
+    "h": "Video set",
+    "p": "Reels, ad variations with different hooks, and product showcases."
+   },
+   {
+    "h": "Pipeline",
+    "p": "Document the workflow so new collections move fast."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Nazart about the Senior AI Video Editor role",
+  "mail_subject": "Nazart - Senior AI Video Editor",
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لـ نزارت · دبي",
+  "eyebrow": "طلب توظيف · محرر فيديو أول بالذكاء الاصطناعي",
+  "h1": "اعرضوا كل قطعة <em>في المكان الذي يليق بها.</em>",
+  "lead": "أهلاً فريق نزارت، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج فيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. إعلانكم يطلب فيديوهات منتجات تحافظ على الخامات والمقاسات والتفاصيل، فجهزت هذه الصفحة لأوضح طريقتي.",
+  "why_title": "ماذا أضيف لـ نزارت",
+  "why": [
+   {
+    "h": "فيديو بالذكاء الاصطناعي يحافظ على المنتج",
+    "p": "مشاهد من صورة إلى فيديو على Veo 3 وKling وRunway وHiggsfield، أراجعها لقطة بلقطة وأكملها على أفتر إفكتس وبريمير."
+   },
+   {
+    "h": "صوت ولهجة ونسخ متعددة",
+    "p": "تعليق صوتي بالذكاء الاصطناعي على ElevenLabs، منها إعلانات بشخصيات تتحدث باللهجة الخليجية لشركة تمويل سعودية، بكل المقاسات والمدد."
+   },
+   {
+    "h": "منظومة عمل وليست فيديو واحداً",
+    "p": "قوالب ومسارات عمل قابلة للتكرار، مثل مشاهد المنتجات التي أنتجها لـ Pancakes Coffee في أقل من ساعة لكل مشهد."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "مكتبة المنتجات",
+    "p": "جمع الصور والمواصفات ليبقى كل مشهد مطابقاً للقطعة."
+   },
+   {
+    "h": "المشاهد الأولى",
+    "p": "مشاهد غرف وحياة يومية بالذكاء الاصطناعي، تُراجع مع مدير التسويق."
+   },
+   {
+    "h": "مجموعة الفيديو",
+    "p": "ريلز ونسخ إعلانية ببدايات مختلفة وعروض للمنتجات."
+   },
+   {
+    "h": "مسار العمل",
+    "p": "توثيق الطريقة لتنطلق المجموعات الجديدة بسرعة."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك نزارت بخصوص وظيفة محرر الفيديو بالذكاء الاصطناعي",
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
+}

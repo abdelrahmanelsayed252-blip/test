@@ -1,0 +1,128 @@
+{
+ "slug": "gulf-specialized-hospital",
+ "company": "Gulf Specialized Hospital & Polyclinic",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Gulf Specialized Hospital | Abdelrahman Elsayed",
+  "tag": "Prepared for Gulf Specialized Hospital · Muscat",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Explain each clinic <em>before the first visit.</em>",
+  "lead": "Hi Gulf Specialized Hospital team, I'm Abdelrahman, a graphic and motion designer working with Gulf brands. You run many departments, from orthopedics and ENT to the nutrition clinic, so I made this page with ideas to make each one easy to understand and book.",
+  "why_title": "What I could do for Gulf Specialized Hospital",
+  "why": [
+   {
+    "h": "Explainer videos per department",
+    "p": "Short motion videos that explain what each clinic offers, in Arabic and English."
+   },
+   {
+    "h": "A booking page",
+    "p": "A simple page where patients pick the clinic and send a booking request on WhatsApp."
+   },
+   {
+    "h": "One look across channels",
+    "p": "Posts, stories and screens in the same calm style."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on which department to start with."
+   },
+   {
+    "h": "A first sample",
+    "p": "One explainer video and a few posts."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Gulf Specialized Hospital. I saw your page.",
+  "mail_subject": "Collaboration idea for Gulf Specialized Hospital",
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مستشفى الخليج التخصصي · مسقط",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "عرّفوا بكل عيادة <em>قبل الزيارة الأولى.</em>",
+  "lead": "أهلاً فريق مستشفى الخليج التخصصي، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية. لديكم أقسام كثيرة من العظام والأنف والأذن إلى عيادة التغذية، فجهزت هذه الصفحة بأفكار تجعل كل قسم سهل الفهم والحجز.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مستشفى الخليج التخصصي",
+  "why": [
+   {
+    "h": "فيديو تعريفي لكل قسم",
+    "p": "فيديوهات موشن قصيرة توضح خدمات كل عيادة بالعربية والإنجليزية."
+   },
+   {
+    "h": "صفحة حجز",
+    "p": "صفحة بسيطة يختار فيها المريض العيادة ويرسل طلب الحجز على واتساب."
+   },
+   {
+    "h": "شكل واحد على كل القنوات",
+    "p": "بوستات وستوريز وشاشات بنفس الأسلوب الهادئ."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لاختيار القسم الأول."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "فيديو تعريفي واحد وعدة بوستات."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى مستمر بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك مستشفى الخليج التخصصي. اطلعت على صفحتك.",
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent monthly look across platforms.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب شهري ثابت على كل المنصات."
+  }
+ ],
+ "kind": "client"
+}

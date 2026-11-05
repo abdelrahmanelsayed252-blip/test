@@ -1,0 +1,127 @@
+{
+ "slug": "gulf-worldwide",
+ "company": "Gulf Worldwide Distribution",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For Gulf Worldwide Distribution | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Gulf Worldwide Distribution · Dubai",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "Four businesses, <em>one clear visual voice.</em>",
+  "lead": "Hi Gulf Worldwide Distribution team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands. Your ad covers automotive, industrial, real estate with Nuom Properties and a financial consultancy, so I made this page for that mix.",
+  "why_title": "What I'd bring to Gulf Worldwide Distribution",
+  "why": [
+   {
+    "h": "Real estate launches",
+    "p": "Key visuals, brochures and ads, like my villa launch work and AI lifestyle scenes."
+   },
+   {
+    "h": "Landing pages I build myself",
+    "p": "Fast Arabic and English pages built with Claude Code, like the Pancakes Coffee site."
+   },
+   {
+    "h": "Clear decks and ad sets",
+    "p": "Sales decks, infographics and Meta, Google and LinkedIn creatives in one look, plus reels in After Effects."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brand audit",
+    "p": "Line up each business's current look and guidelines."
+   },
+   {
+    "h": "Nuom Properties",
+    "p": "A launch kit: brochure, ads and a landing page."
+   },
+   {
+    "h": "Ad variations",
+    "p": "A/B versions for the main campaigns."
+   },
+   {
+    "h": "Templates",
+    "p": "Decks and report templates every team can use."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Gulf Worldwide Distribution about the Graphic Designer role",
+  "mail_subject": "Gulf Worldwide Distribution - Graphic Designer",
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لـ جلف وورلدوايد للتوزيع · دبي",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "أربعة أنشطة <em>بصوت بصري واحد واضح.</em>",
+  "lead": "أهلاً فريق جلف وورلدوايد للتوزيع، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. إعلانكم يشمل السيارات والصناعة والعقارات مع نوم العقارية والاستشارات المالية، فجهزت هذه الصفحة لهذا التنوع.",
+  "why_title": "ماذا أضيف لـ جلف وورلدوايد للتوزيع",
+  "why": [
+   {
+    "h": "إطلاق المشاريع العقارية",
+    "p": "صور رئيسية وكتيبات وإعلانات، مثل أعمالي لإطلاق فيلا ومشاهد الحياة بالذكاء الاصطناعي."
+   },
+   {
+    "h": "صفحات هبوط أبنيها بنفسي",
+    "p": "صفحات سريعة بالعربية والإنجليزية مبنية بـ Claude Code، مثل موقع Pancakes Coffee."
+   },
+   {
+    "h": "عروض وإعلانات واضحة",
+    "p": "عروض مبيعات وإنفوجرافيك وإعلانات ميتا وجوجل ولينكدإن بشكل واحد، مع ريلز على أفتر إفكتس."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "مراجعة الهوية",
+    "p": "ترتيب الشكل الحالي لكل نشاط وأدلته."
+   },
+   {
+    "h": "نوم العقارية",
+    "p": "حزمة إطلاق: كتيب وإعلانات وصفحة هبوط."
+   },
+   {
+    "h": "نسخ إعلانية",
+    "p": "نسخ للمقارنة للحملات الرئيسية."
+   },
+   {
+    "h": "القوالب",
+    "p": "قوالب عروض وتقارير يستخدمها كل فريق."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك جلف وورلدوايد للتوزيع بخصوص وظيفة مصمم الجرافيك",
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent monthly look across platforms.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب شهري ثابت على كل المنصات."
+  },
+  {
+   "src": "ai-cars",
+   "en_title": "AI scene · Cars",
+   "en_cap": "Car scenes built with AI and finished by hand.",
+   "ar_title": "مشهد بالذكاء الاصطناعي · سيارات",
+   "ar_cap": "مشاهد سيارات بالذكاء الاصطناعي، مكتملة يدوياً."
+  }
+ ]
+}
