@@ -1,0 +1,128 @@
+{
+ "slug": "modern-skin-center",
+ "company": "Modern Skin Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Modern Skin Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Modern Skin Center · Al Azaiba",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Explain the treatment <em>before the first visit.</em>",
+  "lead": "Hi Modern Skin Center team, I'm Abdelrahman, a graphic and motion designer who works with Gulf brands and builds websites myself. You offer a wide list of treatments, from laser hair removal and fillers to Dermamelan, ScarLet RF and peels. Here are a few ideas to help patients understand and book them.",
+  "why_title": "What I could do for Modern Skin Center",
+  "why": [
+   {
+    "h": "Treatment explainer reels",
+    "p": "Short motion videos that walk through each treatment step by step, in Arabic and English."
+   },
+   {
+    "h": "A new website with booking",
+    "p": "A fast Arabic and English site where each treatment has its own page and a booking button."
+   },
+   {
+    "h": "Calm, consistent social",
+    "p": "Posts and stories in one clean look, built around your doctors and treatments."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Modern Skin Center. I saw your page.",
+  "mail_subject": "Collaboration idea for Modern Skin Center"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مودرن سكن سنتر · العذيبة",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "اشرحوا العلاج <em>قبل الزيارة الأولى.</em>",
+  "lead": "أهلاً فريق مودرن سكن سنتر، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية وأبني المواقع بنفسي. تقدمون قائمة واسعة من العلاجات، من إزالة الشعر بالليزر والفيلر إلى ديرمامِلان وسكارليت RF والتقشير. هذه بعض الأفكار لتساعد المرضى على فهمها وحجزها.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مودرن سكن سنتر",
+  "why": [
+   {
+    "h": "ريلز تشرح العلاجات",
+    "p": "فيديوهات موشن قصيرة تشرح كل علاج خطوة بخطوة، بالعربية والإنجليزية."
+   },
+   {
+    "h": "موقع جديد مع الحجز",
+    "p": "موقع سريع بالعربية والإنجليزية لكل علاج فيه صفحة وزر حجز."
+   },
+   {
+    "h": "سوشيال هادئ ومتناسق",
+    "p": "بوستات وستوريز بأسلوب واحد نظيف، حول أطبائكم وعلاجاتكم."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "عدة تصاميم أو ريل واحد مبني على أعمالكم أنتم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونطوّر."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مودرن سكن سنتر. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty brands.",
+   "ar_title": "صورة منتج · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات الجمال."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A calm, premium brand look.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية هادئة وفاخرة."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ],
+ "kind": "client"
+}

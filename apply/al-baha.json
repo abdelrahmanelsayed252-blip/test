@@ -1,0 +1,127 @@
+{
+ "slug": "al-baha",
+ "company": "Al Baha Real Estate",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Al Baha Real Estate | Graphic & Video Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Al Baha Real Estate · Muscat",
+  "eyebrow": "Application · Graphic & Video Designer",
+  "h1": "Property sells faster <em>when people can see the life in it.</em>",
+  "lead": "Hi Al Baha team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. I saw your opening for a Graphic & Video Designer in Muscat, so I made this page to show how I'd handle both sides of the role.",
+  "why_title": "What I'd bring to Al Baha Real Estate",
+  "why": [
+   {
+    "h": "Listing and launch design",
+    "p": "Posts, brochures and key visuals for each property in one clear look."
+   },
+   {
+    "h": "Video for every unit",
+    "p": "Short reels edited in Premiere and After Effects, plus AI walkthrough-style scenes."
+   },
+   {
+    "h": "AI presenters",
+    "p": "A talking presenter that explains a project in Arabic, like the AI podcast host I made for the Siredo 2026 real estate exhibition."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "Repeatable for every project you launch.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the project, the buyer and the launch date."
+   },
+   {
+    "h": "Key visual",
+    "p": "One strong look for the project that everything follows."
+   },
+   {
+    "h": "Roll-out",
+    "p": "Posts, reels, brochures and site banners in the same style."
+   },
+   {
+    "h": "Review",
+    "p": "Check what brought enquiries and adjust the next launch."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Al Baha Real Estate. I saw your page.",
+  "mail_subject": "Al Baha Real Estate - Graphic & Video Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ الباحة العقارية · مسقط",
+  "eyebrow": "طلب توظيف · مصمم جرافيك وفيديو",
+  "h1": "العقار يُباع أسرع <em>حين يرى الناس الحياة فيه.</em>",
+  "lead": "أهلاً فريق الباحة العقارية، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. شاهدت إعلانكم عن وظيفة مصمم جرافيك وفيديو في مسقط، فجهزت هذه الصفحة لأوضح كيف أتولى جانبي الوظيفة.",
+  "why_title": "ماذا أضيف لـ الباحة العقارية",
+  "why": [
+   {
+    "h": "تصميم العروض والإطلاقات",
+    "p": "بوستات وبروشورات وصور رئيسية لكل عقار بأسلوب واحد واضح."
+   },
+   {
+    "h": "فيديو لكل وحدة",
+    "p": "ريلز قصيرة على بريمير وأفتر إفكتس، ومشاهد جولات بالذكاء الاصطناعي."
+   },
+   {
+    "h": "مقدّمون بالذكاء الاصطناعي",
+    "p": "مقدّم يشرح المشروع بالعربية، مثل مقدّم البودكاست الذي صممته لمعرض سيريدو 2026 العقاري."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "طريقة تتكرر مع كل مشروع تطلقونه.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "الاتفاق على المشروع والمشتري وموعد الإطلاق."
+   },
+   {
+    "h": "الصورة الرئيسية",
+    "p": "هوية بصرية قوية للمشروع يتبعها كل شيء."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "بوستات وريلز وبروشورات وبانرات للموقع بنفس الأسلوب."
+   },
+   {
+    "h": "المراجعة",
+    "p": "مراجعة ما جلب الاستفسارات وتطوير الإطلاق التالي."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك الباحة العقارية. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "A launch visual built with AI and finished by hand.",
+   "ar_title": "صورة رئيسية · إطلاق فلل",
+   "ar_cap": "صورة إطلاق بالذكاء الاصطناعي، مكتملة يدوياً."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Ozone International UAE",
+   "en_cap": "UGC-style ads made with AI tools.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بأدوات الذكاء الاصطناعي."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "la-bella-house",
+ "company": "La Bella House",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For La Bella House | Abdelrahman Elsayed",
+  "tag": "Prepared for La Bella House · Azaiba",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Brows, blow-dries and makeup <em>that people see before they book.</em>",
+  "lead": "Hi La Bella House team, I'm Abdelrahman, a graphic and motion designer who works with Gulf beauty and lifestyle brands. Your eyebrow lamination, keratin blow-dries and makeup work are made for short reels. Here are a few ideas for La Bella House.",
+  "why_title": "What I could do for La Bella House",
+  "why": [
+   {
+    "h": "Service reels",
+    "p": "Short before-and-after style reels for each service, in one soft, premium look."
+   },
+   {
+    "h": "A booking page",
+    "p": "A simple page with your services, hours and a WhatsApp booking button."
+   },
+   {
+    "h": "Monthly social content",
+    "p": "Posts and stories that keep the villa salon feeling calm and personal."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is La Bella House. I saw your page.",
+  "mail_subject": "Collaboration idea for La Bella House"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ لا بيلا هاوس · العذيبة",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "الحواجب والسشوار والمكياج <em>يراها الناس قبل أن يحجزوا.</em>",
+  "lead": "أهلاً فريق لا بيلا هاوس، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات خليجية في الجمال وأسلوب الحياة. خدماتكم في لامينيشن الحواجب والسشوار بالكيراتين والمكياج مناسبة جداً للريلز القصيرة. هذه بعض الأفكار للا بيلا هاوس.",
+  "why_title": "ماذا أستطيع أن أقدم لـ لا بيلا هاوس",
+  "why": [
+   {
+    "h": "ريلز الخدمات",
+    "p": "ريلز قصيرة بأسلوب قبل وبعد لكل خدمة، بشكل ناعم وفاخر."
+   },
+   {
+    "h": "صفحة حجز",
+    "p": "صفحة بسيطة بالخدمات والمواعيد وزر حجز عبر واتساب."
+   },
+   {
+    "h": "محتوى سوشيال شهري",
+    "p": "بوستات وستوريز تحافظ على طابع الصالون الهادئ والشخصي."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "عدة تصاميم أو ريل واحد مبني على أعمالكم أنتم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونطوّر."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك لا بيلا هاوس. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty brands.",
+   "ar_title": "صورة منتج · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات الجمال."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A calm, premium brand look.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية هادئة وفاخرة."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "fitbox-club",
+ "company": "Fitbox Club",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Fitbox Club | Abdelrahman Elsayed",
+  "tag": "Prepared for Fitbox Club · Mawaleh & Al Khuwair",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "The first class is free. <em>Make people want to book it.</em>",
+  "lead": "Hi Fitbox Club team, I'm Abdelrahman, a graphic and motion designer who works with Gulf brands. Boxing, Muay Thai and BJJ across two branches, with classes for kids, teens and women, is a lot of energy to show. Here are a few ideas for Fitbox.",
+  "why_title": "What I could do for Fitbox Club",
+  "why": [
+   {
+    "h": "Training reels",
+    "p": "Fast motion reels from your own sessions, one series per class and age group."
+   },
+   {
+    "h": "A free-trial booking page",
+    "p": "One simple page where people pick the class and branch and book the free first session."
+   },
+   {
+    "h": "One look for two branches",
+    "p": "Schedules, offers and stories in the same style for Mawaleh and Al Khuwair."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Fitbox Club. I saw your page.",
+  "mail_subject": "Collaboration idea for Fitbox Club"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ فيت بوكس كلوب · الموالح والخوير",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "الحصة الأولى مجانية. <em>اجعلوا الناس يرغبون في حجزها.</em>",
+  "lead": "أهلاً فريق فيت بوكس كلوب، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية. الملاكمة والمواي تاي والجوجيتسو في فرعين، مع حصص للأطفال والمراهقين والسيدات، فيها طاقة كبيرة تستحق العرض. هذه بعض الأفكار لفيت بوكس.",
+  "why_title": "ماذا أستطيع أن أقدم لـ فيت بوكس كلوب",
+  "why": [
+   {
+    "h": "ريلز التدريب",
+    "p": "ريلز موشن سريعة من حصصكم، سلسلة لكل حصة وكل فئة عمرية."
+   },
+   {
+    "h": "صفحة حجز للحصة المجانية",
+    "p": "صفحة واحدة بسيطة يختار فيها الشخص الحصة والفرع ويحجز الحصة الأولى المجانية."
+   },
+   {
+    "h": "أسلوب واحد للفرعين",
+    "p": "الجداول والعروض والستوريز بنفس الأسلوب للموالح والخوير."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "عدة تصاميم أو ريل واحد مبني على أعمالكم أنتم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونطوّر."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك فيت بوكس كلوب. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "Logo, colours and social templates.",
+   "ar_title": "هوية · Gamela",
+   "ar_cap": "شعار وألوان وقوالب سوشيال."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Ozone International UAE",
+   "en_cap": "UGC-style ads made with AI tools.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بأدوات الذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}

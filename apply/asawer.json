@@ -1,0 +1,127 @@
+{
+ "slug": "asawer",
+ "company": "Asawer Real Estate Development",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Asawer Real Estate Development | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Asawer Real Estate Development · Muscat",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "Growth needs <em>a look buyers remember.</em>",
+  "lead": "Hi Asawer team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar, including real estate launches. I saw you are hiring a Graphic Designer to support your expansion plans, so I made this page for you.",
+  "why_title": "What I'd bring to Asawer Real Estate Development",
+  "why": [
+   {
+    "h": "Project launch visuals",
+    "p": "A key visual for each project, carried to brochures, hoardings, posts and ads, like my villa launch work."
+   },
+   {
+    "h": "AI lifestyle scenes",
+    "p": "Homes shown lived-in before they are built, made with AI and finished by hand."
+   },
+   {
+    "h": "Reels and sites",
+    "p": "Short launch reels in After Effects, plus Arabic and English landing pages I build myself."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "Repeatable for every project you launch.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the project, the buyer and the launch date."
+   },
+   {
+    "h": "Key visual",
+    "p": "One strong look for the project that everything follows."
+   },
+   {
+    "h": "Roll-out",
+    "p": "Posts, reels, brochures and site banners in the same style."
+   },
+   {
+    "h": "Review",
+    "p": "Check what brought enquiries and adjust the next launch."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Asawer Real Estate Development. I saw your page.",
+  "mail_subject": "Asawer Real Estate Development - Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ أساور للتطوير العقاري · مسقط",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "التوسع يحتاج <em>هوية يتذكرها المشترون.</em>",
+  "lead": "أهلاً فريق أساور، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر، منها إطلاقات عقارية. شاهدت أنكم تبحثون عن مصمم جرافيك لدعم خطط التوسع، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ أساور للتطوير العقاري",
+  "why": [
+   {
+    "h": "صور إطلاق المشاريع",
+    "p": "صورة رئيسية لكل مشروع تمتد إلى البروشورات واللوحات والبوستات والإعلانات، مثل أعمالي لإطلاق الفلل."
+   },
+   {
+    "h": "مشاهد حياة بالذكاء الاصطناعي",
+    "p": "بيوت تظهر مسكونة قبل بنائها، بالذكاء الاصطناعي ومكتملة يدوياً."
+   },
+   {
+    "h": "ريلز ومواقع",
+    "p": "ريلز إطلاق قصيرة على أفتر إفكتس، وصفحات هبوط بالعربية والإنجليزية أبنيها بنفسي."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "طريقة تتكرر مع كل مشروع تطلقونه.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "الاتفاق على المشروع والمشتري وموعد الإطلاق."
+   },
+   {
+    "h": "الصورة الرئيسية",
+    "p": "هوية بصرية قوية للمشروع يتبعها كل شيء."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "بوستات وريلز وبروشورات وبانرات للموقع بنفس الأسلوب."
+   },
+   {
+    "h": "المراجعة",
+    "p": "مراجعة ما جلب الاستفسارات وتطوير الإطلاق التالي."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك أساور للتطوير العقاري. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "A launch visual built with AI and finished by hand.",
+   "ar_title": "صورة رئيسية · إطلاق فلل",
+   "ar_cap": "صورة إطلاق بالذكاء الاصطناعي، مكتملة يدوياً."
+  },
+  {
+   "src": "id-khayrat",
+   "en_title": "Identity · Khayrat Al-Ahsa",
+   "en_cap": "A full identity in Arabic and English.",
+   "ar_title": "هوية · خيرات الأحساء",
+   "ar_cap": "هوية كاملة بالعربية والإنجليزية."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Ozone International UAE",
+   "en_cap": "UGC-style ads made with AI tools.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بأدوات الذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  }
+ ]
+}

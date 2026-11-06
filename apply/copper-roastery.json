@@ -1,0 +1,128 @@
+{
+ "slug": "copper-roastery",
+ "company": "Copper Roastery",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Copper Roastery | Abdelrahman Elsayed",
+  "tag": "Prepared for Copper Roastery · Wadi Kabir",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Twelve origins. <em>Twelve stories worth showing.</em>",
+  "lead": "Hi Copper Roastery team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and reels for a Gulf coffee brand. Your range, from single origins and the competition series to capsules, drip bags and the Academy, gives a lot to show. Here are a few ideas.",
+  "why_title": "What I could do for Copper Roastery",
+  "why": [
+   {
+    "h": "A scene per origin",
+    "p": "Each bean, capsule and drip bag in its own AI scene, made in under an hour and finished by hand."
+   },
+   {
+    "h": "Short brew reels",
+    "p": "Motion reels for new arrivals and the machines you sell, ready for stories and the shop."
+   },
+   {
+    "h": "Academy booking page",
+    "p": "A clear page for each course and level with dates and a booking button, in Arabic and English."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Copper Roastery. I saw your page.",
+  "mail_subject": "Collaboration idea for Copper Roastery"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ كوبر روستري · وادي الكبير",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "اثنا عشر مصدراً. <em>اثنتا عشرة قصة تستحق أن تُرى.</em>",
+  "lead": "أهلاً فريق كوبر روستري، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وريلز بالذكاء الاصطناعي لعلامة قهوة خليجية. تشكيلتكم من البن أحادي المصدر وسلسلة المسابقات إلى الكبسولات وأكياس التقطير والأكاديمية فيها الكثير مما يستحق العرض. هذه بعض الأفكار.",
+  "why_title": "ماذا أستطيع أن أقدم لـ كوبر روستري",
+  "why": [
+   {
+    "h": "مشهد لكل مصدر",
+    "p": "كل نوع بن وكبسولة وكيس تقطير في مشهد خاص بالذكاء الاصطناعي، يُنجز في أقل من ساعة ويكتمل يدوياً."
+   },
+   {
+    "h": "ريلز تحضير قصيرة",
+    "p": "ريلز موشن للإصدارات الجديدة والمكائن التي تبيعونها، جاهزة للستوريز والمتجر."
+   },
+   {
+    "h": "صفحة حجز للأكاديمية",
+    "p": "صفحة واضحة لكل دورة ومستوى بالمواعيد وزر الحجز، بالعربية والإنجليزية."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "عدة تصاميم أو ريل واحد مبني على أعمالكم أنتم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونطوّر."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك كوبر روستري. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربية والإنجليزية."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}

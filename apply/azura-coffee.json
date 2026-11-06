@@ -1,0 +1,128 @@
+{
+ "slug": "azura-coffee",
+ "company": "Azura Coffee",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Azura Coffee | Abdelrahman Elsayed",
+  "tag": "Prepared for Azura Coffee · Muscat",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Six branches, <em>one cup that looks the same everywhere.</em>",
+  "lead": "Hi Azura team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes for a Gulf coffee brand and built its staff app, now approved for 5 branches. With six branches, your own roasting in Al Ansab and drinks like the passionfruit cold brew, here are a few ideas for Azura.",
+  "why_title": "What I could do for Azura Coffee",
+  "why": [
+   {
+    "h": "AI drink and bean scenes",
+    "p": "Each drink and retail bag in its own scene, in one look for every branch."
+   },
+   {
+    "h": "A staff app",
+    "p": "Attendance, shifts and daily reports in one simple app, like the one I built for Pancakes Coffee."
+   },
+   {
+    "h": "A pickup pager",
+    "p": "Customers scan a QR code after ordering and their own phone rings when the drink is ready, no app to install. It is in pilot at Pancakes Coffee."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Azura Coffee. I saw your page.",
+  "mail_subject": "Collaboration idea for Azura Coffee"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ أزورا للقهوة · مسقط",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "ستة فروع، <em>وكوب واحد يبدو بنفس الجمال في كل مكان.</em>",
+  "lead": "أهلاً فريق أزورا، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات بالذكاء الاصطناعي لعلامة قهوة خليجية وبنى تطبيق موظفيها المعتمد لخمسة فروع. مع ستة فروع ومحمصتكم في الأنصب ومشروبات مثل الكولد برو بالباشن فروت، هذه بعض الأفكار لأزورا.",
+  "why_title": "ماذا أستطيع أن أقدم لـ أزورا للقهوة",
+  "why": [
+   {
+    "h": "مشاهد مشروبات وبن بالذكاء الاصطناعي",
+    "p": "كل مشروب وكيس بن في مشهد خاص، بأسلوب واحد لكل الفروع."
+   },
+   {
+    "h": "تطبيق للموظفين",
+    "p": "الحضور والورديات والتقارير اليومية في تطبيق واحد بسيط، مثل الذي بنيته لـ Pancakes Coffee."
+   },
+   {
+    "h": "نظام تنبيه للاستلام",
+    "p": "يمسح العميل رمز QR بعد الطلب فيرن هاتفه حين يجهز مشروبه، دون تثبيت أي تطبيق. النظام قيد التجربة في Pancakes Coffee."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "عدة تصاميم أو ريل واحد مبني على أعمالكم أنتم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما نجح ونطوّر."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك أزورا للقهوة. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  }
+ ],
+ "kind": "client"
+}
