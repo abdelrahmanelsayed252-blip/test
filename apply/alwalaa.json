@@ -1,0 +1,128 @@
+{
+ "slug": "alwalaa",
+ "company": "Alwalaa Real Estate",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Alwalaa Real Estate | Abdelrahman Elsayed",
+  "tag": "Prepared for Alwalaa Real Estate",
+  "eyebrow": "Collaboration · Off-plan visuals & lead pages",
+  "h1": "Help overseas buyers <em>see the unit before it exists.</em>",
+  "lead": "Hi Alwalaa team, I'm Abdelrahman, a graphic and motion designer who made launch visuals for a villa project and an AI podcast host for the Siredo 2026 real estate exhibition. You sell off-plan homes in Muscat Bay, Al Mouj and other ITC projects to buyers abroad, so I made this page with a few ideas for Alwalaa.",
+  "why_title": "What I could do for Alwalaa",
+  "why": [
+   {
+    "h": "AI lifestyle scenes",
+    "p": "Each off-plan unit shown as a lived-in home, with the sea and the community around it."
+   },
+   {
+    "h": "Residency explainer reels",
+    "p": "Short Arabic and English reels that explain freehold ownership and residency step by step."
+   },
+   {
+    "h": "A page per project",
+    "p": "A fast landing page for each development that collects buyer details and sends them to your WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what Alwalaa Real Estate wants to push this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Alwalaa Real Estate. I saw your page.",
+  "mail_subject": "Collaboration idea for Alwalaa Real Estate"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ الولاء للعقارات",
+  "eyebrow": "تعاون · صور المشاريع على الخارطة وصفحات العملاء",
+  "h1": "ساعدوا المشتري في الخارج <em>على رؤية الوحدة قبل بنائها.</em>",
+  "lead": "أهلاً فريق الولاء، معكم عبدالرحمن، مصمم جرافيك وموشن صمّم صور إطلاق لمشروع فلل وأنتج مقدّم بودكاست بالذكاء الاصطناعي لمعرض سيريدو 2026 العقاري. أنتم تبيعون وحدات على الخارطة في خليج مسقط والموج ومشاريع سياحية متكاملة لمشترين من الخارج، لذلك جهزت هذه الصفحة بأفكار للولاء.",
+  "why_title": "ماذا أستطيع أن أقدم للولاء",
+  "why": [
+   {
+    "h": "مشاهد حياة بالذكاء الاصطناعي",
+    "p": "كل وحدة على الخارطة تظهر كبيت مسكون، مع البحر والمجتمع من حولها."
+   },
+   {
+    "h": "ريلز تشرح الإقامة",
+    "p": "ريلز قصيرة بالعربي والإنجليزي تشرح التملك الحر والإقامة خطوة بخطوة."
+   },
+   {
+    "h": "صفحة لكل مشروع",
+    "p": "صفحة هبوط سريعة لكل مشروع تجمع بيانات المشترين وترسلها إلى واتساب لديكم."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريد الولاء للعقارات إبرازه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك الولاء للعقارات. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

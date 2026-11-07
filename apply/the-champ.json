@@ -1,0 +1,129 @@
+{
+ "slug": "the-champ",
+ "company": "The Champ Sports & Arts",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For The Champ Sports & Arts | Abdelrahman Elsayed",
+  "tag": "Prepared for The Champ Sports & Arts",
+  "eyebrow": "Collaboration · Class content & sign-ups",
+  "h1": "Let parents <em>see the class before they sign up.</em>",
+  "lead": "Hi The Champ team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for Gulf brands. You run martial arts, fitness and ballet classes for kids across Al Khuwair and Ruwi, so I made this page with a few ideas for The Champ.",
+  "why_title": "What I could do for The Champ",
+  "why": [
+   {
+    "h": "A reel for every class",
+    "p": "Short motion reels that show what each class looks like, made for parents scrolling at night."
+   },
+   {
+    "h": "A term sign-up page",
+    "p": "A fast page where parents pick a class, branch and time, then confirm on WhatsApp."
+   },
+   {
+    "h": "One app for both branches",
+    "p": "A simple staff app for attendance and daily reports, like the one I built that is approved for 5 branches of a cafe chain."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what The Champ Sports & Arts wants to push this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is The Champ Sports & Arts. I saw your page.",
+  "mail_subject": "Collaboration idea for The Champ Sports & Arts"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ذا تشامب للرياضة والفنون",
+  "eyebrow": "تعاون · محتوى الحصص والتسجيل",
+  "h1": "دعوا الأهل <em>يشاهدون الحصة قبل التسجيل.</em>",
+  "lead": "أهلاً فريق ذا تشامب، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة تتجاوز 6 سنوات مع علامات تجارية خليجية. تقدمون حصص الفنون القتالية واللياقة والباليه للأطفال في الخوير وروي، لذلك جهزت هذه الصفحة بأفكار لذا تشامب.",
+  "why_title": "ماذا أستطيع أن أقدم لذا تشامب",
+  "why": [
+   {
+    "h": "ريل لكل حصة",
+    "p": "ريلز موشن قصيرة تُظهر شكل كل حصة، مصممة للأهل وهم يتصفحون مساءً."
+   },
+   {
+    "h": "صفحة تسجيل للفصل",
+    "p": "صفحة سريعة يختار فيها الأهل الحصة والفرع والوقت ثم يؤكدون عبر واتساب."
+   },
+   {
+    "h": "تطبيق واحد للفرعين",
+    "p": "تطبيق بسيط للموظفين للحضور والتقارير اليومية، مثل الذي بنيته واعتُمد لخمسة فروع لسلسلة مقاهٍ."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريد ذا تشامب للرياضة والفنون إبرازه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ذا تشامب للرياضة والفنون. اطلعت على صفحتك.",
+  "title": "لـ ذا تشامب للرياضة والفنون | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}

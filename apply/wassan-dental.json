@@ -1,0 +1,128 @@
+{
+ "slug": "wassan-dental",
+ "company": "Wassan Specialty Dental Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Wassan Specialty Dental Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Wassan Specialty Dental Center",
+  "eyebrow": "Collaboration · Clinic content & booking",
+  "h1": "Show the new Wassan <em>before patients walk in.</em>",
+  "lead": "Hi Wassan team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your new building with 15 treatment suites and the Smile Academy deserve content that explains them clearly, so I made this page with a few ideas.",
+  "why_title": "What I could do for Wassan",
+  "why": [
+   {
+    "h": "Treatment explainer videos",
+    "p": "Short motion videos that walk patients through clear aligners and orthodontic steps in Arabic and English."
+   },
+   {
+    "h": "Smile Academy visuals",
+    "p": "Course posters and reels for the training space, in one consistent look."
+   },
+   {
+    "h": "A booking page",
+    "p": "A fast page where patients pick a service and book on WhatsApp, built and hosted by me."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what Wassan Specialty Dental Center wants to push this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Wassan Specialty Dental Center. I saw your page.",
+  "mail_subject": "Collaboration idea for Wassan Specialty Dental Center"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مركز وسن التخصصي للأسنان",
+  "eyebrow": "تعاون · محتوى العيادة والحجز",
+  "h1": "اعرضوا وسن الجديد <em>قبل أن يصل المريض.</em>",
+  "lead": "أهلاً فريق وسن، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة تتجاوز 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. مبناكم الجديد بخمس عشرة غرفة علاج وأكاديمية الابتسامة يستحقان محتوى يشرحهما بوضوح، لذلك جهزت هذه الصفحة بأفكار لكم.",
+  "why_title": "ماذا أستطيع أن أقدم لوسن",
+  "why": [
+   {
+    "h": "فيديوهات تشرح العلاج",
+    "p": "فيديوهات موشن قصيرة تشرح للمريض مراحل التقويم الشفاف وتقويم الأسنان بالعربي والإنجليزي."
+   },
+   {
+    "h": "تصاميم أكاديمية الابتسامة",
+    "p": "بوسترات وريلز للدورات التدريبية بأسلوب واحد ثابت."
+   },
+   {
+    "h": "صفحة حجز",
+    "p": "صفحة سريعة يختار فيها المريض الخدمة ويحجز عبر واتساب، أبنيها وأستضيفها بنفسي."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريد مركز وسن التخصصي للأسنان إبرازه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مركز وسن التخصصي للأسنان. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  }
+ ],
+ "kind": "client"
+}

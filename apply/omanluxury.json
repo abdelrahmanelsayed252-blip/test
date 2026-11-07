@@ -1,0 +1,128 @@
+{
+ "slug": "omanluxury",
+ "company": "OMANLUXURY",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For OMANLUXURY | Abdelrahman Elsayed",
+  "tag": "Prepared for OMANLUXURY",
+  "eyebrow": "Collaboration · Fragrance launches",
+  "h1": "Put each scent <em>back in the place it came from.</em>",
+  "lead": "Hi OMANLUXURY team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and UGC-style AI video ads for Gulf brands. Your fragrances are drawn from Jabal Akhdar and Dhofar and sold in 550+ points of sale, so I made this page with a few ideas for OMANLUXURY.",
+  "why_title": "What I could do for OMANLUXURY",
+  "why": [
+   {
+    "h": "A scene for every scent",
+    "p": "Each bottle shown in the landscape behind it, from mountain roses to Dhofar frankincense, finished by hand."
+   },
+   {
+    "h": "Launch reels",
+    "p": "Short motion reels for each new release and gift season, cut for stories and retail screens."
+   },
+   {
+    "h": "AI video ads",
+    "p": "UGC-style AI ads with characters and voice, like the ones I made for a UAE brand."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what OMANLUXURY wants to push this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is OMANLUXURY. I saw your page.",
+  "mail_subject": "Collaboration idea for OMANLUXURY"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ عُمان لاكشري",
+  "eyebrow": "تعاون · إطلاق العطور",
+  "h1": "أعيدوا كل عطر <em>إلى المكان الذي جاء منه.</em>",
+  "lead": "أهلاً فريق عُمان لاكشري، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وإعلانات فيديو بأسلوب UGC بالذكاء الاصطناعي لعلامات تجارية خليجية. عطوركم مستوحاة من الجبل الأخضر وظفار وتُباع في أكثر من 550 نقطة بيع، لذلك جهزت هذه الصفحة بأفكار لعُمان لاكشري.",
+  "why_title": "ماذا أستطيع أن أقدم لعُمان لاكشري",
+  "why": [
+   {
+    "h": "مشهد لكل عطر",
+    "p": "كل زجاجة في الطبيعة التي ألهمتها، من ورد الجبل إلى لبان ظفار، مكتملة يدوياً."
+   },
+   {
+    "h": "ريلز للإطلاق",
+    "p": "ريلز موشن قصيرة لكل إصدار جديد ولمواسم الهدايا، مجهزة للستوريز وشاشات المتاجر."
+   },
+   {
+    "h": "إعلانات فيديو بالذكاء الاصطناعي",
+    "p": "إعلانات بأسلوب UGC بشخصيات وأصوات، مثل التي أنتجتها لعلامة إماراتية."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريد عُمان لاكشري إبرازه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك عُمان لاكشري. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty brands.",
+   "ar_title": "صورة منتج · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات الجمال."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  }
+ ],
+ "kind": "client"
+}

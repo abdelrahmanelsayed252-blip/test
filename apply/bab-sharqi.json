@@ -1,0 +1,128 @@
+{
+ "slug": "bab-sharqi",
+ "company": "Bab Sharqi",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Bab Sharqi | Abdelrahman Elsayed",
+  "tag": "Prepared for Bab Sharqi",
+  "eyebrow": "Collaboration · Food content & menu site",
+  "h1": "Let the fatayer <em>sell before the first bite.</em>",
+  "lead": "Hi Bab Sharqi team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee brand. Your Syrian breakfast, lentil soup and fatayer live only on Instagram today, so I made this page with a few ideas for Bab Sharqi.",
+  "why_title": "What I could do for Bab Sharqi",
+  "why": [
+   {
+    "h": "A scene for every dish",
+    "p": "Falafel, fatayer and lentil soup in warm Damascus-style scenes, each made in under an hour and finished by hand."
+   },
+   {
+    "h": "Breakfast and dinner reels",
+    "p": "Short motion reels for the morning crowd and the outdoor evening tables."
+   },
+   {
+    "h": "A simple menu site",
+    "p": "A fast Arabic and English menu page with a QR code on each table and a WhatsApp order button."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what Bab Sharqi wants to push this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Bab Sharqi. I saw your page.",
+  "mail_subject": "Collaboration idea for Bab Sharqi"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ باب شرقي",
+  "eyebrow": "تعاون · محتوى طعام وموقع قائمة",
+  "h1": "دعوا الفطائر <em>تُقنع قبل أول لقمة.</em>",
+  "lead": "أهلاً فريق باب شرقي، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة خليجية. فطوركم الشامي وشوربة العدس والفطائر موجودة اليوم على إنستغرام فقط، لذلك جهزت هذه الصفحة بأفكار لباب شرقي.",
+  "why_title": "ماذا أستطيع أن أقدم لباب شرقي",
+  "why": [
+   {
+    "h": "مشهد لكل طبق",
+    "p": "الفلافل والفطائر وشوربة العدس في مشاهد دافئة بطابع دمشقي، كل مشهد في أقل من ساعة ويكتمل يدوياً."
+   },
+   {
+    "h": "ريلز للفطور والعشاء",
+    "p": "ريلز موشن قصيرة لزوار الصباح ولجلسات المساء الخارجية."
+   },
+   {
+    "h": "موقع قائمة بسيط",
+    "p": "صفحة قائمة سريعة بالعربي والإنجليزي مع رمز QR على كل طاولة وزر طلب عبر واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريد باب شرقي إبرازه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك باب شرقي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}
