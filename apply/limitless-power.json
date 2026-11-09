@@ -1,0 +1,127 @@
+{
+ "slug": "limitless-power",
+ "company": "Limitless Power",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Limitless Power | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Limitless Power · Oman",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "You asked for samples. <em>Here they are, in one place.</em>",
+  "lead": "Hi Limitless Power team, I'm Abdelrahman, a graphic and motion designer with 6+ years of brand work for companies in Saudi Arabia, the UAE, Oman and Qatar. Your Graphic Designer ad asks for previous work that shows creative level, so I put the most relevant pieces on this page for you.",
+  "why_title": "What I'd bring to Limitless Power",
+  "why": [
+   {
+    "h": "Brand identities",
+    "p": "Full identities like Gamela, CARLY, IVY and Khayrat Al-Ahsa, built to stay consistent everywhere."
+   },
+   {
+    "h": "Campaign key visuals",
+    "p": "One strong idea carried across posts, stories and ads, like my Saudi National Day and delivery campaigns."
+   },
+   {
+    "h": "Motion and AI content",
+    "p": "Reels in After Effects and AI product scenes made in under an hour, so content never runs dry."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Learn the brand, the audience and what needs to go out first."
+   },
+   {
+    "h": "Look",
+    "p": "Set one clear visual style for every channel."
+   },
+   {
+    "h": "Roll-out",
+    "p": "Posts, stories, ads and print in the same look."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and improve the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Limitless Power. I saw your page.",
+  "mail_subject": "Limitless Power - Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ليمتلس باور · عُمان",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "طلبتم نماذج أعمال. <em>هذه هي في مكان واحد.</em>",
+  "lead": "أهلاً فريق ليمتلس باور، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. إعلانكم عن وظيفة مصمم جرافيك يطلب نماذج أعمال سابقة توضح المستوى الإبداعي، لذلك جمعت لكم أهم الأعمال في هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ ليمتلس باور",
+  "why": [
+   {
+    "h": "هويات بصرية",
+    "p": "هويات كاملة مثل جميلة وكارلي وآيفي وخيرات الأحساء، مبنية لتبقى متسقة في كل مكان."
+   },
+   {
+    "h": "صور رئيسية للحملات",
+    "p": "فكرة قوية واحدة تمتد عبر البوستات والستوريز والإعلانات، مثل حملات اليوم الوطني السعودي والتوصيل."
+   },
+   {
+    "h": "موشن ومحتوى بالذكاء الاصطناعي",
+    "p": "ريلز على أفتر إفكتس ومشاهد منتجات بالذكاء الاصطناعي تُنجز في أقل من ساعة، ليبقى المحتوى مستمراً."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "فهم العلامة والجمهور وما يجب نشره أولاً."
+   },
+   {
+    "h": "الأسلوب",
+    "p": "تحديد أسلوب بصري واضح لكل القنوات."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "بوستات وستوريز وإعلانات ومطبوعات بنفس الشكل."
+   },
+   {
+    "h": "المراجعة",
+    "p": "مراجعة ما نجح وتطوير الجولة التالية."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ليمتلس باور. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A full brand identity, from logo to social.",
+   "ar_title": "هوية · جميلة",
+   "ar_cap": "هوية كاملة من الشعار إلى السوشيال."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ]
+}
