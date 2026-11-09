@@ -1,0 +1,129 @@
+{
+ "slug": "grip-fitness",
+ "company": "Grip Fitness Studio",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Grip Fitness Studio | Abdelrahman Elsayed",
+  "tag": "Prepared for Grip Fitness Studio",
+  "eyebrow": "Collaboration · Gym content",
+  "h1": "Let people see the training <em>before they book.</em>",
+  "lead": "Hi Grip team, I'm Abdelrahman, a graphic and motion designer who has worked with 20+ brands in Saudi Arabia, the UAE, Oman and Qatar. I saw your personal training studio at Souq Al Madina and the Grip app for bookings, and made this page with a few ideas for Grip Fitness Studio.",
+  "why_title": "What I could do for Grip Fitness Studio",
+  "why": [
+   {
+    "h": "Training reels",
+    "p": "Weekly reels on the sport science behind each programme, in your yellow and black look."
+   },
+   {
+    "h": "App promo visuals",
+    "p": "Stories and posts that walk people through booking a session in the Grip app."
+   },
+   {
+    "h": "A sharper website",
+    "p": "A fast site in your own style, with programmes, coaches and the WhatsApp button up front."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own programmes."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Grip Fitness Studio. I saw your page.",
+  "mail_subject": "Collaboration idea for Grip Fitness Studio"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ استوديو جريب فتنس",
+  "eyebrow": "تعاون · محتوى للنوادي",
+  "h1": "دعوا الناس يرون التدريب <em>قبل الحجز.</em>",
+  "lead": "أهلاً فريق جريب، معكم عبدالرحمن، مصمم جرافيك وموشن عملت مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر. اطلعت على استوديو التدريب الشخصي في سوق المدينة وتطبيق جريب للحجز، وجهزت لكم هذه الصفحة بأفكار لاستوديو جريب فتنس.",
+  "why_title": "ماذا أستطيع أن أقدم لـ استوديو جريب فتنس",
+  "why": [
+   {
+    "h": "ريلز للتدريب",
+    "p": "ريلز أسبوعية عن علوم الرياضة خلف كل برنامج، بالأصفر والأسود الخاص بكم."
+   },
+   {
+    "h": "تصاميم للتطبيق",
+    "p": "ستوريز وبوستات تشرح حجز الجلسة في تطبيق جريب خطوة بخطوة."
+   },
+   {
+    "h": "موقع أقوى",
+    "p": "موقع سريع بأسلوبكم، والبرامج والمدربون وزر الواتساب في المقدمة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على برامجكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك استوديو جريب فتنس. اطلعت على صفحتك.",
+  "title": "لـ استوديو جريب فتنس | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Campaign posts · Gulf brands",
+   "en_cap": "Offers and launches people stop to read.",
+   "ar_title": "بوستات حملات · علامات تجارية خليجية",
+   "ar_cap": "عروض وإطلاقات تلفت الانتباه."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Ozone International UAE",
+   "en_cap": "UGC-style ads made with AI, no shoot needed.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بالذكاء الاصطناعي دون تصوير."
+  }
+ ],
+ "kind": "client"
+}

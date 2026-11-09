@@ -1,0 +1,128 @@
+{
+ "slug": "windrose-coffee",
+ "company": "Windrose Coffee",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Windrose Coffee | Abdelrahman Elsayed",
+  "tag": "Prepared for Windrose Coffee",
+  "eyebrow": "Collaboration · Coffee content",
+  "h1": "Let every origin <em>tell its own story.</em>",
+  "lead": "Hi Windrose team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion content for a Gulf coffee brand. I saw your single origins, from Kenya Ruiruiru to the Yemeni Shai'an Hiwar, and made this page with a few ideas for Windrose.",
+  "why_title": "What I could do for Windrose Coffee",
+  "why": [
+   {
+    "h": "A scene per origin",
+    "p": "Each bean in a scene that hints at where it came from, made in under an hour and finished by hand."
+   },
+   {
+    "h": "Signature drink reels",
+    "p": "Short reels for the nitro and the Spanish latte made with your own condensed milk."
+   },
+   {
+    "h": "Shop launch visuals",
+    "p": "Banners and stories ready for when the online shop and subscriptions open."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own beans."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Windrose Coffee. I saw your page.",
+  "mail_subject": "Collaboration idea for Windrose Coffee"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ويندروز كوفي",
+  "eyebrow": "تعاون · محتوى للقهوة",
+  "h1": "اجعلوا كل محصول <em>يحكي قصته.</em>",
+  "lead": "أهلاً فريق ويندروز، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات ومحتوى متحركاً بالذكاء الاصطناعي لعلامة قهوة خليجية. اطلعت على محاصيلكم من كينيا رويرويرو إلى اليمني شعيان حوار، وجهزت لكم هذه الصفحة بأفكار لويندروز.",
+  "why_title": "ماذا أستطيع أن أقدم لـ ويندروز كوفي",
+  "why": [
+   {
+    "h": "مشهد لكل محصول",
+    "p": "كل نوع بن في مشهد يوحي بمكان زراعته، يُنجز في أقل من ساعة ويكتمل يدوياً."
+   },
+   {
+    "h": "ريلز للمشروبات المميزة",
+    "p": "ريلز قصيرة للنيترو والسبانش لاتيه بالحليب المكثف الذي تحضّرونه بأنفسكم."
+   },
+   {
+    "h": "تصاميم إطلاق المتجر",
+    "p": "بنرات وستوريز جاهزة لافتتاح المتجر الإلكتروني والاشتراكات."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على محاصيلكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ويندروز كوفي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Campaign posts · Gulf brands",
+   "en_cap": "Offers and launches people stop to read.",
+   "ar_title": "بوستات حملات · علامات تجارية خليجية",
+   "ar_cap": "عروض وإطلاقات تلفت الانتباه."
+  }
+ ],
+ "kind": "client"
+}
