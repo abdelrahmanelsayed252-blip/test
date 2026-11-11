@@ -1,0 +1,129 @@
+{
+ "slug": "fitness-bay",
+ "company": "Fitness Bay",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Fitness Bay | Abdelrahman Elsayed",
+  "tag": "Prepared for Fitness Bay",
+  "eyebrow": "Collaboration · Gym content",
+  "h1": "A 24/7 gym by the sea <em>deserves content that moves.</em>",
+  "lead": "Hi Fitness Bay team, I'm Abdelrahman, a graphic and motion designer who has worked with 20+ brands in Saudi Arabia, the UAE, Oman and Qatar, and I build web apps myself. I saw your 24/7 gym at Muscat Bay, your Body Combat, Body Pump and kids' classes and the yearly membership offer, and made this page with a few ideas for you.",
+  "why_title": "What I could do for Fitness Bay",
+  "why": [
+   {
+    "h": "Class reels",
+    "p": "Short reels for each class so people feel the energy before their first visit."
+   },
+   {
+    "h": "Offer motion",
+    "p": "Membership and day-pass offers as quick motion posts and stories that read in two seconds."
+   },
+   {
+    "h": "Class schedule and booking",
+    "p": "A simple page with the weekly timetable and booking, linked to your WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own services."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Fitness Bay. I saw your page.",
+  "mail_subject": "Collaboration idea for Fitness Bay"
+ },
+ "ar": {
+  "title": "لـ فتنس باي | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ فتنس باي",
+  "eyebrow": "تعاون · محتوى للنوادي",
+  "h1": "نادٍ مفتوح على مدار الساعة بجانب البحر <em>يستحق محتوى نابضاً.</em>",
+  "lead": "أهلاً فريق فتنس باي، معكم عبدالرحمن، مصمم جرافيك وموشن عملت مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر، وأبني تطبيقات الويب بنفسي. اطلعت على ناديكم المفتوح على مدار الساعة في خليج مسقط، وحصص بودي كومبات وبودي بامب وحصص الأطفال وعرض العضوية السنوية، وجهزت لكم هذه الصفحة بأفكار لكم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ فتنس باي",
+  "why": [
+   {
+    "h": "ريلز للحصص",
+    "p": "ريلز قصيرة لكل حصة ليشعر الناس بالحماس قبل زيارتهم الأولى."
+   },
+   {
+    "h": "موشن للعروض",
+    "p": "عروض العضوية وتذكرة اليوم في بوستات وستوريز متحركة تُقرأ في ثانيتين."
+   },
+   {
+    "h": "جدول الحصص والحجز",
+    "p": "صفحة بسيطة فيها جدول الأسبوع والحجز، مرتبطة بالواتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على خدماتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك فتنس باي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

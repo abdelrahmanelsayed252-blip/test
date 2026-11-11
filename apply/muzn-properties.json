@@ -1,0 +1,129 @@
+{
+ "slug": "muzn-properties",
+ "company": "Muzn Properties",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Muzn Properties | Abdelrahman Elsayed",
+  "tag": "Prepared for Muzn Properties",
+  "eyebrow": "Collaboration · Real estate content",
+  "h1": "Sell the life <em>before the viewing.</em>",
+  "lead": "Hi Muzn Properties team, I'm Abdelrahman, a graphic and motion designer who has made villa launch visuals and AI property content for Gulf real estate brands, and I build websites myself. I saw your listings in Al Mouj and Sustainable City, and made this page with a few ideas for Muzn.",
+  "why_title": "What I could do for Muzn Properties",
+  "why": [
+   {
+    "h": "AI lifestyle scenes",
+    "p": "Each unit shown with life inside it, built with AI and finished by hand."
+   },
+   {
+    "h": "Listing reels",
+    "p": "Short Arabic and English reels for every new listing, ready for Instagram."
+   },
+   {
+    "h": "A fresh listings site",
+    "p": "A fast bilingual site with current listings and a WhatsApp button on each one."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own services."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muzn Properties. I saw your page.",
+  "mail_subject": "Collaboration idea for Muzn Properties"
+ },
+ "ar": {
+  "title": "لـ مزن العقارية | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ مزن العقارية",
+  "eyebrow": "تعاون · محتوى عقاري",
+  "h1": "بيعوا أسلوب الحياة <em>قبل المعاينة.</em>",
+  "lead": "أهلاً فريق مزن العقارية، معكم عبدالرحمن، مصمم جرافيك وموشن أنتجت تصاميم إطلاق فلل ومحتوى عقارياً بالذكاء الاصطناعي لعلامات عقارية خليجية، وأبني المواقع بنفسي. اطلعت على عقاراتكم في الموج والمدينة المستدامة، وجهزت لكم هذه الصفحة بأفكار لمزن.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مزن العقارية",
+  "why": [
+   {
+    "h": "مشاهد حياة بالذكاء الاصطناعي",
+    "p": "كل وحدة تظهر وفيها حياة، مبنية بالذكاء الاصطناعي ومكتملة يدوياً."
+   },
+   {
+    "h": "ريلز للعقارات",
+    "p": "ريلز قصيرة بالعربية والإنجليزية لكل عقار جديد، جاهزة لإنستغرام."
+   },
+   {
+    "h": "موقع جديد للعقارات",
+    "p": "موقع سريع بلغتين بالعقارات الحالية وزر واتساب لكل عقار."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على خدماتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مزن العقارية. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  }
+ ],
+ "kind": "client"
+}

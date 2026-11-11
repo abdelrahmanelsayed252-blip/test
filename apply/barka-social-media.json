@@ -1,0 +1,128 @@
+{
+ "slug": "barka-social-media",
+ "company": "your team in Barka",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "Social Media Designer & Manager, Barka | Abdelrahman Elsayed",
+  "tag": "Prepared for your team · Barka",
+  "eyebrow": "Application · Social Media Design & Account Management",
+  "h1": "Design and accounts <em>in one pair of hands.</em>",
+  "lead": "Hello, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. I saw your opening for someone to design and manage your social media accounts in Barka, so I made this page for you.",
+  "why_title": "What I'd bring to the role",
+  "why": [
+   {
+    "h": "Design that stays consistent",
+    "p": "Posts, stories and offers in one look, in Arabic and English, like my monthly work for Pancakes Coffee."
+   },
+   {
+    "h": "Reels and motion",
+    "p": "Short reels in After Effects and Premiere, plus AI product scenes made in under an hour each."
+   },
+   {
+    "h": "Accounts that run on a plan",
+    "p": "A monthly content calendar, steady posting and a simple look at what worked."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Listen",
+    "p": "Learn the brand, the audience and the goals."
+   },
+   {
+    "h": "Plan",
+    "p": "A monthly calendar with themes and offers."
+   },
+   {
+    "h": "Create",
+    "p": "Posts, stories and reels in one look."
+   },
+   {
+    "h": "Review",
+    "p": "Check the numbers and improve next month."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page about the social media role in Barka.",
+  "mail_subject": "Social Media Designer & Manager - Barka"
+ },
+ "ar": {
+  "title": "مصمم ومدير حسابات التواصل الاجتماعي، بركاء | عبدالرحمن السيد",
+  "tag": "مُعدّة لفريقكم · بركاء",
+  "eyebrow": "طلب توظيف · تصميم وإدارة حسابات التواصل الاجتماعي",
+  "h1": "التصميم وإدارة الحسابات <em>عند شخص واحد.</em>",
+  "lead": "أهلاً، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. شاهدت إعلانكم عن وظيفة تصميم وإدارة حسابات التواصل الاجتماعي في بركاء، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لهذه الوظيفة",
+  "why": [
+   {
+    "h": "تصميم بأسلوب ثابت",
+    "p": "بوستات وستوريز وعروض بشكل واحد، بالعربية والإنجليزية، مثل أعمالي الشهرية لـ Pancakes Coffee."
+   },
+   {
+    "h": "ريلز وموشن",
+    "p": "ريلز قصيرة على أفتر إفكتس وبريمير، ومشاهد منتجات بالذكاء الاصطناعي في أقل من ساعة لكل مشهد."
+   },
+   {
+    "h": "حسابات تُدار بخطة",
+    "p": "خطة محتوى شهرية ونشر منتظم ومراجعة بسيطة لما نجح."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الفهم",
+    "p": "التعرف على العلامة والجمهور والأهداف."
+   },
+   {
+    "h": "التخطيط",
+    "p": "خطة شهرية بالمواضيع والعروض."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "بوستات وستوريز وريلز بشكل واحد."
+   },
+   {
+    "h": "المراجعة",
+    "p": "متابعة الأرقام وتطوير الشهر التالي."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتك بخصوص وظيفة التواصل الاجتماعي في بركاء."
+ },
+ "images": [
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  }
+ ]
+}

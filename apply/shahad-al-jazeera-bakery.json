@@ -1,0 +1,129 @@
+{
+ "slug": "shahad-al-jazeera-bakery",
+ "company": "Shahad Al Jazeera Bakery",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Shahad Al Jazeera Bakery | Abdelrahman Elsayed",
+  "tag": "Prepared for Shahad Al Jazeera Bakery",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Make every pudding and cake <em>look worth the trip.</em>",
+  "lead": "Hi Shahad Al Jazeera team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee and pancake brand, and builds its website. I saw your Luqeemath, saffron and Lotus puddings and your dates and Arabic coffee cakes across your Muscat branches, and made this page with a few ideas for you.",
+  "why_title": "What I could do for Shahad Al Jazeera Bakery",
+  "why": [
+   {
+    "h": "AI product scenes",
+    "p": "Each pudding and cake in a fresh scene, made in under an hour and finished by hand."
+   },
+   {
+    "h": "Motion menus and reels",
+    "p": "Short product reels for stories and in-store screens across all branches."
+   },
+   {
+    "h": "A branch finder that works",
+    "p": "A fast site with every branch on the map and WhatsApp ordering per product."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own services."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Shahad Al Jazeera Bakery. I saw your page.",
+  "mail_subject": "Collaboration idea for Shahad Al Jazeera Bakery"
+ },
+ "ar": {
+  "title": "لـ مخابز شهد الجزيرة | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ مخابز شهد الجزيرة",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "اجعلوا كل حلى وكيكة <em>تستحق الزيارة.</em>",
+  "lead": "أهلاً فريق شهد الجزيرة، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة وبان كيك خليجية، وأبني موقعها. اطلعت على اللقيمات وحلى الزعفران واللوتس وكيك التمر والقهوة العربية في فروعكم بمسقط، وجهزت لكم هذه الصفحة بأفكار لكم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مخابز شهد الجزيرة",
+  "why": [
+   {
+    "h": "مشاهد منتجات بالذكاء الاصطناعي",
+    "p": "كل حلى وكيكة في مشهد جديد، يُنجز في أقل من ساعة ويكتمل يدوياً."
+   },
+   {
+    "h": "قوائم وريلز متحركة",
+    "p": "ريلز قصيرة للمنتجات للستوريز وشاشات الفروع."
+   },
+   {
+    "h": "دليل فروع واضح",
+    "p": "موقع سريع يعرض كل الفروع على الخريطة مع طلب كل منتج عبر الواتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على خدماتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مخابز شهد الجزيرة. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A national-day campaign built around one strong image.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة يوم وطني مبنية على صورة واحدة قوية."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  }
+ ],
+ "kind": "client"
+}

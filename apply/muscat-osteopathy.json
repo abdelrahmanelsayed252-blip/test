@@ -1,0 +1,129 @@
+{
+ "slug": "muscat-osteopathy",
+ "company": "Muscat Osteopathy & Wellness Centre",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Muscat Osteopathy & Wellness Centre | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Osteopathy & Wellness Centre",
+  "eyebrow": "Collaboration · Clinic content",
+  "h1": "Help patients understand the treatment <em>before they book.</em>",
+  "lead": "Hi Muscat Osteopathy team, I'm Abdelrahman, a graphic and motion designer who has worked with 20+ brands in Saudi Arabia, the UAE, Oman and Qatar, and I build websites myself. I read about your spinal decompression, manual therapy and post-injury rehab in North Mawaleh, and made this page with a few ideas for your centre.",
+  "why_title": "What I could do for Muscat Osteopathy & Wellness Centre",
+  "why": [
+   {
+    "h": "Treatment explainers",
+    "p": "Short motion videos that show what happens in a spinal decompression or rehab session, in Arabic and English."
+   },
+   {
+    "h": "A booking page",
+    "p": "Your own site and domain with real time slots, so patients pick a time instead of filling a form and waiting."
+   },
+   {
+    "h": "Calm, clear social posts",
+    "p": "Weekly posts and stories on posture, recovery and fall prevention in one consistent look."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own services."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muscat Osteopathy & Wellness Centre. I saw your page.",
+  "mail_subject": "Collaboration idea for Muscat Osteopathy & Wellness Centre"
+ },
+ "ar": {
+  "title": "لـ مركز مسقط للعلاج العظمي والعافية | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ مركز مسقط للعلاج العظمي والعافية",
+  "eyebrow": "تعاون · محتوى للعيادات",
+  "h1": "ساعدوا المرضى على فهم العلاج <em>قبل الحجز.</em>",
+  "lead": "أهلاً فريق مركز مسقط للعلاج العظمي، معكم عبدالرحمن، مصمم جرافيك وموشن عملت مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر، وأبني المواقع بنفسي. اطلعت على خدمات تخفيف ضغط العمود الفقري والعلاج اليدوي والتأهيل بعد الإصابات في الموالح الشمالية، وجهزت لكم هذه الصفحة بأفكار لمركزكم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مركز مسقط للعلاج العظمي والعافية",
+  "why": [
+   {
+    "h": "فيديوهات تشرح العلاج",
+    "p": "فيديوهات موشن قصيرة توضح ما يحدث في جلسة تخفيف الضغط أو التأهيل، بالعربية والإنجليزية."
+   },
+   {
+    "h": "صفحة حجز",
+    "p": "موقع ونطاق خاص بكم مع مواعيد متاحة، ليختار المريض الوقت بدلاً من تعبئة نموذج والانتظار."
+   },
+   {
+    "h": "محتوى هادئ وواضح",
+    "p": "بوستات وستوريز أسبوعية عن القوام والتعافي والوقاية من السقوط بأسلوب واحد."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على خدماتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مركز مسقط للعلاج العظمي والعافية. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A calm, premium brand look.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية هادئة وفاخرة."
+  }
+ ],
+ "kind": "client"
+}

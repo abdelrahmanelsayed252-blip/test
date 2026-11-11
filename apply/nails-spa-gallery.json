@@ -1,0 +1,129 @@
+{
+ "slug": "nails-spa-gallery",
+ "company": "Nails & Spa Gallery",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Nails & Spa Gallery | Abdelrahman Elsayed",
+  "tag": "Prepared for Nails & Spa Gallery",
+  "eyebrow": "Collaboration · Salon & spa content",
+  "h1": "Let every treatment <em>sell itself on screen.</em>",
+  "lead": "Hi Nails & Spa Gallery team, I'm Abdelrahman, a graphic and motion designer who has worked with 20+ brands in Saudi Arabia, the UAE, Oman and Qatar. I saw your menu on Al Mouj Street, from Hydra Facial and LPG sculpting to hammam rituals and Royal mani-pedi, and made this page with a few ideas for you.",
+  "why_title": "What I could do for Nails & Spa Gallery",
+  "why": [
+   {
+    "h": "Service reels",
+    "p": "Short calm reels for each treatment, made for Instagram, TikTok and Snapchat in the same look."
+   },
+   {
+    "h": "Monthly offer visuals",
+    "p": "A fresh offer design each month across the site, stories and posts, so every channel shows the same deal."
+   },
+   {
+    "h": "A booking page",
+    "p": "A simple page where clients pick the treatment and time, then confirm on WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own services."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Nails & Spa Gallery. I saw your page.",
+  "mail_subject": "Collaboration idea for Nails & Spa Gallery"
+ },
+ "ar": {
+  "title": "لـ نيلز آند سبا جاليري | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ نيلز آند سبا جاليري",
+  "eyebrow": "تعاون · محتوى للصالونات والسبا",
+  "h1": "دعوا كل جلسة <em>تتحدث عن نفسها على الشاشة.</em>",
+  "lead": "أهلاً فريق نيلز آند سبا جاليري، معكم عبدالرحمن، مصمم جرافيك وموشن عملت مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر. اطلعت على خدماتكم في شارع الموج، من الهيدرا فيشل وجلسات LPG إلى طقوس الحمام والمانيكير الملكي، وجهزت لكم هذه الصفحة بأفكار لكم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ نيلز آند سبا جاليري",
+  "why": [
+   {
+    "h": "ريلز للخدمات",
+    "p": "ريلز قصيرة وهادئة لكل خدمة، مناسبة لإنستغرام وتيك توك وسناب شات بنفس الأسلوب."
+   },
+   {
+    "h": "تصاميم العروض الشهرية",
+    "p": "تصميم جديد لعرض كل شهر على الموقع والستوريز والبوستات، ليظهر العرض نفسه في كل مكان."
+   },
+   {
+    "h": "صفحة حجز",
+    "p": "صفحة بسيطة تختار فيها العميلة الخدمة والموعد ثم تؤكد عبر الواتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على خدماتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك نيلز آند سبا جاليري. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty brands.",
+   "ar_title": "صورة منتج · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات الجمال."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A calm, premium brand look.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية هادئة وفاخرة."
+  }
+ ],
+ "kind": "client"
+}
