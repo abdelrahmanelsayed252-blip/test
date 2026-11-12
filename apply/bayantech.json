@@ -1,0 +1,127 @@
+{
+ "slug": "bayantech",
+ "company": "BayanTech",
+ "default_lang": "en",
+ "country_en": "Egypt",
+ "country_ar": "مصر",
+ "en": {
+  "title": "For BayanTech | Senior Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for BayanTech · Giza",
+  "eyebrow": "Application · Senior Graphic Designer (Hybrid)",
+  "h1": "A language company <em>should look fluent in every market.</em>",
+  "lead": "Hi BayanTech team, I'm Abdelrahman, a graphic and motion designer based in Giza with 6+ years of work for 20+ brands in Saudi Arabia, the UAE, Oman and Qatar. Your role mixes design with video and motion graphics for campaigns, so I made this page for you.",
+  "why_title": "What I'd bring to BayanTech",
+  "why": [
+   {
+    "h": "Arabic and English design",
+    "p": "Campaigns, posts and decks that read well in both directions, built for Gulf and Egyptian audiences."
+   },
+   {
+    "h": "Video and motion",
+    "p": "Explainer and campaign videos in After Effects and Premiere, plus AI video when it saves time."
+   },
+   {
+    "h": "Works with web teams",
+    "p": "I design and build sites myself, so handoff to developers is clean."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brand check",
+    "p": "Review the current look across site, social and sales material."
+   },
+   {
+    "h": "Templates",
+    "p": "Arabic/English templates the marketing team can reuse."
+   },
+   {
+    "h": "Motion pack",
+    "p": "Short videos that explain your services market by market."
+   },
+   {
+    "h": "Review",
+    "p": "See what performs and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is BayanTech. I saw your page.",
+  "mail_subject": "BayanTech - Senior Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ بيان تك · الجيزة",
+  "eyebrow": "طلب توظيف · مصمم جرافيك أول (هجين)",
+  "h1": "شركة لغات <em>يجب أن تبدو متقنة في كل سوق.</em>",
+  "lead": "أهلاً فريق بيان تك، معكم عبدالرحمن، مصمم جرافيك وموشن مقيم في الجيزة بخبرة أكثر من 6 سنوات مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر. الوظيفة تجمع التصميم مع الفيديو والموشن جرافيك للحملات، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ بيان تك",
+  "why": [
+   {
+    "h": "تصميم بالعربية والإنجليزية",
+    "p": "حملات وبوستات وعروض تقديمية تُقرأ جيداً في الاتجاهين، للجمهور الخليجي والمصري."
+   },
+   {
+    "h": "فيديو وموشن",
+    "p": "فيديوهات شرح وحملات على After Effects وPremiere، وفيديو بالذكاء الاصطناعي حين يوفر الوقت."
+   },
+   {
+    "h": "تعاون مع فرق الويب",
+    "p": "أصمم المواقع وأبنيها بنفسي، فيكون التسليم للمطورين واضحاً."
+   }
+  ],
+  "steps_title": "كيف أبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "مراجعة الهوية",
+    "p": "مراجعة الشكل الحالي في الموقع والسوشيال ومواد المبيعات."
+   },
+   {
+    "h": "قوالب",
+    "p": "قوالب عربية وإنجليزية يعيد فريق التسويق استخدامها."
+   },
+   {
+    "h": "حزمة موشن",
+    "p": "فيديوهات قصيرة تشرح خدماتكم لكل سوق."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نرى ما يحقق نتائج ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك بيان تك. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "id-carly",
+   "en_title": "Identity · CARLY",
+   "en_cap": "Logo, palette, type and mockups.",
+   "ar_title": "هوية · CARLY",
+   "ar_cap": "شعار وألوان وخطوط ونماذج تطبيق."
+  }
+ ]
+}

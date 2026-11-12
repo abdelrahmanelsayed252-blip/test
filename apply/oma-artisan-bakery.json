@@ -1,0 +1,128 @@
+{
+ "slug": "oma-artisan-bakery",
+ "company": "OMA Artisan Bakery",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For OMA Artisan Bakery | Abdelrahman Elsayed",
+  "tag": "Prepared for OMA Artisan Bakery · Al Khuwair",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Sourdough baked daily <em>deserves to look it.</em>",
+  "lead": "Hi OMA team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee brand. Long-fermented sourdough, lunch boxes and next-morning delivery are great material, so I made this page with a few ideas for OMA.",
+  "why_title": "What I could do for OMA",
+  "why": [
+   {
+    "h": "AI scenes per loaf and box",
+    "p": "Each bread, sandwich and lunch box in a fresh morning scene, made in under an hour and finished by hand."
+   },
+   {
+    "h": "Order-before-9 reels",
+    "p": "Short reels around the 9 PM cutoff and next-morning delivery, plus the first-order code."
+   },
+   {
+    "h": "A proper order page",
+    "p": "A fast bilingual page under the OMA name that ends in a WhatsApp order, so the brand and the shop match."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is OMA Artisan Bakery. I saw your page.",
+  "mail_subject": "Ideas for OMA Artisan Bakery"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ أوما للمخبوزات الحرفية · الخوير",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "خبز ساوردو يُخبز يومياً <em>يستحق أن يظهر بهذا الشكل.</em>",
+  "lead": "أهلاً فريق أوما، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة خليجية. خبز الساوردو المخمّر طويلاً وصناديق الغداء والتوصيل صباح اليوم التالي مادة ممتازة، لذلك جهزت لكم هذه الصفحة بأفكار لأوما.",
+  "why_title": "ماذا أستطيع أن أقدم لـ أوما",
+  "why": [
+   {
+    "h": "مشهد لكل رغيف وصندوق",
+    "p": "كل خبز وساندويتش وصندوق غداء في مشهد صباحي جديد، يُنجز في أقل من ساعة ويكتمل يدوياً."
+   },
+   {
+    "h": "ريلز اطلب قبل التاسعة",
+    "p": "ريلز قصيرة عن موعد الطلب قبل 9 مساءً والتوصيل صباحاً، مع كود الطلب الأول."
+   },
+   {
+    "h": "صفحة طلب متكاملة",
+    "p": "صفحة سريعة بالعربية والإنجليزية باسم أوما تنتهي بطلب على واتساب، لتتطابق العلامة مع المتجر."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك أوما للمخبوزات. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  }
+ ],
+ "kind": "client"
+}

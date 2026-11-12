@@ -1,0 +1,128 @@
+{
+ "slug": "raaz-design",
+ "company": "Raaz Design",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Raaz Design | Abdelrahman Elsayed",
+  "tag": "Prepared for Raaz Design · Al Qurum",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Your fit-outs are finished. <em>Your portfolio should be too.</em>",
+  "lead": "Hi RZD team, I'm Abdelrahman, a graphic and motion designer who designs and builds websites and makes AI and motion content for Gulf brands. Projects like Skinova, NMC and Makkah Hypermarket deserve to be shown properly, so I made this page with a few ideas for Raaz Design.",
+  "why_title": "What I could do for Raaz Design",
+  "why": [
+   {
+    "h": "Case-study website",
+    "p": "A fast bilingual site with real project pages, real numbers and no template text left behind."
+   },
+   {
+    "h": "Before and after motion",
+    "p": "Walkthrough reels that show a space from bare shell to handover."
+   },
+   {
+    "h": "AI concept visuals",
+    "p": "Quick concept scenes for pitches, so clients see the idea before the drawings."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Raaz Design. I saw your page.",
+  "mail_subject": "Ideas for Raaz Design"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ راز ديزاين · القرم",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "مشاريعكم مكتملة. <em>ومعرض أعمالكم يجب أن يكون كذلك.</em>",
+  "lead": "أهلاً فريق راز ديزاين، معكم عبدالرحمن، مصمم جرافيك وموشن أصمم المواقع وأبنيها وأنتج محتوى بالذكاء الاصطناعي والموشن لعلامات تجارية خليجية. مشاريع مثل سكينوفا وNMC ومكة هايبرماركت تستحق أن تُعرض كما يجب، لذلك جهزت لكم هذه الصفحة بأفكار لراز ديزاين.",
+  "why_title": "ماذا أستطيع أن أقدم لـ راز ديزاين",
+  "why": [
+   {
+    "h": "موقع بدراسات حالة",
+    "p": "موقع سريع بالعربية والإنجليزية بصفحات مشاريع حقيقية وأرقام حقيقية دون نصوص قوالب متبقية."
+   },
+   {
+    "h": "موشن قبل وبعد",
+    "p": "ريلز جولات تُظهر المساحة من الهيكل حتى التسليم."
+   },
+   {
+    "h": "تصورات مبدئية بالذكاء الاصطناعي",
+    "p": "مشاهد سريعة للعروض، ليرى العميل الفكرة قبل المخططات."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك راز ديزاين. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-cars",
+   "en_title": "AI scene · Cars",
+   "en_cap": "Car scenes built with AI and finished by hand.",
+   "ar_title": "مشهد بالذكاء الاصطناعي · سيارات",
+   "ar_cap": "مشاهد سيارات بالذكاء الاصطناعي، مكتملة يدوياً."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A calm, premium brand look.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية هادئة وفاخرة."
+  }
+ ],
+ "kind": "client"
+}

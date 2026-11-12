@@ -1,0 +1,128 @@
+{
+ "slug": "hama-design",
+ "company": "HAMA Design & Fit-out",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For HAMA Design & Fit-out | Abdelrahman Elsayed",
+  "tag": "Prepared for HAMA · Azaiba",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "250+ projects. <em>Let the next client walk through them.</em>",
+  "lead": "Hi HAMA team, I'm Abdelrahman, a graphic and motion designer who designs and builds websites and makes AI and motion content for Gulf brands. You've done coffee shops, restaurants, offices, retail and homes, and a few named projects would sell that better than any number, so I made this page with ideas for HAMA.",
+  "why_title": "What I could do for HAMA",
+  "why": [
+   {
+    "h": "Project reels",
+    "p": "Short walkthrough reels per project, cut for Instagram and for pitches."
+   },
+   {
+    "h": "Named case studies",
+    "p": "Project pages on your site with the brief, the space and the result."
+   },
+   {
+    "h": "AI concepts for F&B pitches",
+    "p": "Concept scenes of a cafe or restaurant interior before the first drawing."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is HAMA. I saw your page.",
+  "mail_subject": "Ideas for HAMA"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ هاما · العذيبة",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "أكثر من 250 مشروعاً. <em>دعوا العميل القادم يتجول فيها.</em>",
+  "lead": "أهلاً فريق هاما، معكم عبدالرحمن، مصمم جرافيك وموشن أصمم المواقع وأبنيها وأنتج محتوى بالذكاء الاصطناعي والموشن لعلامات تجارية خليجية. نفذتم مقاهي ومطاعم ومكاتب ومتاجر ومنازل، وبعض المشاريع المسماة تبيع ذلك أفضل من أي رقم، لذلك جهزت لكم هذه الصفحة بأفكار لهاما.",
+  "why_title": "ماذا أستطيع أن أقدم لـ هاما",
+  "why": [
+   {
+    "h": "ريلز المشاريع",
+    "p": "ريلز جولات قصيرة لكل مشروع، لإنستغرام وللعروض."
+   },
+   {
+    "h": "دراسات حالة بالأسماء",
+    "p": "صفحات مشاريع في موقعكم توضح المطلوب والمساحة والنتيجة."
+   },
+   {
+    "h": "تصورات للمطاعم والمقاهي",
+    "p": "مشاهد مبدئية لديكور مقهى أو مطعم قبل أول مخطط."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك هاما. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  }
+ ],
+ "kind": "client"
+}

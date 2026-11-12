@@ -1,0 +1,128 @@
+{
+ "slug": "sukumvit-physio",
+ "company": "Sukumvit Physiotherapy",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Sukumvit Physiotherapy | Abdelrahman Elsayed",
+  "tag": "Prepared for Sukumvit Physiotherapy · Muscat",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Show patients the road back <em>before they book.</em>",
+  "lead": "Hi Sukumvit team, I'm Abdelrahman, a graphic and motion designer who has worked with 20+ brands in Saudi Arabia, the UAE, Oman and Qatar. Your neuro, paediatric, sport and cardiopulmonary rehab are hard to explain in a photo, so I made this page with a few ideas for Sukumvit.",
+  "why_title": "What I could do for Sukumvit",
+  "why": [
+   {
+    "h": "Motion explainers per rehab type",
+    "p": "Short clear videos on what happens in each program and how long recovery takes."
+   },
+   {
+    "h": "Patient-journey reels",
+    "p": "From first assessment to last session, in a calm look that builds trust."
+   },
+   {
+    "h": "A cleaner site with booking",
+    "p": "Your contact page and hotline details checked and a booking page that lands on WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Sukumvit Physiotherapy. I saw your page.",
+  "mail_subject": "Ideas for Sukumvit Physiotherapy"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ سوكومفيت للعلاج الطبيعي · مسقط",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "أروا المرضى طريق التعافي <em>قبل أن يحجزوا.</em>",
+  "lead": "أهلاً فريق سوكومفيت، معكم عبدالرحمن، مصمم جرافيك وموشن عمل مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر. تأهيل الأعصاب والأطفال والرياضة والقلب والرئة يصعب شرحه بصورة، لذلك جهزت لكم هذه الصفحة بأفكار لسوكومفيت.",
+  "why_title": "ماذا أستطيع أن أقدم لـ سوكومفيت",
+  "why": [
+   {
+    "h": "فيديوهات شرح لكل برنامج تأهيل",
+    "p": "فيديوهات قصيرة وواضحة عما يحدث في كل برنامج ومدة التعافي."
+   },
+   {
+    "h": "ريلز رحلة المريض",
+    "p": "من التقييم الأول حتى الجلسة الأخيرة، بأسلوب هادئ يبني الثقة."
+   },
+   {
+    "h": "موقع أوضح مع الحجز",
+    "p": "مراجعة صفحة التواصل وبيانات الخط الساخن، وصفحة حجز تنتهي على واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك سوكومفيت للعلاج الطبيعي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Monthly content",
+   "en_cap": "One consistent look across the month.",
+   "ar_title": "تصميم سوشيال · محتوى شهري",
+   "ar_cap": "أسلوب واحد ثابت طوال الشهر."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}

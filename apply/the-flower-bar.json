@@ -1,0 +1,128 @@
+{
+ "slug": "the-flower-bar",
+ "company": "The Flower Bar",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For The Flower Bar | Abdelrahman Elsayed",
+  "tag": "Prepared for The Flower Bar · Bousher",
+  "eyebrow": "Collaboration · Visual content",
+  "h1": "Every bouquet is a moment. <em>Let people see it first.</em>",
+  "lead": "Hi Flower Bar team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion content for Gulf brands. Your Opal Edition, the heart arrangements and the Balloon and Birthday Editions are made for social, so I made this page with a few ideas for The Flower Bar.",
+  "why_title": "What I could do for The Flower Bar",
+  "why": [
+   {
+    "h": "AI scenes per arrangement",
+    "p": "Each bouquet placed in the moment it is for: a birthday table, a new baby, an Eid visit."
+   },
+   {
+    "h": "Bouquet reveal reels",
+    "p": "Short motion reels for every edition, ready before each season."
+   },
+   {
+    "h": "Season campaigns",
+    "p": "One look for Valentine's, Mother's Day and Eid across posts, stories and the site."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is The Flower Bar. I saw your page.",
+  "mail_subject": "Ideas for The Flower Bar"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ذا فلاور بار · بوشر",
+  "eyebrow": "تعاون · محتوى بصري",
+  "h1": "كل باقة لحظة. <em>دعوا الناس يرونها أولاً.</em>",
+  "lead": "أهلاً فريق ذا فلاور بار، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات ومحتوى متحركاً بالذكاء الاصطناعي لعلامات تجارية خليجية. مجموعة أوبال وتنسيقات القلوب ومجموعات البالونات وأعياد الميلاد مصنوعة للسوشيال، لذلك جهزت لكم هذه الصفحة بأفكار لذا فلاور بار.",
+  "why_title": "ماذا أستطيع أن أقدم لـ ذا فلاور بار",
+  "why": [
+   {
+    "h": "مشهد لكل تنسيق",
+    "p": "كل باقة في اللحظة المناسبة لها: طاولة عيد ميلاد، مولود جديد، زيارة العيد."
+   },
+   {
+    "h": "ريلز كشف الباقات",
+    "p": "ريلز متحركة قصيرة لكل مجموعة، جاهزة قبل كل موسم."
+   },
+   {
+    "h": "حملات المواسم",
+    "p": "أسلوب واحد لعيد الحب ويوم الأم والعيد عبر البوستات والستوريز والموقع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ذا فلاور بار. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty brands.",
+   "ar_title": "صورة منتج · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات الجمال."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Offers",
+   "en_cap": "Offer posts that read in two seconds.",
+   "ar_title": "تصميم سوشيال · عروض",
+   "ar_cap": "بوستات عروض تُقرأ في ثانيتين."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A national-day campaign built around one strong image.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة يوم وطني مبنية على صورة واحدة قوية."
+  }
+ ],
+ "kind": "client"
+}
