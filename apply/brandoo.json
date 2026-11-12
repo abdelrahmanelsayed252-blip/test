@@ -1,0 +1,127 @@
+{
+ "slug": "brandoo",
+ "company": "Brandoo Marketing",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Brandoo | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Brandoo Marketing · Oman",
+  "eyebrow": "Application · Graphic Designer (motion + AI)",
+  "h1": "Agency work that moves <em>and ships on time.</em>",
+  "lead": "Hi Brandoo team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for 20+ brands in Saudi Arabia, the UAE, Oman and Qatar. Your ad asks for After Effects motion and AI tools in design, which is how I work every day, so I made this page for you.",
+  "why_title": "What I'd bring to Brandoo",
+  "why": [
+   {
+    "h": "Motion in After Effects",
+    "p": "Logo animations, offer reels and product motion for clients, cut for Reels, TikTok and Snap."
+   },
+   {
+    "h": "AI inside the workflow",
+    "p": "AI product scenes in under an hour, AI video ads with talking characters in Gulf dialect, finished by hand."
+   },
+   {
+    "h": "Client-ready identities",
+    "p": "Brand identities like Gamela, CARLY and IVY, carried into posts, stories and print."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Learn the clients",
+    "p": "Go through each account, its look and what it needs this month."
+   },
+   {
+    "h": "Quick wins",
+    "p": "Refresh templates and a first round of motion posts."
+   },
+   {
+    "h": "AI pipeline",
+    "p": "Set up AI scenes and video so content goes out faster."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm the marketing team can plan around."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Brandoo. I saw your page.",
+  "mail_subject": "Brandoo - Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ براندوو للتسويق · عُمان",
+  "eyebrow": "طلب توظيف · مصمم جرافيك (موشن وذكاء اصطناعي)",
+  "h1": "أعمال وكالة تتحرك <em>وتُسلَّم في وقتها.</em>",
+  "lead": "أهلاً فريق براندوو، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر. إعلانكم يطلب موشن على After Effects وأدوات الذكاء الاصطناعي في التصميم، وهذا ما أعمل به يومياً، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ براندوو",
+  "why": [
+   {
+    "h": "موشن على After Effects",
+    "p": "تحريك شعارات وريلز عروض وموشن منتجات للعملاء، بمقاسات ريلز وتيك توك وسناب."
+   },
+   {
+    "h": "الذكاء الاصطناعي ضمن سير العمل",
+    "p": "مشاهد منتجات بالذكاء الاصطناعي في أقل من ساعة، وإعلانات فيديو بشخصيات تتحدث باللهجة الخليجية، مكتملة يدوياً."
+   },
+   {
+    "h": "هويات جاهزة للعملاء",
+    "p": "هويات مثل جميلة وCARLY وIVY، ممتدة إلى البوستات والستوريز والمطبوعات."
+   }
+  ],
+  "steps_title": "كيف أبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "فهم العملاء",
+    "p": "مراجعة كل حساب وأسلوبه وما يحتاجه هذا الشهر."
+   },
+   {
+    "h": "نتائج سريعة",
+    "p": "تحديث القوالب وأول دفعة من بوستات الموشن."
+   },
+   {
+    "h": "خط إنتاج بالذكاء الاصطناعي",
+    "p": "تجهيز المشاهد والفيديو بالذكاء الاصطناعي لينطلق المحتوى أسرع."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي يخطط عليه فريق التسويق."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك براندوو. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "Logo, colours and type that work at every size.",
+   "ar_title": "هوية · جميلة",
+   "ar_cap": "شعار وألوان وخطوط تعمل بكل المقاسات."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ]
+}
