@@ -1,0 +1,128 @@
+{
+ "slug": "cbp-spine",
+ "company": "CBP Precision Spine Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For CBP Precision Spine Center | Abdelrahman Elsayed",
+  "tag": "Prepared for CBP Precision Spine Center",
+  "eyebrow": "Collaboration · Patient content",
+  "h1": "Help patients <em>understand the treatment before they book.</em>",
+  "lead": "Hi CBP team, I'm Abdelrahman, a graphic and motion designer working with Gulf brands. Scoliosis care, spinal decompression and shockwave are hard to picture from text, so I made this page with a few ideas for CBP Precision Spine Center.",
+  "why_title": "What I could do for CBP Precision Spine Center",
+  "why": [
+   {
+    "h": "Treatment explainers",
+    "p": "Short motion videos for scoliosis, sciatica and posture care, in Arabic and English."
+   },
+   {
+    "h": "A fixed website",
+    "p": "Your sliders and map working again, with a clear booking page for the new-patient consultation."
+   },
+   {
+    "h": "AI presenter",
+    "p": "An AI presenter who answers the questions patients ask most."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own treatments."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is CBP Precision Spine Center. I saw your page.",
+  "mail_subject": "Collaboration idea for CBP Precision Spine Center"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مركز CBP للعمود الفقري",
+  "eyebrow": "تعاون · محتوى للمرضى",
+  "h1": "ساعدوا المرضى <em>على فهم العلاج قبل الحجز.</em>",
+  "lead": "أهلاً فريق CBP، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية. علاج الجنف وتخفيف الضغط على العمود الفقري والموجات الصادمة يصعب تخيلها من النص، فجهزت لكم هذه الصفحة بأفكار لمركز CBP.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مركز CBP للعمود الفقري",
+  "why": [
+   {
+    "h": "فيديوهات شرح العلاج",
+    "p": "فيديوهات موشن قصيرة عن الجنف وعرق النسا وتصحيح القوام بالعربية والإنجليزية."
+   },
+   {
+    "h": "موقع مكتمل",
+    "p": "عودة السلايدرز والخريطة للعمل مع صفحة حجز واضحة لاستشارة المريض الجديد."
+   },
+   {
+    "h": "مقدم بالذكاء الاصطناعي",
+    "p": "مقدم بالذكاء الاصطناعي يجيب عن أكثر أسئلة المرضى تكراراً."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على علاجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مركز CBP للعمود الفقري. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI video · Saudi financing company",
+   "en_cap": "Talking-character ads in Gulf dialect.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · شركة تمويل سعودية",
+   "ar_cap": "إعلانات بشخصيات متحدثة باللهجة الخليجية."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Gulf brands",
+   "en_cap": "AI-generated scenes, voice and edit in one flow.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامات خليجية",
+   "ar_cap": "مشاهد وصوت ومونتاج بالذكاء الاصطناعي في مسار واحد."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Clean posts that keep one look across a month.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات واضحة بهوية واحدة طوال الشهر."
+  },
+  {
+   "src": "skincare",
+   "en_title": "AI product scene · Skincare",
+   "en_cap": "Product shown in a calm, clean scene.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "المنتج في مشهد هادئ ونظيف."
+  }
+ ],
+ "kind": "client"
+}

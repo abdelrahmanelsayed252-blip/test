@@ -1,0 +1,127 @@
+{
+ "slug": "eleva",
+ "company": "Eleva Communications",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For Eleva Communications | Video Editor, Abdelrahman Elsayed",
+  "tag": "Prepared for Eleva Communications · Abu Dhabi",
+  "eyebrow": "Application · Video Editor",
+  "h1": "Edits that hold attention, <em>with AI in the toolkit.</em>",
+  "lead": "Hi Eleva team, I'm Abdelrahman, a motion designer and AI content creator with 6+ years of work for Gulf brands. I saw your Video Editor opening, which asks for AI and generative media tools next to editing, colour and audio, so I made this page for you.",
+  "why_title": "What I'd bring to Eleva",
+  "why": [
+   {
+    "h": "Editing and motion",
+    "p": "Premiere and After Effects edits for reels, ads and brand films, with clean colour and sound."
+   },
+   {
+    "h": "Generative video",
+    "p": "AI video with Veo 3, Kling, Runway and Higgsfield, like Gulf-dialect talking-character ads for a Saudi financing company."
+   },
+   {
+    "h": "AI voice and presenters",
+    "p": "ElevenLabs voices and an AI podcast host I made for the Siredo 2026 real estate exhibition."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Learn the clients",
+    "p": "Understand each brand's tone, formats and approval flow."
+   },
+   {
+    "h": "Set a workflow",
+    "p": "Templates for titles, colour and audio so every edit stays consistent."
+   },
+   {
+    "h": "Add AI where it helps",
+    "p": "Generated shots, voice and versions that save shoot days."
+   },
+   {
+    "h": "Review",
+    "p": "Check what performed and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Eleva Communications. I saw your page.",
+  "mail_subject": "Eleva Communications - Video Editor"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ إيليفا للاتصالات · أبوظبي",
+  "eyebrow": "طلب توظيف · محرر فيديو",
+  "h1": "مونتاج يشد الانتباه، <em>والذكاء الاصطناعي ضمن الأدوات.</em>",
+  "lead": "أهلاً فريق إيليفا، معكم عبدالرحمن، مصمم موشن وصانع محتوى بالذكاء الاصطناعي بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. شاهدت إعلانكم عن وظيفة محرر فيديو يطلب أدوات الذكاء الاصطناعي إلى جانب المونتاج والألوان والصوت، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لـ إيليفا",
+  "why": [
+   {
+    "h": "المونتاج والموشن",
+    "p": "مونتاج على بريمير وأفتر إفكتس للريلز والإعلانات وأفلام العلامات، بألوان وصوت نظيفين."
+   },
+   {
+    "h": "الفيديو التوليدي",
+    "p": "فيديو بالذكاء الاصطناعي عبر Veo 3 وKling وRunway وHiggsfield، مثل إعلانات بشخصيات متحدثة باللهجة الخليجية لشركة تمويل سعودية."
+   },
+   {
+    "h": "الأصوات والمقدمون",
+    "p": "أصوات ElevenLabs ومقدم بودكاست بالذكاء الاصطناعي لمعرض سيريدو 2026 العقاري."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "فهم العملاء",
+    "p": "التعرف على أسلوب كل علامة وصيغها ومسار الموافقات."
+   },
+   {
+    "h": "تنظيم العمل",
+    "p": "قوالب للعناوين والألوان والصوت ليبقى كل مونتاج متسقاً."
+   },
+   {
+    "h": "إضافة الذكاء الاصطناعي",
+    "p": "لقطات وأصوات ونسخ مولدة توفر أيام تصوير."
+   },
+   {
+    "h": "المراجعة",
+    "p": "مراجعة ما حقق نتائج وتطوير الجولة التالية."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك إيليفا للاتصالات. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI video · Saudi financing company",
+   "en_cap": "Talking-character ads in Gulf dialect.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · شركة تمويل سعودية",
+   "ar_cap": "إعلانات بشخصيات متحدثة باللهجة الخليجية."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Ozone International UAE",
+   "en_cap": "UGC-style AI ads, scripted and edited end to end.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بالذكاء الاصطناعي، من النص إلى المونتاج."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Gulf brands",
+   "en_cap": "AI-generated scenes, voice and edit in one flow.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامات خليجية",
+   "ar_cap": "مشاهد وصوت ومونتاج بالذكاء الاصطناعي في مسار واحد."
+  }
+ ]
+}

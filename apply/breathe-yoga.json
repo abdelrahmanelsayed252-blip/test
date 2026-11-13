@@ -1,0 +1,128 @@
+{
+ "slug": "breathe-yoga",
+ "company": "Breathe Yoga & Pilates",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Breathe Yoga & Pilates | Abdelrahman Elsayed",
+  "tag": "Prepared for Breathe Yoga & Pilates",
+  "eyebrow": "Collaboration · Studio content",
+  "h1": "Fill the reformer <em>before the class starts.</em>",
+  "lead": "Hi Breathe team, I'm Abdelrahman, a graphic and motion designer working with Gulf brands. Your 3-class reformer intro is a strong offer, but the WhatsApp button on your site has no number in it, so I made this page with a few ideas for Breathe.",
+  "why_title": "What I could do for Breathe Yoga & Pilates",
+  "why": [
+   {
+    "h": "Class reels",
+    "p": "Calm short reels for reformer, tower, barre and the new-moms class."
+   },
+   {
+    "h": "Intro offer visuals",
+    "p": "Motion posts that make the 3-class intro easy to understand and share."
+   },
+   {
+    "h": "A working site",
+    "p": "Classes, schedule and pricing pages that open, and a WhatsApp button that rings you."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own classes."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Breathe Yoga & Pilates. I saw your page.",
+  "mail_subject": "Collaboration idea for Breathe Yoga & Pilates"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ بريث يوغا وبيلاتس",
+  "eyebrow": "تعاون · محتوى الاستوديو",
+  "h1": "املؤوا أجهزة الريفورمر <em>قبل بدء الحصة.</em>",
+  "lead": "أهلاً فريق بريث، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية. عرض الحصص الثلاث على الريفورمر عرض قوي، لكن زر الواتساب في موقعكم بلا رقم، فجهزت لكم هذه الصفحة بأفكار لبريث.",
+  "why_title": "ماذا أستطيع أن أقدم لـ بريث يوغا وبيلاتس",
+  "why": [
+   {
+    "h": "ريلز للحصص",
+    "p": "ريلز قصيرة هادئة لحصص الريفورمر والتاور والبار وحصة الأمهات الجدد."
+   },
+   {
+    "h": "تصاميم عرض البداية",
+    "p": "بوستات متحركة تجعل عرض الحصص الثلاث سهل الفهم والمشاركة."
+   },
+   {
+    "h": "موقع يعمل",
+    "p": "صفحات الحصص والجدول والأسعار تفتح، وزر واتساب يصلكم فعلاً."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على حصصكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك بريث يوغا وبيلاتس. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Clean posts that keep one look across a month.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات واضحة بهوية واحدة طوال الشهر."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Gulf brands",
+   "en_cap": "AI-generated scenes, voice and edit in one flow.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامات خليجية",
+   "ar_cap": "مشاهد وصوت ومونتاج بالذكاء الاصطناعي في مسار واحد."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}
