@@ -11,8 +11,45 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Inter:wght@400;600;700&family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/style.css">
+<style>
+/* motion */
+.progress{position:fixed;top:0;left:0;right:0;height:2px;background:var(--red);transform-origin:0 50%;transform:scaleX(0);z-index:60;pointer-events:none}
+.hero{position:relative}
+.hero h1 em{background:linear-gradient(var(--red),var(--red)) 0 94%/calc(var(--u,1)*100%) .07em no-repeat;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.hero>*:not(.dots){position:relative;z-index:1}
+.dots{position:absolute;inset:0 -20px;display:grid;pointer-events:none;z-index:0;-webkit-mask-image:radial-gradient(ellipse 75% 70% at 70% 45%,#000 20%,transparent 75%);mask-image:radial-gradient(ellipse 75% 70% at 70% 45%,#000 20%,transparent 75%)}
+.dots i{width:4px;height:4px;border-radius:50%;background:var(--line);place-self:center}
+.stats{display:flex;gap:34px;flex-wrap:wrap;margin-top:34px}
+.stats div{font:800 clamp(34px,4.6vw,54px)/1 "Bricolage Grotesque",sans-serif;letter-spacing:-.02em}
+.stats div span{color:var(--red)}
+.stats small{display:block;font:600 13px/1.4 "Inter",sans-serif;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;margin-top:8px}
+.intro{position:fixed;inset:0;z-index:100;background:var(--ink);display:grid;place-content:center;justify-items:center;gap:18px;text-align:center;padding:0 20px}
+.intro .name{font:800 clamp(38px,8vw,112px)/1.02 "Bricolage Grotesque",sans-serif;letter-spacing:-.03em;color:var(--cream)}
+.intro .role{font:600 clamp(11px,1.25vw,14px)/1.6 "Inter",sans-serif;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+.intro .name .dot{color:var(--red);font-style:normal}
+.sr-only{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.marquee{overflow:hidden;margin-top:22px;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.marquee .track{display:flex;gap:10px;width:max-content}
+.marquee .pill{white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:9px 16px;font-size:14px;color:var(--muted)}
+.marquee .pill b{color:var(--cream);font-weight:600;margin-inline-end:6px}
+.has-cursor,.has-cursor a,.has-cursor .card{cursor:none}
+.cursor{position:fixed;left:0;top:0;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:var(--red);z-index:90;pointer-events:none}
+.grid{perspective:1200px}
+.hero .btns .btn.pf{position:relative;overflow:hidden;background:var(--red);border-color:var(--red);color:#fff;padding:14px 22px;font-size:16px;box-shadow:0 10px 30px -10px rgba(232,54,79,.7)}
+.hero .btns .btn.pf:hover{background:var(--red-2);border-color:var(--red-2)}
+.hero .btns .btn.pf .arr{display:inline-block}
+.hero .btns .btn.pf .shine{position:absolute;inset:0;width:40%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.45),transparent);transform:translateX(-120%);pointer-events:none}
+.hero .btns .btn.primary:not(.pf){background:transparent;border-color:var(--line);color:var(--cream)}
+.hero .btns .btn.primary:not(.pf):hover{border-color:var(--cream)}
+.js-motion .card{will-change:transform}
+.js-motion .card img{transition:none}
+.media{display:block;overflow:hidden;cursor:pointer}
+.media img{display:block;width:100%}
+@media (prefers-reduced-motion:reduce){.progress,.dots{display:none}}
+</style>
 </head>
 <body>
+<div class="progress" aria-hidden="true"></div>
 
 <header class="bar"><div class="wrap">
   <a class="logo" href="/">Abdelrahman<span>.</span></a>
@@ -26,15 +63,20 @@
   <h1>Visuals that <em>sell the moment</em>, not just the product.</h1>
   <p class="lead">I'm Abdelrahman Elsayed. For 6+ years I've designed key visuals, brand identities, social content and motion for 20+ brands in Saudi Arabia, the UAE, Oman, Qatar, Jordan and Egypt. When a shoot isn't possible, I build the scene with AI and finish it by hand in Photoshop and After Effects.</p>
   <div class="btns">
+    <a class="btn pf" href="https://drive.google.com/file/d/1ew7FIP2rW-dcuGnLQMi-8I99_wXS-K0f/view" target="_blank">Full portfolio with videos ↗</a>
     <a class="btn primary" href="/cv/Abdelrahman_Elsayed_CV_Designer.pdf" target="_blank">Download CV</a>
     <a class="btn" href="/cv/Abdelrahman_Elsayed_CV_AI.pdf" target="_blank">CV (AI content roles)</a>
-    <a class="btn" href="https://drive.google.com/file/d/1ew7FIP2rW-dcuGnLQMi-8I99_wXS-K0f/view" target="_blank">Full portfolio with videos ↗</a>
   </div>
   <div class="facts">
     <span><b>Based in</b> Giza, Egypt</span>
     <span><b>Open to</b> relocation to Oman / GCC or remote</span>
     <span><b>Notice</b> 1 week</span>
     <span><b>Languages</b> Arabic, English</span>
+  </div>
+  <div class="stats">
+    <div><b data-count="6">6</b><span>+</span><small>Years designing</small></div>
+    <div><b data-count="20">20</b><span>+</span><small>Brands served</small></div>
+    <div><b data-count="6">6</b><small>Countries</small></div>
   </div>
 </div>
 
@@ -97,5 +139,234 @@
 </main>
 
 <footer><div class="wrap"><span>© 2026 Abdelrahman Elsayed</span><span class="ar">مصمم جرافيك وموشن · صانع محتوى بالذكاء الاصطناعي</span></div></footer>
+<script src="https://cdn.jsdelivr.net/npm/animejs@4.5.0/dist/bundles/anime.umd.min.js"></script>
+<script>
+(() => {
+  if (!window.anime || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const { animate, createTimeline, createAnimatable, stagger, splitText, utils } = anime;
+  const $ = (s, r = document) => [...r.querySelectorAll(s)];
+  const fine = matchMedia('(hover: hover) and (pointer: fine)').matches;
+  const root = document.documentElement;
+  root.classList.add('js-motion');
+
+  const io = new IntersectionObserver(es => es.forEach(e => {
+    if (e.isIntersecting) { io.unobserve(e.target); e.target._play(); }
+  }), { rootMargin: '0px 0px -12% 0px' });
+  const onView = (el, play) => { el._play = play; io.observe(el); };
+
+  // every image is a real link to the full portfolio, inside a frame that clips its zoom
+  const PORTFOLIO = 'https://drive.google.com/file/d/1ew7FIP2rW-dcuGnLQMi-8I99_wXS-K0f/view';
+  $('main img').forEach(img => {
+    const a = document.createElement('a');
+    a.className = 'media'; a.href = PORTFOLIO; a.target = '_blank'; a.rel = 'noopener';
+    a.setAttribute('aria-label', (img.closest('.card')?.querySelector('b')?.textContent || 'Work') + ': open full portfolio');
+    img.before(a); a.append(img);
+  });
+
+  /* ---------- hero setup ---------- */
+  const hero = document.querySelector('.hero');
+  const h1 = hero.querySelector('h1');
+  const { chars } = splitText(h1, { words: true, chars: { wrap: 'clip' } });
+  const em = chars.map(c => c.closest('em')).find(Boolean);
+  em.style.setProperty('--u', 0);
+  utils.set(chars, { y: '110%', rotateX: -90, transformOrigin: '50% 100%' });
+  utils.set('.bar', { y: -70, opacity: 0 });
+  utils.set(['.eyebrow', '.hero .lead'], { y: 30, opacity: 0 });
+  utils.set($('.hero .btns .btn, .facts span, .stats > div'), { y: 24, opacity: 0 });
+
+  // dot field behind the hero
+  const dots = document.createElement('div');
+  dots.className = 'dots';
+  const cols = Math.round(hero.offsetWidth / 34), rows = Math.round(hero.offsetHeight / 34);
+  dots.style.gridTemplateColumns = `repeat(${cols},1fr)`;
+  dots.innerHTML = '<i></i>'.repeat(cols * rows);
+  hero.prepend(dots);
+  const dotEls = $('i', dots);
+  utils.set(dotEls, { scale: 0 });
+  const wave = from => animate(dotEls, {
+    scale: [{ to: 2.2, duration: 260, ease: 'outSine' }, { to: 1, duration: 900, ease: 'outElastic(1, .5)' }],
+    backgroundColor: [{ to: '#e8364f', duration: 260 }, { to: '#2a2d5c', duration: 1100 }],
+    delay: stagger(26, { grid: [cols, rows], from })
+  });
+  if (fine) {
+    let last = 0;
+    hero.addEventListener('pointermove', e => {
+      const now = performance.now(); if (now - last < 1600) return; last = now;
+      const r = dots.getBoundingClientRect();
+      const c = Math.min(cols - 1, Math.max(0, Math.floor((e.clientX - r.left) / r.width * cols)));
+      const w = Math.min(rows - 1, Math.max(0, Math.floor((e.clientY - r.top) / r.height * rows)));
+      wave(w * cols + c);
+    });
+  }
+
+  /* ---------- hero timeline ---------- */
+  const heroIn = () => createTimeline({ defaults: { ease: 'outExpo', duration: 1000 } })
+    .add('.bar', { y: 0, opacity: 1, duration: 800 }, 0)
+    .add(dotEls, { scale: 1, duration: 600, ease: 'outBack(2)', delay: stagger(18, { grid: [cols, rows], from: 'center' }) }, 0)
+    .add('.eyebrow', { y: 0, opacity: 1 }, 150)
+    .add(chars, { y: '0%', rotateX: 0, duration: 1100, delay: stagger(18) }, 220)
+    .add(em, { '--u': 1, duration: 800, ease: 'inOutQuart' }, '-=420')
+    .add('.hero .lead', { y: 0, opacity: 1 }, '-=700')
+    .add($('.hero .btns .btn'), { y: 0, opacity: 1, delay: stagger(80) }, '-=800')
+    .add($('.facts span'), { y: 0, opacity: 1, delay: stagger(60) }, '-=800')
+    .add($('.stats > div'), { y: 0, opacity: 1, delay: stagger(100) }, '-=800')
+    .call(() => $('.stats [data-count]').forEach((b, i) => {
+      const o = { v: 0 }, end = +b.dataset.count;
+      animate(o, { v: end, duration: 1400, delay: i * 120, ease: 'outExpo', modifier: utils.round(0),
+        onUpdate: () => { b.textContent = o.v; } });
+    }), '-=900');
+
+  /* ---------- intro curtain (once per visit) ---------- */
+  let seen = false; try { seen = sessionStorage.getItem('introSeen') === '1'; sessionStorage.setItem('introSeen', '1'); } catch (e) {}
+  if (!seen) {
+    const intro = document.createElement('div');
+    intro.className = 'intro';
+    intro.innerHTML = '<div class="name">Abdelrahman Elsayed<i class="dot">.</i></div>'
+      + '<div class="role">Graphic Designer · Tech Solutions Developer · AI Specialist</div>';
+    document.body.append(intro);
+    const ic = splitText(intro.querySelector('.name'), { words: true, chars: { wrap: 'clip' } }).chars;
+    const role = intro.querySelector('.role');
+    utils.set(ic, { y: '100%' });
+    utils.set(role, { y: 14, opacity: 0 });
+    createTimeline({ defaults: { ease: 'outExpo' } })
+      .add(ic, { y: '0%', duration: 800, delay: stagger(30) })
+      .add(role, { y: 0, opacity: 1, duration: 700 }, '-=450')
+      .add(ic, { y: '-100%', duration: 600, ease: 'inExpo', delay: stagger(15) }, '+=700')
+      .add(role, { y: -10, opacity: 0, duration: 400, ease: 'inQuad' }, '<')
+      .add(intro, { clipPath: ['inset(0% 0% 0% 0%)', 'inset(0% 0% 100% 0%)'], duration: 800, ease: 'inOutExpo' }, '-=250')
+      .call(() => { intro.remove(); heroIn(); }, '-=450');
+  } else heroIn();
+
+  /* ---------- section titles ---------- */
+  $('.sec-head').forEach(head => {
+    const h2 = head.querySelector('h2'), small = h2.querySelector('small'), p = head.querySelector('p');
+    small && small.remove();
+    const sc = splitText(h2, { words: true, chars: { wrap: 'clip' } }).chars;
+    small && h2.prepend(small);
+    utils.set(sc, { y: '110%', rotateX: -80, transformOrigin: '50% 100%' });
+    utils.set([small, p].filter(Boolean), { y: 20, opacity: 0 });
+    if (small) utils.set(small, { x: -20 });
+    onView(head, () => createTimeline({ defaults: { ease: 'outExpo', duration: 1000 } })
+      .add([small].filter(Boolean), { x: 0, y: 0, opacity: 1 }, 0)
+      .add(sc, { y: '0%', rotateX: 0, delay: stagger(22) }, 80)
+      .add([p].filter(Boolean), { y: 0, opacity: 1 }, 300));
+  });
+
+  /* ---------- work cards: curtain reveal, parallax, tilt ---------- */
+  const R = 'round 18px';
+  $('.grid, section > figure.card').forEach(group => {
+    const cards = group.matches('.card') ? [group] : $('.card', group);
+    const imgs = cards.map(c => c.querySelector('img')).filter(Boolean);
+    utils.set(cards, { clipPath: `inset(100% 0% 0% 0% ${R})`, y: 60 });
+    utils.set(imgs, { scale: 1.35 });
+    onView(group, () => {
+      animate(cards, { clipPath: `inset(0% 0% 0% 0% ${R})`, y: 0, duration: 1300, ease: 'inOutExpo', delay: stagger(120),
+        onComplete: () => cards.forEach(c => { c.style.clipPath = ''; }) });
+      animate(imgs, { scale: 1.12, duration: 1800, ease: 'outExpo', delay: stagger(120) });
+    });
+    cards.forEach(card => {
+      if (!fine) return;
+      const t = createAnimatable(card, { rotateX: 600, rotateY: 600, ease: 'out(3)' });
+      card.addEventListener('pointermove', e => {
+        const r = card.getBoundingClientRect();
+        t.rotateY(((e.clientX - r.left) / r.width - .5) * 7);
+        t.rotateX(-((e.clientY - r.top) / r.height - .5) * 7);
+      });
+      card.addEventListener('pointerleave', () => { t.rotateX(0); t.rotateY(0); });
+    });
+  });
+
+  // image parallax inside each card (images stay scaled 1.12 so edges never show)
+  const pimgs = $('.card img');
+  const para = () => {
+    const vh = innerHeight;
+    pimgs.forEach(img => {
+      const r = img.parentElement.getBoundingClientRect();
+      if (r.bottom < 0 || r.top > vh) return;
+      const p = (r.top + r.height / 2 - vh / 2) / vh;  // -1..1 around the centre
+      img.style.translate = `0 ${(p * -6).toFixed(2)}%`;
+    });
+  };
+
+  /* ---------- clients marquee ---------- */
+  const clients = document.querySelector('.clients');
+  if (clients) {
+    const items = [];
+    let country = '';
+    clients.childNodes.forEach(n => {
+      if (n.nodeName === 'B') country = n.textContent.trim();
+      else n.textContent.split(/[·,]/).map(s => s.trim()).filter(Boolean)
+        .forEach(name => items.push(`<span class="pill"><b>${country}</b>${name}</span>`));
+    });
+    const m = document.createElement('div');
+    m.className = 'marquee'; m.setAttribute('aria-hidden', 'true');
+    m.innerHTML = `<div class="track">${items.join('')}${items.join('')}</div>`;
+    clients.after(m);
+    clients.classList.add('sr-only'); // the moving strip shows the same names
+    const loop = animate(m.firstChild, { x: ['0%', '-50%'], duration: items.length * 2200, ease: 'linear', loop: true });
+    m.addEventListener('pointerenter', () => loop.pause());
+    m.addEventListener('pointerleave', () => loop.play());
+    utils.set(m, { y: 24, opacity: 0 });
+    onView(m, () => animate(m, { y: 0, opacity: 1, duration: 1000, ease: 'outExpo', delay: stagger(120) }));
+  }
+
+  /* ---------- call to action ---------- */
+  const cta = document.querySelector('.cta');
+  if (cta) {
+    const cc = splitText(cta.querySelector('h2'), { words: true, chars: { wrap: 'clip' } }).chars;
+    const rest = [cta.querySelector('p'), ...$('.btn', cta)];
+    utils.set(cta, { clipPath: 'inset(12% 8% 12% 8% round 28px)', scale: .94 });
+    utils.set(cc, { y: '110%', rotateX: -80, transformOrigin: '50% 100%' });
+    utils.set(rest, { y: 20, opacity: 0 });
+    onView(cta, () => createTimeline({ defaults: { ease: 'outExpo', duration: 1100 } })
+      .add(cta, { clipPath: 'inset(0% 0% 0% 0% round 28px)', scale: 1, ease: 'inOutExpo', duration: 1200 }, 0)
+      .add(cc, { y: '0%', rotateX: 0, delay: stagger(20) }, 450)
+      .add(rest, { y: 0, opacity: 1, delay: stagger(80) }, 750));
+  }
+
+
+  // the portfolio button: a light sweep every few seconds and an arrow nudge, to pull the eye
+  const pf = document.querySelector('.hero .btn.pf');
+  if (pf) {
+    const shine = document.createElement('i'); shine.className = 'shine'; pf.append(shine);
+    const arrow = document.createElement('span'); arrow.className = 'arr'; arrow.textContent = '↗';
+    pf.textContent = pf.textContent.replace('↗', '').trim(); pf.append(arrow, shine);
+    createTimeline({ loop: true, delay: 2600, loopDelay: 2600 })
+      .add(shine, { x: ['-120%', '220%'], duration: 900, ease: 'inOutQuad' })
+      .add(arrow, { x: [0, 4, 0], y: [0, -4, 0], duration: 600, ease: 'inOutQuad' }, '-=500');
+  }
+
+  /* ---------- magnetic buttons + cursor (mouse only) ---------- */
+  if (fine) {
+    $('.btn').forEach(btn => {
+      const a = createAnimatable(btn, { x: 500, y: 500, ease: 'out(3)' });
+      btn.addEventListener('pointermove', e => {
+        const r = btn.getBoundingClientRect();
+        a.x((e.clientX - r.left - r.width / 2) * .3);
+        a.y((e.clientY - r.top - r.height / 2) * .4);
+      });
+      btn.addEventListener('pointerleave', () => { a.x(0); a.y(0); });
+    });
+    const cur = document.createElement('div');
+    cur.className = 'cursor';
+    document.body.append(cur); root.classList.add('has-cursor');
+    const ca = createAnimatable(cur, { x: 120, y: 120, ease: 'out(2)' });
+    addEventListener('pointermove', e => { ca.x(e.clientX); ca.y(e.clientY); });
+  }
+
+  /* ---------- scroll: progress line + parallax ---------- */
+  const bar = document.querySelector('.progress');
+  let ticking = false;
+  const onScroll = () => {
+    if (ticking) return; ticking = true;
+    requestAnimationFrame(() => {
+      const m = root.scrollHeight - innerHeight;
+      bar.style.transform = `scaleX(${m > 0 ? scrollY / m : 0})`;
+      para(); ticking = false;
+    });
+  };
+  addEventListener('scroll', onScroll, { passive: true }); onScroll();
+})();
+</script>
 </body>
 </html>
