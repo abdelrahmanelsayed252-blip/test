@@ -1,0 +1,128 @@
+{
+ "slug": "universal-queen",
+ "company": "Universal Queen",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Universal Queen | Abdelrahman Elsayed",
+  "tag": "Prepared for Universal Queen",
+  "eyebrow": "Collaboration · Bridal content",
+  "h1": "Show brides <em>the whole look</em> before they call.",
+  "lead": "Hi Universal Queen team, I'm Abdelrahman, a graphic and motion designer working with Gulf brands. Your Flagship salon offers bridal makeup, henna and skincare, but booking is by phone or form only, so I made this page with ideas for bridal packages and reels.",
+  "why_title": "What I could do for Universal Queen",
+  "why": [
+   {
+    "h": "Bridal package page",
+    "p": "Clear packages for bridal makeup, hair and henna, with booking that ends on WhatsApp."
+   },
+   {
+    "h": "Bridal look reels",
+    "p": "Short motion reels for each signature collection."
+   },
+   {
+    "h": "One look online",
+    "p": "Posts, stories and the website in the same style, in Arabic and English."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Universal Queen. I saw your page.",
+  "mail_subject": "Collaboration idea for Universal Queen"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ يونيفرسال كوين",
+  "eyebrow": "تعاون · محتوى العرائس",
+  "h1": "اعرضوا على العروس <em>الإطلالة كاملة</em> قبل أن تتصل.",
+  "lead": "أهلاً فريق يونيفرسال كوين، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية. يقدم صالونكم الرئيسي مكياج العرائس والحناء والعناية بالبشرة، لكن الحجز بالهاتف أو النموذج فقط، فجهزت لكم هذه الصفحة بأفكار لباقات العرائس والريلز.",
+  "why_title": "ماذا أستطيع أن أقدم لـ يونيفرسال كوين",
+  "why": [
+   {
+    "h": "صفحة باقات العرائس",
+    "p": "باقات واضحة للمكياج والشعر والحناء، والحجز ينتهي عبر واتساب."
+   },
+   {
+    "h": "ريلز إطلالات العرائس",
+    "p": "ريلز موشن قصيرة لكل مجموعة مميزة."
+   },
+   {
+    "h": "هوية واحدة",
+    "p": "بوستات وستوريز وموقع بنفس الأسلوب بالعربية والإنجليزية."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك يونيفرسال كوين. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes for posts and ads.",
+   "ar_title": "صور منتجات · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة للبوستات والإعلانات."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "Logo, colours and type in one system.",
+   "ar_title": "هوية بصرية · Gamela",
+   "ar_cap": "شعار وألوان وخطوط في نظام واحد."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "One look across a month of content.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "هوية واحدة لمحتوى شهر كامل."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ],
+ "kind": "client"
+}

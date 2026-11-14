@@ -1,0 +1,128 @@
+{
+ "slug": "hussein-beauty-lounge",
+ "company": "Hussein Beauty Lounge",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Hussein Beauty Lounge | Abdelrahman Elsayed",
+  "tag": "Prepared for Hussein Beauty Lounge",
+  "eyebrow": "Collaboration · Salon content",
+  "h1": "Turn every <em>Book Now</em> into a real booking.",
+  "lead": "Hi Hussein Beauty Lounge team, I'm Abdelrahman, a graphic and motion designer working with Gulf brands. Your Book Now buttons lead to a contact page, so I made this page with ideas for a simple booking page and content that shows your hair and nail work.",
+  "why_title": "What I could do for Hussein Beauty Lounge",
+  "why": [
+   {
+    "h": "A real booking page",
+    "p": "Pick a service and a time, then confirm on WhatsApp. Fast on mobile."
+   },
+   {
+    "h": "Service reels",
+    "p": "Short before and after reels for hair colour, styling and nails."
+   },
+   {
+    "h": "A refreshed site",
+    "p": "Your own photos and reviews, and a cleaner footer in Arabic and English."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Hussein Beauty Lounge. I saw your page.",
+  "mail_subject": "Collaboration idea for Hussein Beauty Lounge"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ حسين بيوتي لاونج",
+  "eyebrow": "تعاون · محتوى الصالون",
+  "h1": "اجعلوا كل زر <em>احجزي الآن</em> حجزاً حقيقياً.",
+  "lead": "أهلاً فريق حسين بيوتي لاونج، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية خليجية. أزرار الحجز في موقعكم تنقل إلى صفحة التواصل فقط، فجهزت لكم هذه الصفحة بأفكار لصفحة حجز بسيطة ومحتوى يعرض أعمالكم في الشعر والأظافر.",
+  "why_title": "ماذا أستطيع أن أقدم لـ حسين بيوتي لاونج",
+  "why": [
+   {
+    "h": "صفحة حجز حقيقية",
+    "p": "اختيار الخدمة والموعد ثم التأكيد عبر واتساب، وسريعة على الجوال."
+   },
+   {
+    "h": "ريلز للخدمات",
+    "p": "ريلز قصيرة قبل وبعد لصبغات الشعر والتسريحات والأظافر."
+   },
+   {
+    "h": "موقع متجدد",
+    "p": "صوركم وآراء عميلاتكم الحقيقية وتذييل أوضح بالعربية والإنجليزية."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك حسين بيوتي لاونج. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes for posts and ads.",
+   "ar_title": "صور منتجات · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة للبوستات والإعلانات."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A brand identity built for social first.",
+   "ar_title": "هوية بصرية · IVY",
+   "ar_cap": "هوية مصممة للسوشيال أولاً."
+  }
+ ],
+ "kind": "client"
+}

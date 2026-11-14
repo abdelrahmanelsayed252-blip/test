@@ -1,0 +1,128 @@
+{
+ "slug": "modern-oman-bakery",
+ "company": "Modern Oman Bakery",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Modern Oman Bakery | Abdelrahman Elsayed",
+  "tag": "Prepared for Modern Oman Bakery",
+  "eyebrow": "Collaboration · Cake visuals",
+  "h1": "Make every cake <em>look worth ordering.</em>",
+  "lead": "Hi Modern Oman Bakery team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee and pancake brand. With National Day cakes and the mirror cake range on your site, I made this page with a few ideas.",
+  "why_title": "What I could do for Modern Oman Bakery",
+  "why": [
+   {
+    "h": "One scene per cake",
+    "p": "The Marble Mirror, Pineapple Mirror and Maltesers cakes each in their own AI scene."
+   },
+   {
+    "h": "Season reels",
+    "p": "Short reels for National Day, Eid and same-day delivery."
+   },
+   {
+    "h": "Motion menus",
+    "p": "Animated menus for branch screens, in Arabic and English."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Modern Oman Bakery. I saw your page.",
+  "mail_subject": "Collaboration idea for Modern Oman Bakery"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مخبز عُمان الحديث",
+  "eyebrow": "تعاون · صور الكيك",
+  "h1": "اجعلوا كل كيكة <em>تستحق الطلب.</em>",
+  "lead": "أهلاً فريق مخبز عُمان الحديث، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة وبان كيك خليجية. مع كيكات العيد الوطني ومجموعة الميرور كيك في موقعكم، جهزت لكم هذه الصفحة بعدة أفكار.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مخبز عُمان الحديث",
+  "why": [
+   {
+    "h": "مشهد لكل كيكة",
+    "p": "ماربل ميرور وأناناس ميرور ومالتيزرز، كل كيكة في مشهد خاص بالذكاء الاصطناعي."
+   },
+   {
+    "h": "ريلز المواسم",
+    "p": "ريلز قصيرة للعيد الوطني والأعياد والتوصيل في نفس اليوم."
+   },
+   {
+    "h": "قوائم متحركة",
+    "p": "قوائم متحركة لشاشات الفروع بالعربية والإنجليزية."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مخبز عُمان الحديث. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A national day campaign built around the menu.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة لليوم الوطني مبنية على القائمة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}
