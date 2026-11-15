@@ -1,0 +1,128 @@
+{
+ "slug": "eyewa",
+ "company": "eyewa",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For eyewa | Senior Multimedia Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for eyewa · Remote",
+  "eyebrow": "Application · Senior Multimedia Designer",
+  "h1": "Seven house brands, <em>one clear look each.</em>",
+  "lead": "Hi eyewa team, I'm Abdelrahman, a graphic and motion designer and AI content creator with 6+ years of brand work for Gulf companies. I saw your opening for a remote Senior Multimedia Designer, so I made this page for you.",
+  "why_title": "What I'd bring to eyewa",
+  "why": [
+   {
+    "h": "Motion in Arabic and English",
+    "p": "Reels and product videos in After Effects and Premiere, with proper Arabic type and RTL layouts."
+   },
+   {
+    "h": "Generative AI in the workflow",
+    "p": "AI product scenes and UGC-style AI ads, like the ones I made for Ozone International UAE, finished by hand."
+   },
+   {
+    "h": "One system across stores and screens",
+    "p": "Campaign key visuals that carry from the app to 200+ stores, plus Figma and web skills to build what's needed."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the market and the season for each campaign."
+   },
+   {
+    "h": "Key visual",
+    "p": "One strong idea in Arabic and English, built right for RTL."
+   },
+   {
+    "h": "Motion and AI",
+    "p": "Reels, product videos and AI scenes from the same idea."
+   },
+   {
+    "h": "Review",
+    "p": "Check what performed and improve the next drop."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is eyewa. I saw your page.",
+  "mail_subject": "eyewa - Senior Multimedia Designer"
+ },
+ "ar": {
+  "title": "لـ آيوا | مصمم وسائط متعددة أول، عبدالرحمن السيد",
+  "tag": "مُعدّة لـ آيوا · عن بُعد",
+  "eyebrow": "طلب توظيف · مصمم وسائط متعددة أول",
+  "h1": "سبع علامات خاصة، <em>ولكل واحدة شكل واضح.</em>",
+  "lead": "أهلاً فريق آيوا، معكم عبدالرحمن، مصمم جرافيك وموشن وصانع محتوى بالذكاء الاصطناعي، لدي أكثر من 6 سنوات من العمل مع علامات تجارية خليجية. اطلعت على وظيفة مصمم وسائط متعددة أول عن بُعد، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا سأضيف لآيوا",
+  "why": [
+   {
+    "h": "موشن بالعربي والإنجليزي",
+    "p": "ريلز وفيديوهات منتجات على After Effects وPremiere، بخط عربي سليم وتصميم من اليمين لليسار."
+   },
+   {
+    "h": "الذكاء الاصطناعي ضمن العمل",
+    "p": "مشاهد منتجات وإعلانات بأسلوب UGC بالذكاء الاصطناعي، مثل التي أنتجتها لـ Ozone International في الإمارات، مكتملة يدوياً."
+   },
+   {
+    "h": "نظام واحد للمتاجر والشاشات",
+    "p": "تصاميم حملات تنتقل من التطبيق إلى أكثر من 200 متجر، مع خبرة في Figma والمواقع لبناء ما يلزم."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والسوق والموسم لكل حملة."
+   },
+   {
+    "h": "الفكرة الرئيسية",
+    "p": "فكرة واحدة قوية بالعربي والإنجليزي ومصممة جيداً من اليمين لليسار."
+   },
+   {
+    "h": "الموشن والذكاء الاصطناعي",
+    "p": "ريلز وفيديوهات منتجات ومشاهد بالذكاء الاصطناعي من نفس الفكرة."
+   },
+   {
+    "h": "المراجعة",
+    "p": "نرى ما حقق نتائج ونطوّر الحملة التالية."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك آيوا. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UGC-style ads",
+   "en_cap": "UGC-style AI ads made for Ozone International UAE.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · إعلانات بأسلوب UGC",
+   "ar_cap": "إعلانات بأسلوب UGC لـ Ozone International في الإمارات."
+  },
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty and care brands.",
+   "ar_title": "صورة منتج · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات التجميل والعناية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب ثابت في كل منشور."
+  }
+ ]
+}

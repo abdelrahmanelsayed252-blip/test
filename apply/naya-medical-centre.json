@@ -1,0 +1,129 @@
+{
+ "slug": "naya-medical-centre",
+ "company": "Naya Medical Centre",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Naya Medical Centre | Abdelrahman Elsayed",
+  "tag": "Prepared for Naya Medical Centre",
+  "eyebrow": "Collaboration · Treatment content and booking",
+  "h1": "Help patients understand <em>each treatment before they book.</em>",
+  "lead": "Hi Naya team, I'm Abdelrahman, a graphic and motion designer who makes explainer videos and builds simple booking pages. With SOFWAVE, HydraFacial, SkinPen and Invisalign on your list, I made this page with a few ideas for Naya Medical Centre.",
+  "why_title": "What I could do for Naya Medical Centre",
+  "why": [
+   {
+    "h": "A page per treatment",
+    "p": "SOFWAVE, HydraFacial and the others each get a clear page with its own visual and a booking button that ends on WhatsApp."
+   },
+   {
+    "h": "Short explainer reels",
+    "p": "Motion videos that show what happens in each session, in Arabic and English."
+   },
+   {
+    "h": "Visuals made for Naya",
+    "p": "One consistent look across the site and Instagram, instead of one image repeated across treatments."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Naya Medical Centre. I saw your page.",
+  "mail_subject": "Collaboration idea for Naya Medical Centre"
+ },
+ "ar": {
+  "title": "لـ مركز نايا الطبي | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ مركز نايا الطبي",
+  "eyebrow": "تعاون · محتوى العلاجات والحجز",
+  "h1": "ساعدوا المراجعين على فهم <em>كل علاج قبل الحجز.</em>",
+  "lead": "أهلاً فريق نايا، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج فيديوهات توضيحية وأبني صفحات حجز بسيطة. ومع وجود SOFWAVE وهايدرافيشل وSkinPen وإنفزالاين ضمن خدماتكم، جهزت لكم هذه الصفحة بأفكار لمركز نايا الطبي.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مركز نايا الطبي",
+  "why": [
+   {
+    "h": "صفحة لكل علاج",
+    "p": "SOFWAVE وهايدرافيشل وغيرها، لكل منها صفحة واضحة بصورة خاصة وزر حجز ينتهي على واتساب."
+   },
+   {
+    "h": "ريلز توضيحية قصيرة",
+    "p": "فيديوهات موشن توضح ما يحدث في كل جلسة، بالعربي والإنجليزي."
+   },
+   {
+    "h": "تصاميم خاصة بنايا",
+    "p": "أسلوب واحد ثابت في الموقع وإنستغرام، بدلاً من صورة واحدة مكررة لعدة علاجات."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مركز نايا الطبي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty and care brands.",
+   "ar_title": "صورة منتج · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات التجميل والعناية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI video · Talking-character ads",
+   "en_cap": "Gulf-dialect talking characters for a Saudi financing company.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · شخصيات متحدثة",
+   "ar_cap": "شخصيات تتحدث باللهجة الخليجية لشركة تمويل سعودية."
+  }
+ ],
+ "kind": "client"
+}

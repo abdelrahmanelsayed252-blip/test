@@ -1,0 +1,129 @@
+{
+ "slug": "flaunt-salon",
+ "company": "Flaunt Beauty Salon & Spa",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Flaunt Beauty Salon & Spa | Abdelrahman Elsayed",
+  "tag": "Prepared for Flaunt Beauty Salon & Spa",
+  "eyebrow": "Collaboration · Offers and booking",
+  "h1": "Turn the offers page <em>into a reason to book.</em>",
+  "lead": "Hi Flaunt team, I'm Abdelrahman, a graphic and motion designer who works with 20+ brands in Saudi Arabia, the UAE, Oman and Qatar. Your offers page still says Coming Soon, so I made this page with a few ideas for Flaunt's first offers campaign.",
+  "why_title": "What I could do for Flaunt Beauty Salon & Spa",
+  "why": [
+   {
+    "h": "A first offers campaign",
+    "p": "Posts, stories and a short reel for one seasonal package, from hair and nails to the Moroccan bath."
+   },
+   {
+    "h": "Service reels",
+    "p": "Short, calm reels per service so clients see the result before they book."
+   },
+   {
+    "h": "A booking page that works",
+    "p": "Every service, including makeup, in one simple page that ends on your WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you sell and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Flaunt Beauty Salon & Spa. I saw your page.",
+  "mail_subject": "Collaboration idea for Flaunt Beauty Salon & Spa"
+ },
+ "ar": {
+  "title": "لـ فلونت للتجميل والسبا | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ فلونت للتجميل والسبا",
+  "eyebrow": "تعاون · العروض والحجز",
+  "h1": "اجعلوا صفحة العروض <em>سبباً للحجز.</em>",
+  "lead": "أهلاً فريق فلونت، معكم عبدالرحمن، مصمم جرافيك وموشن عملت مع أكثر من 20 علامة تجارية في السعودية والإمارات وعُمان وقطر. صفحة العروض لديكم ما زالت تقول قريباً، لذلك جهزت لكم هذه الصفحة بأفكار لأول حملة عروض لفلونت.",
+  "why_title": "ماذا أستطيع أن أقدم لـ فلونت للتجميل والسبا",
+  "why": [
+   {
+    "h": "أول حملة عروض",
+    "p": "بوستات وستوريز وريل قصير لباقة موسمية واحدة، من الشعر والأظافر إلى الحمام المغربي."
+   },
+   {
+    "h": "ريلز للخدمات",
+    "p": "ريلز قصيرة وهادئة لكل خدمة حتى ترى العميلة النتيجة قبل الحجز."
+   },
+   {
+    "h": "صفحة حجز تعمل بسهولة",
+    "p": "كل الخدمات، ومنها المكياج، في صفحة واحدة بسيطة تنتهي على واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك فلونت للتجميل والسبا. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for beauty and care brands.",
+   "ar_title": "صورة منتج · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات التجميل والعناية."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب ثابت في كل منشور."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ],
+ "kind": "client"
+}
