@@ -1,0 +1,129 @@
+{
+ "slug": "vi-fit",
+ "company": "VI-FIT",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For VI-FIT | Abdelrahman Elsayed",
+  "tag": "Prepared for VI-FIT",
+  "eyebrow": "Collaboration · Reels and a booking page",
+  "h1": "Show the change, <em>then make joining easy.</em>",
+  "lead": "Hi VI-FIT team, I'm Abdelrahman, a graphic and motion designer who makes reels and builds simple web pages. Your 'Lose a size, get a gift' offer is a great story to film around, so I made this page with a few ideas for VI-FIT.",
+  "why_title": "What I could do for VI-FIT",
+  "why": [
+   {
+    "h": "'Lose a size' reels",
+    "p": "Short member journeys that end with the new outfit in the smaller size, made for stories and Reels."
+   },
+   {
+    "h": "EMS and VIP explained",
+    "p": "Motion videos that show what an EMS session or the private VIP zone looks like, in Arabic and English."
+   },
+   {
+    "h": "A trial and booking page",
+    "p": "A clear page with your programs, the free body analysis and a booking button that ends on WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to hear what you want more of this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "One 'lose a size' reel or an EMS explainer built around your own studio."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look, planned a month ahead."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We check what brought messages and bookings, and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is VI-FIT. I saw your page.",
+  "mail_subject": "Collaboration idea for VI-FIT"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ VI-FIT",
+  "eyebrow": "تعاون · ريلز وصفحة حجز",
+  "h1": "اعرضوا التغيير، <em>ثم اجعلوا الاشتراك سهلاً.</em>",
+  "lead": "أهلاً فريق VI-FIT، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج ريلز وأبني صفحات ويب بسيطة. عرضكم «اخسر مقاساً واحصل على هدية» قصة رائعة للمحتوى، لذلك جهزت هذه الصفحة بأفكار لـ VI-FIT.",
+  "why_title": "ماذا أستطيع أن أقدم لـ VI-FIT",
+  "why": [
+   {
+    "h": "ريلز «اخسر مقاساً»",
+    "p": "رحلات أعضاء قصيرة تنتهي بالزي الجديد بالمقاس الأصغر، للستوريز والريلز."
+   },
+   {
+    "h": "شرح EMS وVIP",
+    "p": "فيديوهات موشن توضح جلسة EMS أو منطقة VIP الخاصة، بالعربية والإنجليزية."
+   },
+   {
+    "h": "صفحة تجربة وحجز",
+    "p": "صفحة واضحة لبرامجكم وتحليل الجسم المجاني وزر حجز ينتهي على واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنعرف ما تريدون التركيز عليه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد عن «اخسر مقاساً» أو شرح لجلسة EMS من داخل ناديكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد، مخطط له قبل شهر."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نرى ما جلب الرسائل والحجوزات، ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك VI-FIT. اطلعت على صفحتك.",
+  "title": "لـ VI-FIT | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short reels made in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز قصيرة على After Effects."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Gulf brand",
+   "en_cap": "AI video in Gulf dialect for a client campaign.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة خليجية",
+   "ar_cap": "فيديو بالذكاء الاصطناعي باللهجة الخليجية لحملة عميل."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in one look.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "بوستات وستوريز بأسلوب واحد."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "muscat-beauty-salon",
+ "company": "Muscat Hair & Beauty Salon",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Muscat Hair & Beauty Salon | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Hair & Beauty Salon",
+  "eyebrow": "Collaboration · Four salons, one booking",
+  "h1": "Four salons, <em>one easy way to book.</em>",
+  "lead": "Hi Muscat Hair & Beauty Salon team, I'm Abdelrahman, a graphic and motion designer who also builds web apps, including a staff app approved for 5 branches of a Gulf coffee brand. With Sabco Qurum, Mall of Oman and two Opera Galleria salons, I made this page with a few ideas for you.",
+  "why_title": "What I could do for Muscat Hair & Beauty Salon",
+  "why": [
+   {
+    "h": "A visual services and price menu",
+    "p": "Every service with a photo and price, so clients choose before they message."
+   },
+   {
+    "h": "One booking flow for four salons",
+    "p": "Clients pick the branch, service and time, and confirm on that branch's WhatsApp. A simple staff view can follow."
+   },
+   {
+    "h": "A heritage brand reel",
+    "p": "A short reel about the salon that started at Sabco in the 1980s, plus monthly service reels."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to hear what you want more of this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "A services and price menu for one branch, or one brand reel."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look, planned a month ahead."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We check what brought messages and bookings, and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muscat Hair & Beauty Salon. I saw your page.",
+  "mail_subject": "Collaboration idea for Muscat Hair & Beauty Salon"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ صالون مسقط للشعر والتجميل",
+  "eyebrow": "تعاون · أربعة فروع وحجز واحد",
+  "h1": "أربعة فروع، <em>وطريقة واحدة سهلة للحجز.</em>",
+  "lead": "أهلاً فريق صالون مسقط للشعر والتجميل، معكم عبدالرحمن، مصمم جرافيك وموشن أبني أيضاً تطبيقات ويب، منها تطبيق موظفين معتمد لخمسة فروع لعلامة قهوة خليجية. مع فروع صابكو القرم ومول عُمان وصالوني أوبرا جاليريا، جهزت هذه الصفحة بأفكار لكم.",
+  "why_title": "ماذا أستطيع أن أقدم لـ صالون مسقط للشعر والتجميل",
+  "why": [
+   {
+    "h": "قائمة خدمات وأسعار مصورة",
+    "p": "كل خدمة بصورة وسعر، ليختار العميل قبل أن يراسل."
+   },
+   {
+    "h": "حجز واحد لأربعة فروع",
+    "p": "يختار العميل الفرع والخدمة والموعد، ويؤكد على واتساب الفرع. ويمكن إضافة واجهة بسيطة للموظفين."
+   },
+   {
+    "h": "ريل عن تاريخ العلامة",
+    "p": "ريل قصير عن الصالون الذي بدأ في صابكو منذ الثمانينات، وريلز شهرية للخدمات."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنعرف ما تريدون التركيز عليه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "قائمة خدمات وأسعار لفرع واحد، أو ريل واحد عن العلامة."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد، مخطط له قبل شهر."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نرى ما جلب الرسائل والحجوزات، ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك صالون مسقط للشعر والتجميل. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean scenes for beauty and care.",
+   "ar_title": "صورة منتج · العناية بالبشرة",
+   "ar_cap": "مشاهد نظيفة للجمال والعناية."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in one look.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "بوستات وستوريز بأسلوب واحد."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short reels made in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز قصيرة على After Effects."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Brand identity · Gamela",
+   "en_cap": "A beauty identity from logo to applications.",
+   "ar_title": "هوية بصرية · Gamela",
+   "ar_cap": "هوية لعلامة جمال من الشعار إلى التطبيقات."
+  }
+ ],
+ "kind": "client"
+}

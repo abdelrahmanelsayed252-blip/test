@@ -1,0 +1,128 @@
+{
+ "slug": "muscat-gates",
+ "company": "Muscat Gates",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Muscat Gates | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Gates",
+  "eyebrow": "Collaboration · Listing visuals and launch reels",
+  "h1": "Let buyers see the life <em>before the viewing.</em>",
+  "lead": "Hi Muscat Gates team, I'm Abdelrahman, a graphic and motion designer who works with Gulf real estate brands. With Juman by Rikaz, Opal Residence and Bellevue at Al Mouj on your list, I made this page with a few ideas for Muscat Gates.",
+  "why_title": "What I could do for Muscat Gates",
+  "why": [
+   {
+    "h": "A visual per listing",
+    "p": "AI lifestyle scenes so each unit has its own image instead of the same project photo repeated."
+   },
+   {
+    "h": "Off-plan explainer reels",
+    "p": "Short reels per project: location, launch price and payment plan, in Arabic and English."
+   },
+   {
+    "h": "Offer landing pages",
+    "p": "A clean page for each campaign, like your National Day offer, with a working countdown and WhatsApp button."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to hear what you want more of this season."
+   },
+   {
+    "h": "A first sample",
+    "p": "Lifestyle scenes for one project or one off-plan explainer reel."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in one look, planned a month ahead."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We check what brought messages and bookings, and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muscat Gates. I saw your page.",
+  "mail_subject": "Collaboration idea for Muscat Gates"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ بوابات مسقط",
+  "eyebrow": "تعاون · صور العقارات وريلز الإطلاق",
+  "h1": "دعوا المشتري يرى الحياة <em>قبل المعاينة.</em>",
+  "lead": "أهلاً فريق بوابات مسقط، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات عقارية خليجية. مع جمان من ركاز وأوبال ريزيدنس وبلفيو في الموج، جهزت هذه الصفحة بأفكار لبوابات مسقط.",
+  "why_title": "ماذا أستطيع أن أقدم لـ بوابات مسقط",
+  "why": [
+   {
+    "h": "صورة لكل عقار",
+    "p": "مشاهد حياة بالذكاء الاصطناعي ليكون لكل وحدة صورتها بدل تكرار صورة المشروع."
+   },
+   {
+    "h": "ريلز توضيحية للمشاريع على الخارطة",
+    "p": "ريلز قصيرة لكل مشروع: الموقع وسعر الإطلاق وخطة الدفع، بالعربية والإنجليزية."
+   },
+   {
+    "h": "صفحات للعروض",
+    "p": "صفحة واضحة لكل حملة، مثل عرض العيد الوطني، بعدّاد يعمل وزر واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنعرف ما تريدون التركيز عليه هذا الموسم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "مشاهد حياة لمشروع واحد أو ريل توضيحي واحد."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بأسلوب واحد، مخطط له قبل شهر."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نرى ما جلب الرسائل والحجوزات، ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك بوابات مسقط. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "A launch campaign for a residential project.",
+   "ar_title": "صورة رئيسية · إطلاق فلل",
+   "ar_cap": "حملة إطلاق لمشروع سكني."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI video · Real estate",
+   "en_cap": "AI podcast host for the Siredo 2026 exhibition.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · عقارات",
+   "ar_cap": "مقدم بودكاست بالذكاء الاصطناعي لمعرض سيريدو 2026."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Gulf brand",
+   "en_cap": "AI video in Gulf dialect.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة خليجية",
+   "ar_cap": "فيديو بالذكاء الاصطناعي باللهجة الخليجية."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in one look.",
+   "ar_title": "تصميم سوشيال · علامات خليجية",
+   "ar_cap": "بوستات وستوريز بأسلوب واحد."
+  }
+ ],
+ "kind": "client"
+}
