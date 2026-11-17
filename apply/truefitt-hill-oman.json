@@ -1,0 +1,128 @@
+{
+ "slug": "truefitt-hill-oman",
+ "company": "Truefitt & Hill Oman",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Truefitt & Hill Oman | Abdelrahman Elsayed",
+  "tag": "Prepared for Truefitt & Hill Oman",
+  "eyebrow": "Collaboration · Grooming content and booking",
+  "h1": "A barber since 1805 <em>deserves a booking page to match.</em>",
+  "lead": "Hi Truefitt & Hill team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. Your online booking in Oman works, but it shows no services or prices, the social icons link to empty pages, and the terms are not set yet. I made this page with a few ideas.",
+  "why_title": "A few ideas for Truefitt & Hill Oman",
+  "why": [
+   {
+    "h": "A proper services page",
+    "p": "Haircuts, hot towel shaves, facials and manicures with times and prices, then straight to booking."
+   },
+   {
+    "h": "Ritual reels",
+    "p": "Short videos of the hot towel shave and the classic cut, in the calm style of the brand."
+   },
+   {
+    "h": "Gift and season visuals",
+    "p": "Ready posts for National Day, Eid and grooming gift cards."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand your services and your clients."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought bookings and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Truefitt & Hill Oman"
+ },
+ "ar": {
+  "tag": "مُعدّة لترافيت آند هيل عُمان",
+  "eyebrow": "تعاون · محتوى الحلاقة والحجز",
+  "h1": "حلاق منذ عام 1805 <em>يستحق صفحة حجز بمستواه.</em>",
+  "lead": "أهلاً فريق ترافيت آند هيل، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. صفحة الحجز لديكم في عُمان تعمل، لكنها لا تعرض الخدمات أو الأسعار، وأيقونات التواصل تفتح صفحات فارغة، والشروط لم تُضف بعد. جهزت هذه الصفحة بأفكار مقترحة.",
+  "why_title": "أفكار لترافيت آند هيل عُمان",
+  "why": [
+   {
+    "h": "صفحة خدمات واضحة",
+    "p": "قص الشعر والحلاقة بالمنشفة الساخنة والعناية بالبشرة والأظافر بالمدة والسعر، ثم الحجز مباشرة."
+   },
+   {
+    "h": "ريلز للطقوس",
+    "p": "فيديوهات قصيرة للحلاقة بالمنشفة الساخنة والقصة الكلاسيكية بأسلوب العلامة الهادئ."
+   },
+   {
+    "h": "تصاميم للهدايا والمواسم",
+    "p": "بوستات جاهزة لليوم الوطني والعيد وبطاقات الهدايا."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم خدماتكم وعملاءكم."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما جلب الحجوزات ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A full brand identity, from logo to posts.",
+   "ar_title": "هوية بصرية · IVY",
+   "ar_cap": "هوية كاملة من الشعار إلى البوستات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces made for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI visuals · Ozone International",
+   "en_cap": "AI scenes and characters for a UAE brand.",
+   "ar_title": "صور بالذكاء الاصطناعي · أوزون إنترناشونال",
+   "ar_cap": "مشاهد وشخصيات بالذكاء الاصطناعي لعلامة إماراتية."
+  }
+ ],
+ "kind": "client"
+}

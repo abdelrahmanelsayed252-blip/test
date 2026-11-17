@@ -1,0 +1,128 @@
+{
+ "slug": "flora-beauty-center",
+ "company": "Flora Beauty Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Flora Beauty Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Flora Beauty Center",
+  "eyebrow": "Collaboration · Beauty content and booking",
+  "h1": "Show the result, <em>then let her book on WhatsApp.</em>",
+  "lead": "Hi Flora team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. Your menu runs from Hydra Facial and VIP Facial to Caviar hair treatments and lash lifts, but most prices on the site show only a dash. I made this page with a few ideas.",
+  "why_title": "A few ideas for Flora",
+  "why": [
+   {
+    "h": "Before and after reels",
+    "p": "Short videos for facials, hair treatments and lashes, in Arabic and English."
+   },
+   {
+    "h": "A clear price menu",
+    "p": "Each service and package with its price, ending on your WhatsApp booking button."
+   },
+   {
+    "h": "Package visuals",
+    "p": "Posts for your 5-session facial and hair packages, so they sell on their own."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which services you want to grow."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought bookings and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Flora Beauty Center"
+ },
+ "ar": {
+  "tag": "مُعدّة لمركز فلورا للتجميل",
+  "eyebrow": "تعاون · محتوى التجميل والحجز",
+  "h1": "اعرضوا النتيجة، <em>ثم دعوها تحجز عبر واتساب.</em>",
+  "lead": "أهلاً فريق فلورا، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. قائمتكم تشمل الهيدرا فيشل وجلسة VIP وعلاجات الشعر بالكافيار ورفع الرموش، لكن معظم الأسعار في الموقع تظهر كشرطة فقط. جهزت هذه الصفحة بأفكار مقترحة.",
+  "why_title": "أفكار لفلورا",
+  "why": [
+   {
+    "h": "ريلز قبل وبعد",
+    "p": "فيديوهات قصيرة لجلسات البشرة والشعر والرموش بالعربية والإنجليزية."
+   },
+   {
+    "h": "قائمة أسعار واضحة",
+    "p": "كل خدمة وباقة بسعرها، وتنتهي بزر الحجز عبر واتساب."
+   },
+   {
+    "h": "تصاميم للباقات",
+    "p": "بوستات لباقات الخمس جلسات للبشرة والشعر لتبيع نفسها."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم الخدمات التي تريدون تنميتها."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما جلب الحجوزات ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A beauty identity built to look good on every screen.",
+   "ar_title": "هوية بصرية · جميلة",
+   "ar_cap": "هوية تجميل تظهر جميلة على كل شاشة."
+  },
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes that feel calm and premium.",
+   "ar_title": "صور منتجات · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات هادئة وراقية."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social posts · Gulf brand",
+   "en_cap": "A steady feed in one recognisable look.",
+   "ar_title": "بوستات سوشيال · علامة خليجية",
+   "ar_cap": "محتوى منتظم بأسلوب واحد يسهل تمييزه."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "imperial-dental",
+ "company": "Imperial Dental Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Imperial Dental Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Imperial Dental Center",
+  "eyebrow": "Collaboration · Treatment content and booking",
+  "h1": "Show each treatment, <em>then book it on WhatsApp.</em>",
+  "lead": "Hi Imperial Dental team, I'm Abdelrahman, a graphic and motion designer who makes explainer videos and builds simple booking pages. You already take bookings on WhatsApp in Ruwi, open every day from 9 to 9, so I made this page with a few ideas to bring more patients to that button.",
+  "why_title": "A few ideas for Imperial Dental",
+  "why": [
+   {
+    "h": "Short treatment explainers",
+    "p": "Implants, orthodontics and cosmetic work explained in 20-second motion videos, in Arabic and English."
+   },
+   {
+    "h": "A page per service",
+    "p": "Clear pages for kids' dentistry, implants and braces, each ending on your WhatsApp booking."
+   },
+   {
+    "h": "Meet the doctors",
+    "p": "Short intro posts for your dentists, so patients know who they will see."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which treatments you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought bookings and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Imperial Dental"
+ },
+ "ar": {
+  "tag": "مُعدّة لمركز إمبريال لطب الأسنان",
+  "eyebrow": "تعاون · محتوى العلاجات والحجز",
+  "h1": "اعرضوا كل علاج، <em>ثم احجزوه عبر واتساب.</em>",
+  "lead": "أهلاً فريق إمبريال، معكم عبدالرحمن، مصمم جرافيك وموشن أصنع فيديوهات توضيحية وأبني صفحات حجز بسيطة. أنتم تستقبلون الحجوزات عبر واتساب في روي وتعملون يومياً من 9 صباحاً إلى 9 مساءً، لذلك جهزت هذه الصفحة بأفكار تجلب مرضى أكثر لهذا الزر.",
+  "why_title": "أفكار لإمبريال",
+  "why": [
+   {
+    "h": "فيديوهات قصيرة للعلاجات",
+    "p": "زراعة الأسنان والتقويم والتجميل في فيديوهات موشن مدتها 20 ثانية بالعربية والإنجليزية."
+   },
+   {
+    "h": "صفحة لكل خدمة",
+    "p": "صفحات واضحة لأسنان الأطفال والزراعة والتقويم، تنتهي كلها بالحجز عبر واتساب."
+   },
+   {
+    "h": "تعرّفوا على الأطباء",
+    "p": "بوستات قصيرة تعرّف بأطبائكم ليعرف المريض من سيقابله."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم العلاجات التي تريدون زيادتها."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما جلب الحجوزات ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes that feel calm and premium.",
+   "ar_title": "صور منتجات · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات هادئة وراقية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces made for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social posts · Gulf brand",
+   "en_cap": "A steady feed in one recognisable look.",
+   "ar_title": "بوستات سوشيال · علامة خليجية",
+   "ar_cap": "محتوى منتظم بأسلوب واحد يسهل تمييزه."
+  }
+ ],
+ "kind": "client"
+}

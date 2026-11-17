@@ -1,0 +1,128 @@
+{
+ "slug": "ayana-spa",
+ "company": "Ayana Spa",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Ayana Spa | Abdelrahman Elsayed",
+  "tag": "Prepared for Ayana Spa",
+  "eyebrow": "Collaboration · Spa content and booking",
+  "h1": "Let guests feel the ritual <em>before they book it.</em>",
+  "lead": "Hi Ayana team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. The Omani Purify Ritual, the Amber Signature Ritual and the Chinese Rice Water Head Spa are hard to picture from a list, and your weekly and monthly specials do not open yet. I made this page with a few ideas.",
+  "why_title": "A few ideas for Ayana Spa",
+  "why": [
+   {
+    "h": "A short reel per ritual",
+    "p": "Calm, soft videos that show each ritual step by step, in Arabic and English."
+   },
+   {
+    "h": "Offer visuals that open",
+    "p": "National Day and monthly specials as clear posts and pages that end on your WhatsApp booking."
+   },
+   {
+    "h": "A cleaner treatment menu",
+    "p": "Every treatment with its time and price, so guests choose before they message."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which rituals you want more guests for."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought bookings and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Ayana Spa"
+ },
+ "ar": {
+  "tag": "مُعدّة لأيانا سبا",
+  "eyebrow": "تعاون · محتوى السبا والحجز",
+  "h1": "دعوا الضيفة تشعر بالجلسة <em>قبل أن تحجزها.</em>",
+  "lead": "أهلاً فريق أيانا، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. طقوس التنقية العمانية وطقوس العنبر وجلسة الرأس بماء الأرز يصعب تخيلها من قائمة، كما أن عروضكم الأسبوعية والشهرية لا تفتح بعد. جهزت هذه الصفحة بأفكار مقترحة.",
+  "why_title": "أفكار لأيانا سبا",
+  "why": [
+   {
+    "h": "ريل قصير لكل جلسة",
+    "p": "فيديوهات هادئة تعرض كل جلسة خطوة بخطوة بالعربية والإنجليزية."
+   },
+   {
+    "h": "تصاميم عروض تعمل",
+    "p": "عروض اليوم الوطني والعروض الشهرية في بوستات وصفحات واضحة تنتهي بالحجز عبر واتساب."
+   },
+   {
+    "h": "قائمة علاجات أوضح",
+    "p": "كل علاج بمدته وسعره، لتختار الضيفة قبل أن تراسلكم."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم الجلسات التي تريدون زيادة حجوزاتها."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما جلب الحجوزات ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes that feel calm and premium.",
+   "ar_title": "صور منتجات · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات هادئة وراقية."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A beauty identity built to look good on every screen.",
+   "ar_title": "هوية بصرية · جميلة",
+   "ar_cap": "هوية تجميل تظهر جميلة على كل شاشة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces made for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  }
+ ],
+ "kind": "client"
+}
