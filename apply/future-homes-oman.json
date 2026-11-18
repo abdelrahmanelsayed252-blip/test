@@ -1,0 +1,128 @@
+{
+ "slug": "future-homes-oman",
+ "company": "Future Homes Oman",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Future Homes Oman | Abdelrahman Elsayed",
+  "tag": "Prepared for Future Homes Oman · Al Azaiba, Muscat",
+  "eyebrow": "Collaboration · Listings and website",
+  "h1": "Buyers want to picture the life <em>before they book a viewing.</em>",
+  "lead": "Hi Future Homes team, I'm Abdelrahman, a graphic and motion designer who also builds websites. Listings like the Marmara townhouse in Al Mouj and the 1BHK at The Pearl in Muscat Hills deserve more than one photo. I made this page with a few ideas for you.",
+  "why_title": "Ideas for Future Homes",
+  "why": [
+   {
+    "h": "A scene per listing",
+    "p": "AI lifestyle scenes that show morning coffee on the terrace or the pool view, finished by hand."
+   },
+   {
+    "h": "Short listing reels",
+    "p": "Arabic and English reels for each key property, ready for Instagram and WhatsApp."
+   },
+   {
+    "h": "A cleaner website",
+    "p": "Fresh testimonials, correct sale and rent tags, and contact links that work, so the site builds trust."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on the listings you want to move first."
+   },
+   {
+    "h": "A first sample",
+    "p": "Scenes and one reel for one property."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of listing content in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We see which listings got enquiries and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Future Homes Oman. I saw your page.",
+  "mail_subject": "Future Homes Oman - listing content ideas"
+ },
+ "ar": {
+  "tag": "مُعدّة لفيوتشر هومز عُمان · العذيبة، مسقط",
+  "eyebrow": "تعاون · العقارات والموقع",
+  "h1": "المشتري يريد أن يتخيل الحياة <em>قبل أن يحجز المعاينة.</em>",
+  "lead": "أهلاً فريق فيوتشر هومز، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني المواقع أيضاً. عقارات مثل تاون هاوس مرمرة في الموج وشقة ذا بيرل في مسقط هيلز تستحق أكثر من صورة واحدة. جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لفيوتشر هومز",
+  "why": [
+   {
+    "h": "مشهد لكل عقار",
+    "p": "مشاهد حياة بالذكاء الاصطناعي تُظهر قهوة الصباح على الشرفة أو إطلالة المسبح، مكتملة يدوياً."
+   },
+   {
+    "h": "ريلز قصيرة للعقارات",
+    "p": "ريلز بالعربية والإنجليزية لكل عقار مهم، جاهزة لإنستغرام وواتساب."
+   },
+   {
+    "h": "موقع أوضح",
+    "p": "آراء عملاء حقيقية، وتصنيف صحيح للبيع والإيجار، وروابط تواصل تعمل، ليبني الموقع الثقة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن العقارات التي تريدون تسويقها أولاً."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "مشاهد وريل واحد لعقار واحد."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم للعقارات بأسلوب واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نرى أي العقارات جلبت استفسارات ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك فيوتشر هومز عُمان. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "smile-dental",
+ "company": "Smile Dental Clinic",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Smile Dental Clinic | Abdelrahman Elsayed",
+  "tag": "Prepared for Smile Dental Clinic · Al Ghubrah, Muscat",
+  "eyebrow": "Collaboration · Booking and treatment content",
+  "h1": "Most patients already reach you <em>on WhatsApp.</em>",
+  "lead": "Hi Smile Dental team, I'm Abdelrahman, a graphic and motion designer who also builds websites. Your WhatsApp button is the clearest way to book on your site, while the Book Appointment form is harder to finish. I made this page with a few ideas for you.",
+  "why_title": "Ideas for Smile Dental Clinic",
+  "why": [
+   {
+    "h": "A booking page that ends on WhatsApp",
+    "p": "The patient picks a treatment, then Dr Manoj, Dr Murugesh or Dr Honey, and WhatsApp opens with the message already written."
+   },
+   {
+    "h": "Treatment explainer reels",
+    "p": "Short Arabic and English videos for implants, braces and whitening, so patients know what to expect before they book."
+   },
+   {
+    "h": "A cleaner site",
+    "p": "One phone number, working blog and footer links, and no leftover loading text, so the site feels as careful as the clinic."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on the treatments you want more patients for."
+   },
+   {
+    "h": "A first sample",
+    "p": "One explainer reel or the booking page, built around your clinic."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "Regular reels and posts in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at which treatments got more bookings and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Smile Dental Clinic. I saw your page.",
+  "mail_subject": "Smile Dental Clinic - content and booking ideas"
+ },
+ "ar": {
+  "tag": "مُعدّة لعيادة سمايل لطب الأسنان · الغبرة، مسقط",
+  "eyebrow": "تعاون · الحجز ومحتوى العلاجات",
+  "h1": "أغلب مرضاكم يتواصلون معكم <em>عبر واتساب.</em>",
+  "lead": "أهلاً فريق سمايل، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني المواقع أيضاً. زر واتساب هو أوضح طريقة للحجز في موقعكم، بينما نموذج حجز الموعد أصعب في الإكمال. جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لعيادة سمايل",
+  "why": [
+   {
+    "h": "صفحة حجز تنتهي على واتساب",
+    "p": "يختار المريض العلاج ثم الطبيب، فيفتح واتساب برسالة جاهزة."
+   },
+   {
+    "h": "ريلز تشرح العلاجات",
+    "p": "فيديوهات قصيرة بالعربية والإنجليزية عن زراعة الأسنان والتقويم والتبييض، ليعرف المريض ما ينتظره قبل الحجز."
+   },
+   {
+    "h": "موقع أوضح",
+    "p": "رقم هاتف واحد، وروابط تعمل في المدونة والتذييل، ومن دون نصوص تحميل عالقة، ليظهر الموقع بنفس عناية العيادة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن العلاجات التي تريدون لها مرضى أكثر."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد يشرح علاجاً، أو صفحة الحجز، مبني على عيادتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "ريلز ومنشورات منتظمة بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نرى أي العلاجات زادت حجوزاتها ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك عيادة سمايل لطب الأسنان. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  }
+ ],
+ "kind": "client"
+}

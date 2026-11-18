@@ -1,0 +1,128 @@
+{
+ "slug": "wadi-adai-garden-centre",
+ "company": "Wadi Adai Garden Centre",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Wadi Adai Garden Centre | Abdelrahman Elsayed",
+  "tag": "Prepared for Wadi Adai Garden Centre · Muscat",
+  "eyebrow": "Collaboration · Flower visuals and ordering",
+  "h1": "A bouquet sells best <em>in the moment it is given.</em>",
+  "lead": "Hi Wadi Adai team, I'm Abdelrahman, a graphic and motion designer. Sweet Half, Illuminating Love and Radiant Mix with free same-day delivery are a strong offer. I made this page with a few ideas to show them better.",
+  "why_title": "Ideas for Wadi Adai Garden Centre",
+  "why": [
+   {
+    "h": "A scene per bouquet",
+    "p": "Each arrangement shown in a real moment, on a table, at a door, in someone's hands, made with AI and finished by hand."
+   },
+   {
+    "h": "Occasion reels",
+    "p": "Short reveal reels for birthdays, Mother's Day and Valentine's, ready before each season."
+   },
+   {
+    "h": "A WhatsApp button that opens on phones",
+    "p": "Your chat link opens WhatsApp Web, which does not open the app on most phones. A direct link would send orders straight to you."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on your best sellers and next occasion."
+   },
+   {
+    "h": "A first sample",
+    "p": "Scenes for three bouquets or one reveal reel."
+   },
+   {
+    "h": "A season plan",
+    "p": "Ready visuals before each occasion."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We see what brought orders and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Wadi Adai Garden Centre. I saw your page.",
+  "mail_subject": "Wadi Adai Garden Centre - flower visual ideas"
+ },
+ "ar": {
+  "tag": "مُعدّة لمشتل وادي عدي · مسقط",
+  "eyebrow": "تعاون · صور الورود والطلبات",
+  "h1": "الباقة تبيع أكثر <em>في لحظة تقديمها.</em>",
+  "lead": "أهلاً فريق وادي عدي، معكم عبدالرحمن، مصمم جرافيك وموشن. باقات Sweet Half وIlluminating Love وRadiant Mix مع التوصيل المجاني في نفس اليوم عرض قوي. جهزت لكم هذه الصفحة بأفكار لعرضها بشكل أفضل.",
+  "why_title": "أفكار لمشتل وادي عدي",
+  "why": [
+   {
+    "h": "مشهد لكل باقة",
+    "p": "كل تنسيق في لحظة حقيقية، على طاولة أو عند الباب أو بين يدين، بالذكاء الاصطناعي ومكتمل يدوياً."
+   },
+   {
+    "h": "ريلز للمناسبات",
+    "p": "ريلز قصيرة لكشف الباقة في أعياد الميلاد وعيد الأم وعيد الحب، جاهزة قبل كل موسم."
+   },
+   {
+    "h": "زر واتساب يفتح على الجوال",
+    "p": "رابط المحادثة لديكم يفتح واتساب ويب، ولا يفتح التطبيق على أغلب الجوالات. الرابط المباشر يوصل الطلبات إليكم فوراً."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن الباقات الأكثر مبيعاً والمناسبة القادمة."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "مشاهد لثلاث باقات أو ريل واحد."
+   },
+   {
+    "h": "خطة الموسم",
+    "p": "صور جاهزة قبل كل مناسبة."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نرى ما جلب الطلبات ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مشتل وادي عدي. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}

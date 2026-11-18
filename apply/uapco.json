@@ -1,0 +1,127 @@
+{
+ "slug": "uapco",
+ "company": "United Agriculture & Livestock Production Co. (UAPCO)",
+ "default_lang": "en",
+ "country_en": "Kuwait",
+ "country_ar": "الكويت",
+ "en": {
+  "title": "For UAPCO | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for UAPCO · Sulaibiya, Kuwait",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "Farm products sell <em>when people trust where they come from.</em>",
+  "lead": "Hi UAPCO team, I'm Abdelrahman, a graphic and motion designer with 6+ years of brand work for Gulf companies. I saw your opening for a Graphic Designer for social media and digital marketing, so I made this page for you.",
+  "why_title": "What I'd bring to UAPCO",
+  "why": [
+   {
+    "h": "Product and social creatives",
+    "p": "Posts, stories and ads in Arabic and English with one clear look, built in Photoshop and Illustrator."
+   },
+   {
+    "h": "Product videos and edits",
+    "p": "Short product reels edited in Premiere and After Effects, plus AI product scenes when a shoot isn't possible."
+   },
+   {
+    "h": "Food brand experience",
+    "p": "Identities like Khayrat Al-Ahsa and in-house work for Pancakes Coffee, from menus to campaigns."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Learn the product range, the audience and the channels."
+   },
+   {
+    "h": "Look",
+    "p": "One visual style for posts, ads and packaging extras."
+   },
+   {
+    "h": "Roll-out",
+    "p": "A steady calendar of creatives and product videos."
+   },
+   {
+    "h": "Review",
+    "p": "Check what performed and improve the next month."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is UAPCO. I saw your page.",
+  "mail_subject": "UAPCO - Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لشركة المتحدة للإنتاج الزراعي والحيواني · الصليبية، الكويت",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "منتجات المزرعة تُباع <em>حين يثق الناس بمصدرها.</em>",
+  "lead": "أهلاً فريق الشركة المتحدة للإنتاج الزراعي والحيواني، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية خليجية. شاهدت إعلانكم عن وظيفة مصمم جرافيك للسوشيال ميديا والتسويق الرقمي، فجهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أضيف لكم",
+  "why": [
+   {
+    "h": "تصاميم المنتجات والسوشيال",
+    "p": "منشورات وستوريز وإعلانات بالعربية والإنجليزية بأسلوب واضح واحد، على Photoshop وIllustrator."
+   },
+   {
+    "h": "فيديوهات المنتجات والمونتاج",
+    "p": "ريلز قصيرة للمنتجات على Premiere وAfter Effects، مع مشاهد منتجات بالذكاء الاصطناعي حين يتعذر التصوير."
+   },
+   {
+    "h": "خبرة في علامات الأغذية",
+    "p": "هويات مثل خيرات الأحساء، وعمل داخلي لدى Pancakes Coffee من القوائم إلى الحملات."
+   }
+  ],
+  "steps_title": "كيف أبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الفهم",
+    "p": "التعرف على المنتجات والجمهور والقنوات."
+   },
+   {
+    "h": "الأسلوب",
+    "p": "أسلوب بصري واحد للمنشورات والإعلانات."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "جدول منتظم من التصاميم وفيديوهات المنتجات."
+   },
+   {
+    "h": "المراجعة",
+    "p": "نتابع ما نجح ونطوّر الشهر التالي."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك الشركة المتحدة. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "id-khayrat",
+   "en_title": "Identity · Khayrat Al-Ahsa",
+   "en_cap": "A full identity in Arabic and English.",
+   "ar_title": "هوية · خيرات الأحساء",
+   "ar_cap": "هوية كاملة بالعربية والإنجليزية."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب ثابت في كل منشور."
+  }
+ ]
+}

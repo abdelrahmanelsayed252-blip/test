@@ -1,0 +1,129 @@
+{
+ "slug": "jasmine-for-her",
+ "company": "Jasmine For Her",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Jasmine For Her | Abdelrahman Elsayed",
+  "tag": "Prepared for Jasmine For Her · Qurum, Azaiba, Al Khoudh",
+  "eyebrow": "Collaboration · Members, classes and content",
+  "h1": "Three clubs, one place <em>to book a class.</em>",
+  "lead": "Hi Jasmine For Her team, I'm Abdelrahman, a graphic and motion designer who also builds web apps. Les Mills, the Engine Room, Aqua and the cycling studio give members a lot to choose from across three branches. I made this page with a few ideas for you.",
+  "why_title": "Ideas for Jasmine For Her",
+  "why": [
+   {
+    "h": "Class booking and free pass in one app",
+    "p": "Members pick a branch and a class; the free pass ends on WhatsApp with the request ready. I built a similar staff app for a coffee chain, approved for 5 branches."
+   },
+   {
+    "h": "Meet the trainers",
+    "p": "A short reel per trainer to fill the Our Trainers section and give new members a familiar face."
+   },
+   {
+    "h": "Reels for each club",
+    "p": "Classes, spa and salon in one calm look, ready for offers and new seasons."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on members, branches and what you want to grow."
+   },
+   {
+    "h": "A first sample",
+    "p": "One trainer reel or a simple class booking page."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "Regular reels and posts for all three clubs."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at sign-ups and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Jasmine For Her. I saw your page.",
+  "mail_subject": "Jasmine For Her - booking and content ideas"
+ },
+ "ar": {
+  "tag": "مُعدّة لجاسمين فور هير · القرم، العذيبة، الخوض",
+  "eyebrow": "تعاون · العضوات والحصص والمحتوى",
+  "h1": "ثلاثة نوادٍ، ومكان واحد <em>لحجز الحصة.</em>",
+  "lead": "أهلاً فريق جاسمين فور هير، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني تطبيقات الويب أيضاً. حصص Les Mills وEngine Room والأكوا واستوديو الدراجات تمنح العضوات خيارات كثيرة في ثلاثة فروع. جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لجاسمين فور هير",
+  "why": [
+   {
+    "h": "حجز الحصص والتجربة المجانية في تطبيق واحد",
+    "p": "تختار العضوة الفرع والحصة، وطلب التجربة المجانية ينتهي على واتساب برسالة جاهزة. بنيت تطبيقاً مشابهاً لموظفي سلسلة مقاهٍ، معتمداً في 5 فروع."
+   },
+   {
+    "h": "تعرّفوا على المدربات",
+    "p": "ريل قصير لكل مدربة يملأ قسم المدربين ويمنح العضوات الجدد وجهاً مألوفاً."
+   },
+   {
+    "h": "ريلز لكل نادٍ",
+    "p": "الحصص والسبا والصالون بأسلوب هادئ واحد، جاهزة للعروض والمواسم."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن العضوات والفروع وما تريدون تنميته."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل لمدربة واحدة، أو صفحة بسيطة لحجز الحصص."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "ريلز ومنشورات منتظمة للنوادي الثلاثة."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نتابع الاشتراكات ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك جاسمين فور هير. اطلعت على الصفحة.",
+  "title": "أفكار لجاسمين فور هير | عبدالرحمن السيد"
+ },
+ "images": [
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Product ads",
+   "en_cap": "Short AI ads built around one product.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · إعلانات منتجات",
+   "ar_cap": "إعلانات قصيرة مبنية حول منتج واحد."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "quadzone-physio",
+ "company": "QuadZone Physiotherapy",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for QuadZone Physiotherapy | Abdelrahman Elsayed",
+  "tag": "Prepared for QuadZone Physiotherapy · Al Ghubrah, Muscat",
+  "eyebrow": "Collaboration · Explainer videos",
+  "h1": "Your equipment is the story. <em>Let patients see it.</em>",
+  "lead": "Hi QuadZone team, I'm Abdelrahman, a graphic and motion designer. VALD DynaMo testing, the Kinetisense 3D posture scan and shockwave set you apart, but on your site they are only words. I made this page with a few ideas to show them.",
+  "why_title": "Ideas for QuadZone",
+  "why": [
+   {
+    "h": "A short video per device",
+    "p": "Motion explainers that show what a DynaMo test or a 3D posture scan measures, and what the patient gets from it."
+   },
+   {
+    "h": "Recovery stories, told kindly",
+    "p": "Reels that follow a treatment plan from first assessment to return to sport, in Arabic and English."
+   },
+   {
+    "h": "Posts that end on booking",
+    "p": "Each post leads to your WhatsApp with the booking message already written."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes on which services you want to grow."
+   },
+   {
+    "h": "A first sample",
+    "p": "One explainer video for one device."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of reels and posts in one look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We see what brought bookings and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is QuadZone Physiotherapy. I saw your page.",
+  "mail_subject": "QuadZone Physiotherapy - explainer video ideas"
+ },
+ "ar": {
+  "tag": "مُعدّة لكواد زون للعلاج الطبيعي · الغبرة، مسقط",
+  "eyebrow": "تعاون · فيديوهات شرح",
+  "h1": "أجهزتكم هي القصة. <em>دعوا المرضى يرونها.</em>",
+  "lead": "أهلاً فريق كواد زون، معكم عبدالرحمن، مصمم جرافيك وموشن. اختبار DynaMo وتحليل القوام ثلاثي الأبعاد والعلاج بالموجات الصادمة تميّزكم، لكنها في موقعكم مجرد كلمات. جهزت لكم هذه الصفحة بأفكار لإظهارها.",
+  "why_title": "أفكار لكواد زون",
+  "why": [
+   {
+    "h": "فيديو قصير لكل جهاز",
+    "p": "موشن يشرح ما يقيسه اختبار DynaMo أو تحليل القوام، وما الفائدة للمريض."
+   },
+   {
+    "h": "قصص تعافٍ بأسلوب لطيف",
+    "p": "ريلز تتابع خطة العلاج من التقييم الأول حتى العودة للرياضة، بالعربية والإنجليزية."
+   },
+   {
+    "h": "منشورات تنتهي بالحجز",
+    "p": "كل منشور يقود إلى واتساب برسالة حجز جاهزة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة عن الخدمات التي تريدون تنميتها."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "فيديو شرح واحد لجهاز واحد."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "ريلز ومنشورات منتظمة بأسلوب واحد."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نرى ما جلب الحجوزات ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك كواد زون للعلاج الطبيعي. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب ثابت في كل منشور."
+  }
+ ],
+ "kind": "client"
+}
