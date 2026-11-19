@@ -1,0 +1,127 @@
+{
+ "slug": "born28",
+ "company": "BORN28",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For BORN28 | Motion Graphics Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for BORN28 · Dubai",
+  "eyebrow": "Application · Motion Graphics Designer",
+  "h1": "Motion that moves fast, <em>with AI in the toolkit.</em>",
+  "lead": "Hi BORN28 team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your Motion Graphics Designer ad asks for After Effects, Premiere and hands-on AI creative tools, which is how I work every day, so I made this page for you.",
+  "why_title": "What I'd bring to BORN28",
+  "why": [
+   {
+    "h": "Motion for client campaigns",
+    "p": "Reels, ads and animated key visuals in After Effects and Premiere, in Arabic and English."
+   },
+   {
+    "h": "AI video in production",
+    "p": "Talking-character ads in Gulf dialect, an AI podcast host for the Siredo 2026 exhibition and UGC-style ads, made with Veo 3, Kling, Runway and ElevenLabs."
+   },
+   {
+    "h": "Design that holds together",
+    "p": "Key visuals and identities (Gamela, CARLY, IVY) so the motion and the static work look like one brand."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the audience and what the first month should deliver."
+   },
+   {
+    "h": "First pieces",
+    "p": "A first set of designs and videos in your style within days."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm of posts, reels and campaign pieces."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is BORN28. I saw your page.",
+  "mail_subject": "BORN28 - Motion Graphics Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ BORN28 · دبي",
+  "eyebrow": "طلب توظيف · مصمم موشن جرافيك",
+  "h1": "موشن سريع الإيقاع، <em>والذكاء الاصطناعي ضمن الأدوات.</em>",
+  "lead": "أهلاً فريق BORN28، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات في السعودية والإمارات وعُمان وقطر. إعلانكم يطلب After Effects وPremiere وأدوات الذكاء الاصطناعي الإبداعية، وهذه طريقتي في العمل يومياً، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ما سأضيفه لـ BORN28",
+  "why": [
+   {
+    "h": "موشن لحملات العملاء",
+    "p": "ريلز وإعلانات وصور رئيسية متحركة على After Effects وPremiere بالعربية والإنجليزية."
+   },
+   {
+    "h": "فيديو بالذكاء الاصطناعي في الإنتاج",
+    "p": "إعلانات بشخصيات متحدثة بلهجة خليجية، ومقدّم بودكاست بالذكاء الاصطناعي لمعرض سيريدو 2026، وإعلانات بأسلوب UGC، باستخدام Veo 3 وKling وRunway وElevenLabs."
+   },
+   {
+    "h": "تصميم متماسك",
+    "p": "صور رئيسية وهويات (جميلة، CARLY، IVY) ليظهر الموشن والتصميم الثابت كعلامة واحدة."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والجمهور وما يجب أن يقدمه الشهر الأول."
+   },
+   {
+    "h": "أول الأعمال",
+    "p": "أول مجموعة تصاميم وفيديوهات بأسلوبكم خلال أيام."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي من المنشورات والريلز وأعمال الحملات."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نراجع ما نجح ونعدّل الجولة التالية."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك BORN28. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A beauty identity built to look good on every screen.",
+   "ar_title": "هوية بصرية · جميلة",
+   "ar_cap": "هوية تجميل تظهر جميلة على كل شاشة."
+  }
+ ]
+}

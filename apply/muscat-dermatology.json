@@ -1,0 +1,128 @@
+{
+ "slug": "muscat-dermatology",
+ "company": "Muscat Dermatology & Laser Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Muscat Dermatology & Laser Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Dermatology & Laser Center · Azaiba, Muscat",
+  "eyebrow": "Collaboration · Treatment videos and booking",
+  "h1": "Patients choose a treatment <em>once they can picture it.</em>",
+  "lead": "Hi Muscat Dermatology team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. HydraFacial, Profhilo, PRP and your SPLENDOR X laser are strong services, but your site lists them without prices, offers or a way to book besides a phone call. Here are a few ideas.",
+  "why_title": "Ideas for Muscat Dermatology & Laser Center",
+  "why": [
+   {
+    "h": "A short reel per treatment",
+    "p": "What happens in a HydraFacial or a laser session, step by step, in Arabic and English, so patients arrive ready to book."
+   },
+   {
+    "h": "A booking page that ends on WhatsApp",
+    "p": "The patient picks a treatment and a branch (Azaiba or Salalah) and lands on your WhatsApp with the message ready."
+   },
+   {
+    "h": "Clear answers online",
+    "p": "Fill the empty FAQ answers and add simple treatment cards, so routine questions are answered before anyone calls."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to agree what matters most to you right now."
+   },
+   {
+    "h": "A first sample",
+    "p": "One piece built around your own work, so you can judge it."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muscat Dermatology. I saw your page.",
+  "mail_subject": "Muscat Dermatology - collaboration"
+ },
+ "ar": {
+  "tag": "مُعدّة لمركز مسقط للأمراض الجلدية والليزر · العذيبة، مسقط",
+  "eyebrow": "تعاون · فيديوهات العلاجات والحجز",
+  "h1": "المريض يختار العلاج <em>حين يستطيع تخيّله.</em>",
+  "lead": "أهلاً فريق مركز مسقط للأمراض الجلدية، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. الهايدرافيشل والبروفايلو والبلازما وليزر SPLENDOR X خدمات قوية، لكن موقعكم يعرضها بدون أسعار أو عروض أو طريقة حجز غير الاتصال. هذه بعض الأفكار.",
+  "why_title": "أفكار لـ Muscat Dermatology & Laser Center",
+  "why": [
+   {
+    "h": "ريل قصير لكل علاج",
+    "p": "ماذا يحدث في جلسة الهايدرافيشل أو الليزر خطوة بخطوة، بالعربية والإنجليزية، ليصل المريض جاهزاً للحجز."
+   },
+   {
+    "h": "صفحة حجز تنتهي على واتساب",
+    "p": "يختار المريض العلاج والفرع (العذيبة أو صلالة) ويصل إلى واتساب برسالة جاهزة."
+   },
+   {
+    "h": "إجابات واضحة على الموقع",
+    "p": "استكمال إجابات الأسئلة الشائعة الفارغة وبطاقات بسيطة لكل علاج، ليجد المريض إجابته قبل أن يتصل."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنتفق على الأهم بالنسبة لكم الآن."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عمل واحد مبني على أعمالكم، لتحكموا عليه بأنفسكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مركز مسقط للأمراض الجلدية. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب ثابت في كل منشور."
+  }
+ ],
+ "kind": "client"
+}

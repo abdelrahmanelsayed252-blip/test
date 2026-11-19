@@ -1,0 +1,128 @@
+{
+ "slug": "mk-muscat",
+ "company": "MK Muscat",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for MK Muscat | Abdelrahman Elsayed",
+  "tag": "Prepared for MK Muscat · Al Mouj and Jebel Sifah",
+  "eyebrow": "Collaboration · Listing visuals and reels",
+  "h1": "Buyers pay for the view. <em>Show them the evening on the terrace.</em>",
+  "lead": "Hi MK Muscat team, I'm Abdelrahman, a graphic and motion designer who works with Gulf real estate brands. The Jinan Island villa, the Siraj apartment in Al Mouj and the ALMAR Sea-View Sunset House are strong listings, but several share the same photos and details on your site. Here are a few ideas.",
+  "why_title": "Ideas for MK Muscat",
+  "why": [
+   {
+    "h": "A lifestyle scene per listing",
+    "p": "Each home shown at sunset, with a family on the terrace or a boat at the marina, built with AI and finished by hand."
+   },
+   {
+    "h": "A short reel per property",
+    "p": "Arabic and English reels for Al Mouj and Jebel Sifah listings, ready for Instagram and WhatsApp status."
+   },
+   {
+    "h": "Listing pages that convert",
+    "p": "A clean page per property with full details and one button to enquire on WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to agree what matters most to you right now."
+   },
+   {
+    "h": "A first sample",
+    "p": "One piece built around your own work, so you can judge it."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is MK Muscat. I saw your page.",
+  "mail_subject": "MK Muscat - collaboration"
+ },
+ "ar": {
+  "tag": "مُعدّة لملتقى الخير للعقارات · الموج وجبل سيفة",
+  "eyebrow": "تعاون · صور العقارات والريلز",
+  "h1": "المشتري يدفع ثمن الإطلالة. <em>أروه المساء على التراس.</em>",
+  "lead": "أهلاً فريق ملتقى الخير للعقارات، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات عقارية خليجية. فيلا جزيرة جنان وشقة سراج في الموج وبيت الغروب في المار عروض قوية، لكن عدة عقارات تتشابه في الصور والتفاصيل على موقعكم. هذه بعض الأفكار.",
+  "why_title": "أفكار لـ MK Muscat",
+  "why": [
+   {
+    "h": "مشهد حياة لكل عقار",
+    "p": "كل بيت وقت الغروب، مع عائلة على التراس أو قارب في المارينا، بالذكاء الاصطناعي ومكتمل يدوياً."
+   },
+   {
+    "h": "ريل قصير لكل عقار",
+    "p": "ريلز بالعربية والإنجليزية لعقارات الموج وجبل سيفة، جاهزة لإنستغرام وحالة واتساب."
+   },
+   {
+    "h": "صفحات عقارات تبيع",
+    "p": "صفحة واضحة لكل عقار بكل التفاصيل وزر واحد للاستفسار عبر واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنتفق على الأهم بالنسبة لكم الآن."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عمل واحد مبني على أعمالكم، لتحكموا عليه بأنفسكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ملتقى الخير للعقارات. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across every post.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب ثابت في كل منشور."
+  }
+ ],
+ "kind": "client"
+}

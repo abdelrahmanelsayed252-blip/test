@@ -1,0 +1,127 @@
+{
+ "slug": "ownerss",
+ "company": "Ownerss International",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For Ownerss International | Video Editor, Abdelrahman Elsayed",
+  "tag": "Prepared for Ownerss International · Dubai",
+  "eyebrow": "Application · Video Editor",
+  "h1": "Short-form real estate video <em>that people watch to the end.</em>",
+  "lead": "Hi Ownerss team, I'm Abdelrahman, a graphic and motion designer and video editor with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your Video Editor role is short-form property content with motion graphics and multilingual footage, so I made this page for you.",
+  "why_title": "What I'd bring to Ownerss International",
+  "why": [
+   {
+    "h": "Reels for every listing",
+    "p": "Instagram, TikTok and YouTube Shorts edits in Premiere and After Effects, with clean captions in Arabic and English."
+   },
+   {
+    "h": "Motion and AI scenes",
+    "p": "Animated titles, maps and price cards, plus AI lifestyle scenes when a shoot isn't possible, like my villa launch work."
+   },
+   {
+    "h": "AI presenters",
+    "p": "An AI podcast host for the Siredo 2026 real estate exhibition and talking-character ads in Gulf dialect."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the audience and what the first month should deliver."
+   },
+   {
+    "h": "First pieces",
+    "p": "A first set of designs and videos in your style within days."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm of posts, reels and campaign pieces."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Ownerss International. I saw your page.",
+  "mail_subject": "Ownerss International - Video Editor"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Ownerss International · دبي",
+  "eyebrow": "طلب توظيف · محرر فيديو",
+  "h1": "فيديو عقاري قصير <em>يشاهده الناس حتى النهاية.</em>",
+  "lead": "أهلاً فريق Ownerss، معكم عبدالرحمن، مصمم جرافيك وموشن ومحرر فيديو بخبرة أكثر من 6 سنوات مع علامات في السعودية والإمارات وعُمان وقطر. وظيفة محرر الفيديو لديكم تقوم على محتوى عقاري قصير بالموشن جرافيك ولقطات بعدة لغات، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ما سأضيفه لـ Ownerss International",
+  "why": [
+   {
+    "h": "ريلز لكل عقار",
+    "p": "مونتاج لإنستغرام وتيك توك ويوتيوب شورتس على Premiere وAfter Effects، مع ترجمة واضحة بالعربية والإنجليزية."
+   },
+   {
+    "h": "موشن ومشاهد بالذكاء الاصطناعي",
+    "p": "عناوين وخرائط وبطاقات أسعار متحركة، ومشاهد حياة بالذكاء الاصطناعي حين لا يتاح التصوير، مثل أعمالي لإطلاق فيلا."
+   },
+   {
+    "h": "مقدّمون بالذكاء الاصطناعي",
+    "p": "مقدّم بودكاست بالذكاء الاصطناعي لمعرض سيريدو 2026 العقاري، وإعلانات بشخصيات متحدثة بلهجة خليجية."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والجمهور وما يجب أن يقدمه الشهر الأول."
+   },
+   {
+    "h": "أول الأعمال",
+    "p": "أول مجموعة تصاميم وفيديوهات بأسلوبكم خلال أيام."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي من المنشورات والريلز وأعمال الحملات."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نراجع ما نجح ونعدّل الجولة التالية."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك Ownerss International. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "muska",
+ "company": "Muska",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Muska | Abdelrahman Elsayed",
+  "tag": "Prepared for Muska · Muscat",
+  "eyebrow": "Collaboration · Scent visuals and shop",
+  "h1": "Frankincense and myrrh <em>deserve to be seen, not just listed.</em>",
+  "lead": "Hi Muska team, I'm Abdelrahman, a graphic and motion designer. Moja, Makeeta, Ojeres and Akeela carry Hojari frankincense and an Omani story, but only one of them shows a price online and the Find Your Muska button has no product behind it yet. Here are a few ideas.",
+  "why_title": "Ideas for Muska",
+  "why": [
+   {
+    "h": "A scene per scent",
+    "p": "Each bottle shown in its own Omani setting, smoke, stone and frankincense, made with AI and finished by hand."
+   },
+   {
+    "h": "Short reels for each fragrance",
+    "p": "Motion pieces that tell the notes of each scent, for Instagram and the gallery café screens."
+   },
+   {
+    "h": "A shop that sells",
+    "p": "Prices and a working cart for all four scents, with orders landing on your WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to agree what matters most to you right now."
+   },
+   {
+    "h": "A first sample",
+    "p": "One piece built around your own work, so you can judge it."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muska. I saw your page.",
+  "mail_subject": "Muska - collaboration"
+ },
+ "ar": {
+  "tag": "مُعدّة لموسكا · مسقط",
+  "eyebrow": "تعاون · صور العطور والمتجر",
+  "h1": "اللبان والمر <em>يستحقان أن يُريا، لا أن يُذكرا فقط.</em>",
+  "lead": "أهلاً فريق موسكا، معكم عبدالرحمن، مصمم جرافيك وموشن. موجا ومكيتا وأوجرس وعقيلة تحمل اللبان الحوجري وقصة عُمانية، لكن عطراً واحداً فقط يظهر بسعره على الموقع، وزر Find Your Muska لا يرتبط بمنتج حتى الآن. هذه بعض الأفكار.",
+  "why_title": "أفكار لـ Muska",
+  "why": [
+   {
+    "h": "مشهد لكل عطر",
+    "p": "كل زجاجة في مشهد عُماني خاص بها، دخان وحجر ولبان، بالذكاء الاصطناعي ومكتمل يدوياً."
+   },
+   {
+    "h": "ريلز قصيرة لكل عطر",
+    "p": "أعمال موشن تحكي مكونات كل عطر، لإنستغرام ولشاشات المقهى والمعرض."
+   },
+   {
+    "h": "متجر يبيع فعلاً",
+    "p": "أسعار وسلة شراء تعمل للعطور الأربعة، والطلبات تصل إلى واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنتفق على الأهم بالنسبة لكم الآن."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عمل واحد مبني على أعمالكم، لتحكموا عليه بأنفسكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك موسكا. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Product ads",
+   "en_cap": "Short AI ads built around one product.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · إعلانات منتجات",
+   "ar_cap": "إعلانات قصيرة مبنية حول منتج واحد."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

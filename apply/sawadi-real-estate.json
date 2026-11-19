@@ -1,0 +1,128 @@
+{
+ "slug": "sawadi-real-estate",
+ "company": "Sawadi Real Estate",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Sawadi Real Estate | Abdelrahman Elsayed",
+  "tag": "Prepared for Sawadi Real Estate · Muscat",
+  "eyebrow": "Collaboration · Project teasers and visuals",
+  "h1": "Coming soon is the best moment <em>to start the conversation.</em>",
+  "lead": "Hi Sawadi team, I'm Abdelrahman, a graphic and motion designer who works with Gulf real estate brands. Athuraya City, Rawasi, Madinat Al Irfan and Al Khuwair Downtown are marked Coming Soon on your site with no details yet, while your Sultan Haitham City and Al Mouj listings are live. Here are a few ideas.",
+  "why_title": "Ideas for Sawadi Real Estate",
+  "why": [
+   {
+    "h": "A teaser reel per project",
+    "p": "Short motion teasers for each Coming Soon project, so buyers register interest before launch."
+   },
+   {
+    "h": "AI lifestyle renders",
+    "p": "Scenes of life in Sultan Haitham City, Al Mouj Marina and Eagle Hills, made with AI and finished by hand."
+   },
+   {
+    "h": "A landing page per project",
+    "p": "One page with the key facts and a register-interest button that opens your WhatsApp."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to agree what matters most to you right now."
+   },
+   {
+    "h": "A first sample",
+    "p": "One piece built around your own work, so you can judge it."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Sawadi Real Estate. I saw your page.",
+  "mail_subject": "Sawadi Real Estate - collaboration"
+ },
+ "ar": {
+  "tag": "مُعدّة لصوادي للعقارات · مسقط",
+  "eyebrow": "تعاون · إعلانات تشويقية للمشاريع",
+  "h1": "قريباً هي أفضل لحظة <em>لبدء الحديث مع المشترين.</em>",
+  "lead": "أهلاً فريق صوادي، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات عقارية خليجية. مشاريع مدينة الثريا وروابي ومدينة العرفان ووسط الخوير مكتوب عليها قريباً في موقعكم بدون تفاصيل، بينما عروض مدينة السلطان هيثم والموج متاحة. هذه بعض الأفكار.",
+  "why_title": "أفكار لـ Sawadi Real Estate",
+  "why": [
+   {
+    "h": "ريل تشويقي لكل مشروع",
+    "p": "إعلانات موشن قصيرة لكل مشروع قادم، ليسجل المشترون اهتمامهم قبل الإطلاق."
+   },
+   {
+    "h": "مشاهد حياة بالذكاء الاصطناعي",
+    "p": "مشاهد للحياة في مدينة السلطان هيثم ومارينا الموج وإيجل هيلز، مكتملة يدوياً."
+   },
+   {
+    "h": "صفحة هبوط لكل مشروع",
+    "p": "صفحة بالمعلومات الأساسية وزر لتسجيل الاهتمام يفتح واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنتفق على الأهم بالنسبة لكم الآن."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عمل واحد مبني على أعمالكم، لتحكموا عليه بأنفسكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك صوادي للعقارات. اطلعت على الصفحة."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  }
+ ],
+ "kind": "client"
+}

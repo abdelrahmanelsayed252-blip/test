@@ -1,0 +1,127 @@
+{
+ "slug": "tw-solutions",
+ "company": "TW Solutions",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For TW Solutions | Graphic Designer, Brand & Campaigns, Abdelrahman Elsayed",
+  "tag": "Prepared for TW Solutions · Dubai",
+  "eyebrow": "Application · Graphic Designer, Brand & Campaigns",
+  "h1": "One master key visual, <em>everywhere the customer looks.</em>",
+  "lead": "Hi TW Solutions team, I'm Abdelrahman, a graphic designer with 6+ years of brand and campaign work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your client's Graphic Designer role is about master key visuals carried across social, CRM, in-store and outdoor, so I made this page to show how I'd do that.",
+  "why_title": "What I'd bring to TW Solutions",
+  "why": [
+   {
+    "h": "Master key visuals",
+    "p": "Campaign visuals like my Saudi National Day, villa launch and delivery work, built to adapt to every size."
+   },
+   {
+    "h": "Roll-out across channels",
+    "p": "Social, email/CRM, in-store and outdoor versions in the same look, in Photoshop, Illustrator, InDesign and Figma."
+   },
+   {
+    "h": "Brand identity",
+    "p": "Full identities such as Gamela, CARLY, IVY and Khayrat Al-Ahsa, in Arabic and English."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the audience and what the first month should deliver."
+   },
+   {
+    "h": "First pieces",
+    "p": "A first set of designs and videos in your style within days."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm of posts, reels and campaign pieces."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is TW Solutions. I saw your page.",
+  "mail_subject": "TW Solutions - Graphic Designer, Brand & Campaigns"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ TW Solutions · دبي",
+  "eyebrow": "طلب توظيف · مصمم جرافيك، العلامة والحملات",
+  "h1": "صورة رئيسية واحدة، <em>في كل مكان ينظر إليه العميل.</em>",
+  "lead": "أهلاً فريق TW Solutions، معكم عبدالرحمن، مصمم جرافيك بخبرة أكثر من 6 سنوات في العلامات والحملات لعلامات في السعودية والإمارات وعُمان وقطر. وظيفة المصمم لدى عميلكم تقوم على صور رئيسية تمتد إلى السوشيال وCRM والمتجر والإعلانات الخارجية، لذلك جهزت هذه الصفحة لأوضح طريقتي.",
+  "why_title": "ما سأضيفه لـ TW Solutions",
+  "why": [
+   {
+    "h": "صور رئيسية للحملات",
+    "p": "صور حملات مثل اليوم الوطني السعودي وإطلاق فيلا وحملة التوصيل، مصممة لتتكيف مع كل مقاس."
+   },
+   {
+    "h": "تعميم على كل القنوات",
+    "p": "نسخ للسوشيال والبريد وCRM والمتجر والإعلانات الخارجية بنفس الأسلوب، على Photoshop وIllustrator وInDesign وFigma."
+   },
+   {
+    "h": "هوية العلامة",
+    "p": "هويات كاملة مثل جميلة وCARLY وIVY وخيرات الأحساء بالعربية والإنجليزية."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والجمهور وما يجب أن يقدمه الشهر الأول."
+   },
+   {
+    "h": "أول الأعمال",
+    "p": "أول مجموعة تصاميم وفيديوهات بأسلوبكم خلال أيام."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي من المنشورات والريلز وأعمال الحملات."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نراجع ما نجح ونعدّل الجولة التالية."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك TW Solutions. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Riyadh skyline",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · أفق الرياض",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "id-khayrat",
+   "en_title": "Identity · Khayrat Al-Ahsa",
+   "en_cap": "A full identity in Arabic and English.",
+   "ar_title": "هوية · خيرات الأحساء",
+   "ar_cap": "هوية كاملة بالعربية والإنجليزية."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  }
+ ]
+}
