@@ -1,0 +1,128 @@
+{
+ "slug": "department-of-coffee",
+ "company": "Department of Coffee Oman",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Department of Coffee Oman | Abdelrahman Elsayed",
+  "tag": "Prepared for Department of Coffee · Qurum",
+  "eyebrow": "Collaboration · Cafe content",
+  "h1": "Sri Lanka's celebrated cafe in Qurum <em>should be easy to find on the feed.</em>",
+  "lead": "Hi Department of Coffee team, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and builds tools for cafes. Your private rooms, gallery and roastery are a great story, while the menu sits in PDFs and the Instagram feed on your site isn't loading. Here are a few ideas.",
+  "why_title": "Ideas for Department of Coffee",
+  "why": [
+   {
+    "h": "Drink and roastery scenes",
+    "p": "AI scenes and reels for your signature drinks, beans and the gallery space, made in under an hour each like my work for Pancakes Coffee."
+   },
+   {
+    "h": "A menu people can read",
+    "p": "A fast menu page with items and photos instead of PDFs, in Arabic and English."
+   },
+   {
+    "h": "A pickup pager",
+    "p": "Like flipd, the order pager I built for Pancakes Coffee (in pilot): guests scan a QR code and their own phone rings when the order is ready, no app to install."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Department of Coffee. I saw your page and I'd like to talk",
+  "mail_subject": "Department of Coffee - ideas",
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Department of Coffee · القرم",
+  "eyebrow": "تعاون · محتوى المقهى",
+  "h1": "مقهى سريلانكا الشهير في القرم <em>يجب أن يكون سهل الاكتشاف على السوشيال.</em>",
+  "lead": "أهلاً فريق Department of Coffee، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج صوراً بالذكاء الاصطناعي وأبني أدوات للمقاهي. الغرف الخاصة والمعرض والمحمصة لديكم قصة رائعة، بينما القائمة ملفات PDF وخلاصة إنستغرام في الموقع لا تظهر. هذه بعض الأفكار.",
+  "why_title": "أفكار لـ Department of Coffee",
+  "why": [
+   {
+    "h": "مشاهد المشروبات والمحمصة",
+    "p": "مشاهد وريلز بالذكاء الاصطناعي لمشروباتكم المميزة والبن ومساحة المعرض، كل مشهد في أقل من ساعة مثل أعمالي لـ Pancakes Coffee."
+   },
+   {
+    "h": "قائمة سهلة القراءة",
+    "p": "صفحة قائمة سريعة بالأصناف والصور بدلاً من ملفات PDF، بالعربية والإنجليزية."
+   },
+   {
+    "h": "جهاز تنبيه للاستلام",
+    "p": "مثل flipd، نظام تنبيه الطلبات الذي بنيته لـ Pancakes Coffee (في مرحلة التجربة): يمسح الضيف رمز QR فيرن هاتفه حين يجهز الطلب، دون تثبيت أي تطبيق."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك Department of Coffee. اطلعت على صفحتك وأود التحدث",
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "بعض الصور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتحسين",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scenes · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشاهد منتجات بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد جاهز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One clear message, made for the feed.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "رسالة واحدة واضحة مصممة للسوشيال."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Brand posts",
+   "en_cap": "A feed that looks like one brand.",
+   "ar_title": "تصميم سوشيال · منشورات العلامة",
+   "ar_cap": "حساب يبدو كعلامة واحدة متناسقة."
+  }
+ ],
+ "kind": "client"
+}

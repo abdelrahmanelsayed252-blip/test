@@ -1,0 +1,128 @@
+{
+ "slug": "muscat-dental",
+ "company": "Muscat Dental",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Muscat Dental | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Dental · Shatti Al Qurum",
+  "eyebrow": "Collaboration · Booking and content",
+  "h1": "Your site says book online. <em>Let it really book.</em>",
+  "lead": "Hi Muscat Dental team, I'm Abdelrahman, a graphic and motion designer who also builds websites. Your site lists implants, braces, smile design, gum contouring and pediatric care, but booking is a contact form and patients can't see who treats them. Here are a few ideas.",
+  "why_title": "Ideas for Muscat Dental",
+  "why": [
+   {
+    "h": "A real booking page",
+    "p": "Pick the treatment and a preferred time, then the request lands on your WhatsApp, in Arabic and English, fast on mobile."
+   },
+   {
+    "h": "Treatment explainers",
+    "p": "Short motion videos for implants, braces and smile design that answer the questions patients ask before booking."
+   },
+   {
+    "h": "A face for the clinic",
+    "p": "Doctor intro posts and a consistent look across Instagram and the site."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Muscat Dental. I saw your page and I'd like to talk",
+  "mail_subject": "Muscat Dental - ideas",
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لمسقط للأسنان · شاطئ القرم",
+  "eyebrow": "تعاون · الحجز والمحتوى",
+  "h1": "موقعكم يقول احجز أونلاين. <em>لنجعله يحجز فعلاً.</em>",
+  "lead": "أهلاً فريق مسقط للأسنان، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني المواقع أيضاً. موقعكم يعرض الزراعة والتقويم وتصميم الابتسامة وتجميل اللثة وأسنان الأطفال، لكن الحجز نموذج تواصل فقط ولا يرى المريض من سيعالجه. هذه بعض الأفكار.",
+  "why_title": "أفكار لمسقط للأسنان",
+  "why": [
+   {
+    "h": "صفحة حجز حقيقية",
+    "p": "يختار المريض العلاج والوقت المناسب، ويصلكم الطلب على الواتساب، بالعربية والإنجليزية وسريعة على الجوال."
+   },
+   {
+    "h": "فيديوهات شرح العلاجات",
+    "p": "فيديوهات موشن قصيرة للزراعة والتقويم وتصميم الابتسامة تجيب عن أسئلة المرضى قبل الحجز."
+   },
+   {
+    "h": "وجه للعيادة",
+    "p": "منشورات تعريف بالأطباء وأسلوب متناسق بين إنستغرام والموقع."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك مسقط للأسنان. اطلعت على صفحتك وأود التحدث",
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "بعض الصور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتحسين",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  }
+ ],
+ "kind": "client"
+}

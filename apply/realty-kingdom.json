@@ -1,0 +1,128 @@
+{
+ "slug": "realty-kingdom",
+ "company": "Realty Kingdom International",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Realty Kingdom International | Abdelrahman Elsayed",
+  "tag": "Prepared for Realty Kingdom International · Muscat",
+  "eyebrow": "Collaboration · Project visuals",
+  "h1": "Yenaier, AIDA, Vistal and Fanar Views <em>each deserve their own page.</em>",
+  "lead": "Hi RKI team, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and video for Gulf real estate brands. On your site the projects share similar descriptions and show no sizes or prices yet, so I made this page with a few ideas.",
+  "why_title": "Ideas for RKI",
+  "why": [
+   {
+    "h": "A landing page per project",
+    "p": "One fast page for each project in Arabic and English, with the key facts, visuals and a WhatsApp button to Sami or Moein."
+   },
+   {
+    "h": "AI lifestyle scenes",
+    "p": "Scenes of life in Sultan Haitham City, Yiti and Al Mouj, made with AI and finished by hand, like my villa launch work."
+   },
+   {
+    "h": "Project reels",
+    "p": "Short motion reels per project for Instagram, plus an AI presenter like the podcast host I made for the Siredo 2026 real estate exhibition."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is RKI. I saw your page and I'd like to talk",
+  "mail_subject": "RKI - project ideas",
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لمملكة العقار الدولية · مسقط",
+  "eyebrow": "تعاون · صور المشاريع",
+  "h1": "ينير وعايدة وفيستال وفنار فيوز <em>يستحق كلٌّ منها صفحته الخاصة.</em>",
+  "lead": "أهلاً فريق RKI، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات عقارية خليجية. في موقعكم تتشابه أوصاف المشاريع ولا تظهر المساحات أو الأسعار بعد، لذلك جهزت هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لـ RKI",
+  "why": [
+   {
+    "h": "صفحة لكل مشروع",
+    "p": "صفحة سريعة لكل مشروع بالعربية والإنجليزية، بأهم المعلومات والصور وزر واتساب مباشر لسامي أو معين."
+   },
+   {
+    "h": "مشاهد حياة بالذكاء الاصطناعي",
+    "p": "مشاهد للحياة في مدينة السلطان هيثم وييتي والموج، بالذكاء الاصطناعي ومكتملة يدوياً، مثل أعمالي لإطلاق فيلا."
+   },
+   {
+    "h": "ريلز للمشاريع",
+    "p": "ريلز قصيرة بالموشن لكل مشروع على إنستغرام، ومقدّم بالذكاء الاصطناعي مثل مقدّم البودكاست الذي صممته لمعرض سيريدو 2026 العقاري."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك RKI. اطلعت على صفحتك وأود التحدث",
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "بعض الصور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتحسين",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  }
+ ],
+ "kind": "client"
+}

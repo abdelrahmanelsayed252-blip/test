@@ -1,0 +1,127 @@
+{
+ "slug": "marc-ellis",
+ "company": "Marc Ellis",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For Marc Ellis | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Marc Ellis · Dubai",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "One look for every bag, <em>from the feed to the box.</em>",
+  "lead": "Hi Marc Ellis team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your Graphic Designer role covers social, emailers, landing pages, ads, packaging and print, so I made this page to show how I'd handle that range.",
+  "why_title": "What I'd bring to Marc Ellis",
+  "why": [
+   {
+    "h": "Campaigns that travel",
+    "p": "Key visuals that hold up across social, emailers, digital ads and in-store print, built in Photoshop, Illustrator and InDesign."
+   },
+   {
+    "h": "Landing pages that load fast",
+    "p": "I design in Figma and also build pages myself, like the live Pancakes Coffee site in Arabic and English."
+   },
+   {
+    "h": "Motion when it helps",
+    "p": "After Effects reels and animated ads, plus AI product scenes when a new colourway needs visuals before the shoot."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Marc Ellis. I saw your page.",
+  "mail_subject": "Marc Ellis - Graphic Designer",
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the audience and what the first month should deliver."
+   },
+   {
+    "h": "First pieces",
+    "p": "A first set of designs and videos in your style within days."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm of posts, reels and campaign pieces."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Marc Ellis · دبي",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "أسلوب واحد لكل حقيبة، <em>من السوشيال إلى العلبة.</em>",
+  "lead": "أهلاً فريق Marc Ellis، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. وظيفة مصمم الجرافيك لديكم تشمل السوشيال والرسائل البريدية وصفحات الهبوط والإعلانات والتغليف والمطبوعات، لذلك جهزت هذه الصفحة لأوضح كيف أتعامل مع هذا التنوع.",
+  "why_title": "ما سأضيفه لـ Marc Ellis",
+  "why": [
+   {
+    "h": "حملات تصلح لكل مكان",
+    "p": "صور رئيسية تعمل على السوشيال والبريد والإعلانات الرقمية ومطبوعات المتجر، على Photoshop وIllustrator وInDesign."
+   },
+   {
+    "h": "صفحات هبوط سريعة",
+    "p": "أصمم على Figma وأبني الصفحات بنفسي، مثل موقع Pancakes Coffee المنشور بالعربية والإنجليزية."
+   },
+   {
+    "h": "موشن عند الحاجة",
+    "p": "ريلز وإعلانات متحركة على After Effects، ومشاهد منتجات بالذكاء الاصطناعي حين يحتاج لون جديد صوراً قبل التصوير."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك Marc Ellis. اطلعت على صفحتك.",
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والجمهور وما يجب أن يقدمه الشهر الأول."
+   },
+   {
+    "h": "أول الأعمال",
+    "p": "أول مجموعة تصاميم وفيديوهات بأسلوبكم خلال أيام."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي من المنشورات والريلز وأعمال الحملات."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نراجع ما نجح ونعدّل الجولة التالية."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  },
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scenes · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشاهد منتجات بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد جاهز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A full brand identity from logo to posts.",
+   "ar_title": "هوية بصرية · Gamela",
+   "ar_cap": "هوية كاملة من الشعار إلى المنشورات."
+  }
+ ]
+}

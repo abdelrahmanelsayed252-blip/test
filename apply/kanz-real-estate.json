@@ -1,0 +1,128 @@
+{
+ "slug": "kanz-real-estate",
+ "company": "Kanz Real Estate",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Kanz Real Estate | Abdelrahman Elsayed",
+  "tag": "Prepared for Kanz Real Estate · Muscat",
+  "eyebrow": "Collaboration · Listing visuals",
+  "h1": "A Zaha villa in Muscat Bay <em>should feel like Muscat Bay.</em>",
+  "lead": "Hi Mazin, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and video for Gulf real estate brands. Your listings, from the Zaha villa to the Jebel Sifah studios, are strong, while the site still shows template leftovers and links that go nowhere. Here are a few ideas.",
+  "why_title": "Ideas for Kanz",
+  "why": [
+   {
+    "h": "AI lifestyle scenes per listing",
+    "p": "Sea-view mornings in Jebel Sifah and family life in Muscat Bay, made with AI and finished by hand so they look designed."
+   },
+   {
+    "h": "Listing reels",
+    "p": "Short motion reels with price, size and location for each property, ready for Instagram and WhatsApp status."
+   },
+   {
+    "h": "A clean new website",
+    "p": "A fast Arabic and English site with your listings, working menus and an enquiry button on every property."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Kanz Real Estate. I saw your page and I'd like to talk",
+  "mail_subject": "Kanz Real Estate - listing ideas",
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لكنز العقارية · مسقط",
+  "eyebrow": "تعاون · صور العقارات",
+  "h1": "فيلا زها في خليج مسقط <em>يجب أن تُشعرك بخليج مسقط.</em>",
+  "lead": "أهلاً مازن، معك عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات عقارية خليجية. عروضكم قوية، من فيلا زها إلى استوديوهات جبل سيفة، بينما ما زال في الموقع بقايا من القالب وروابط لا تعمل. هذه بعض الأفكار.",
+  "why_title": "أفكار لكنز",
+  "why": [
+   {
+    "h": "مشاهد حياة لكل عقار",
+    "p": "صباح على البحر في جبل سيفة وحياة عائلية في خليج مسقط، بالذكاء الاصطناعي ومكتملة يدوياً لتبدو مصممة باحتراف."
+   },
+   {
+    "h": "ريلز للعقارات",
+    "p": "ريلز قصيرة بالموشن بالسعر والمساحة والموقع لكل عقار، جاهزة لإنستغرام وحالة الواتساب."
+   },
+   {
+    "h": "موقع جديد ونظيف",
+    "p": "موقع سريع بالعربية والإنجليزية بعقاراتكم، وقوائم تعمل، وزر استفسار في كل عقار."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك كنز العقارية. اطلعت على صفحتك وأود التحدث",
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "بعض الصور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتحسين",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "Sells the life inside the home, not just the building.",
+   "ar_title": "صورة رئيسية · إطلاق فيلا",
+   "ar_cap": "تبيع الحياة داخل البيت، وليس المبنى فقط."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Brand posts",
+   "en_cap": "A feed that looks like one brand.",
+   "ar_title": "تصميم سوشيال · منشورات العلامة",
+   "ar_cap": "حساب يبدو كعلامة واحدة متناسقة."
+  }
+ ],
+ "kind": "client"
+}

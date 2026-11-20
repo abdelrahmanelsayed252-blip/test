@@ -1,0 +1,128 @@
+{
+ "slug": "azura-dental",
+ "company": "Azura Dental Clinic",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "A few ideas for Azura Dental | Abdelrahman Elsayed",
+  "tag": "Prepared for Azura Dental · Al Mouj",
+  "eyebrow": "Collaboration · Smile stories",
+  "h1": "Your free Invisalign scan <em>deserves a before-and-after people watch.</em>",
+  "lead": "Hi Azura Dental team, I'm Abdelrahman, a graphic and motion designer who also makes AI visuals and video for Gulf brands. I looked at your site: seven doctors, a Diamond Apex Invisalign provider and a free digital scan offer, while the Successful Treatments section is still empty. Here are a few ideas.",
+  "why_title": "Ideas for Azura Dental",
+  "why": [
+   {
+    "h": "Before-and-after reels",
+    "p": "Short motion reels for Invisalign, veneers and implants, each case labelled clearly, to fill your Successful Treatments section and your feed."
+   },
+   {
+    "h": "Doctor intro posts",
+    "p": "One clean post or short video per doctor, so patients know who they will meet before they book."
+   },
+   {
+    "h": "A booking page for the free scan",
+    "p": "A simple page in Arabic and English for the free digital scan that ends in WhatsApp, with your installment plans explained."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Azura Dental. I saw your page and I'd like to talk",
+  "mail_subject": "Azura Dental - content ideas",
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لعيادة أزورا للأسنان · الموج",
+  "eyebrow": "تعاون · قصص الابتسامة",
+  "h1": "فحص Invisalign المجاني لديكم <em>يستحق قبل وبعد يشاهده الناس.</em>",
+  "lead": "أهلاً فريق أزورا، معكم عبدالرحمن، مصمم جرافيك وموشن وأنتج أيضاً صوراً وفيديوهات بالذكاء الاصطناعي لعلامات تجارية خليجية. اطلعت على موقعكم: سبعة أطباء، ومقدّم Invisalign بمستوى Diamond Apex، وعرض الفحص الرقمي المجاني، بينما قسم العلاجات الناجحة ما زال فارغاً. هذه بعض الأفكار.",
+  "why_title": "أفكار لعيادة أزورا",
+  "why": [
+   {
+    "h": "ريلز قبل وبعد",
+    "p": "ريلز قصيرة بالموشن لحالات Invisalign والقشور والزراعة، كل حالة بعنوان واضح، لتملأ قسم العلاجات الناجحة وحسابكم."
+   },
+   {
+    "h": "تعريف بالأطباء",
+    "p": "منشور أو فيديو قصير لكل طبيب، ليعرف المريض من سيقابله قبل الحجز."
+   },
+   {
+    "h": "صفحة حجز للفحص المجاني",
+    "p": "صفحة بسيطة بالعربية والإنجليزية للفحص الرقمي المجاني تنتهي بالواتساب، مع شرح خطط التقسيط."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك عيادة أزورا للأسنان. اطلعت على صفحتك وأود التحدث",
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "بعض الصور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتحسين",
+    "p": "نراجع ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Campaign posts",
+   "en_cap": "Offer and season posts in one style.",
+   "ar_title": "تصميم سوشيال · منشورات الحملات",
+   "ar_cap": "منشورات العروض والمواسم بأسلوب واحد."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  }
+ ],
+ "kind": "client"
+}

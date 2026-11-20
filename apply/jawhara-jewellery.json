@@ -1,0 +1,127 @@
+{
+ "slug": "jawhara-jewellery",
+ "company": "Jawhara Jewellery",
+ "default_lang": "en",
+ "country_en": "UAE",
+ "country_ar": "الإمارات",
+ "en": {
+  "title": "For Jawhara Jewellery | Social Media Executive, Abdelrahman Elsayed",
+  "tag": "Prepared for Jawhara Jewellery · Dubai",
+  "eyebrow": "Application · Social Media Executive (Arabic)",
+  "h1": "A jewellery house since 1907, <em>told in reels people save.</em>",
+  "lead": "Hi Jawhara team, I'm Abdelrahman, a graphic and motion designer and AI content creator with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. Your role mixes design, video editing and AI video with Arabic content, so I made this page for you.",
+  "why_title": "What I'd bring to Jawhara Jewellery",
+  "why": [
+   {
+    "h": "Pieces that look their best",
+    "p": "Clean product visuals and AI scenes for each collection, finished by hand in Photoshop so the gold and stones read true."
+   },
+   {
+    "h": "Reels and AI video",
+    "p": "Instagram and TikTok edits in Premiere and After Effects, plus AI video with Veo, Kling and Runway, like my UGC-style ads for Ozone International UAE."
+   },
+   {
+    "h": "Arabic-first content",
+    "p": "Arabic and English posts in one look, and talking-character ads in Gulf dialect like the ones I made for a Saudi financing company."
+   }
+  ],
+  "wa_text": "Hi Abdelrahman, this is Jawhara Jewellery. I saw your page.",
+  "mail_subject": "Jawhara Jewellery - Social Media Executive",
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the audience and what the first month should deliver."
+   },
+   {
+    "h": "First pieces",
+    "p": "A first set of designs and videos in your style within days."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm of posts, reels and campaign pieces."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day."
+ },
+ "ar": {
+  "tag": "مُعدّة لجوهرة للمجوهرات · دبي",
+  "eyebrow": "طلب توظيف · مسؤول سوشيال ميديا (عربي)",
+  "h1": "دار مجوهرات منذ 1907، <em>تُروى في ريلز يحفظها الناس.</em>",
+  "lead": "أهلاً فريق جوهرة، معكم عبدالرحمن، مصمم جرافيك وموشن وصانع محتوى بالذكاء الاصطناعي بخبرة أكثر من 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. الوظيفة لديكم تجمع التصميم والمونتاج وفيديو الذكاء الاصطناعي مع المحتوى العربي، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ما سأضيفه لجوهرة للمجوهرات",
+  "why": [
+   {
+    "h": "قطع تظهر بأجمل صورة",
+    "p": "صور منتجات نظيفة ومشاهد بالذكاء الاصطناعي لكل مجموعة، أكملها يدوياً على Photoshop ليظهر الذهب والأحجار بصدق."
+   },
+   {
+    "h": "ريلز وفيديو بالذكاء الاصطناعي",
+    "p": "مونتاج لإنستغرام وتيك توك على Premiere وAfter Effects، وفيديو بالذكاء الاصطناعي عبر Veo وKling وRunway، مثل إعلاناتي بأسلوب UGC لشركة Ozone International في الإمارات."
+   },
+   {
+    "h": "محتوى عربي أولاً",
+    "p": "منشورات بالعربية والإنجليزية بأسلوب واحد، وإعلانات بشخصيات متحدثة بلهجة خليجية مثل التي صممتها لشركة تمويل سعودية."
+   }
+  ],
+  "wa_text": "أهلاً عبدالرحمن، معك جوهرة للمجوهرات. اطلعت على صفحتك.",
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والجمهور وما يجب أن يقدمه الشهر الأول."
+   },
+   {
+    "h": "أول الأعمال",
+    "p": "أول مجموعة تصاميم وفيديوهات بأسلوبكم خلال أيام."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي من المنشورات والريلز وأعمال الحملات."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نراجع ما نجح ونعدّل الجولة التالية."
+   }
+  ],
+  "cta_h": "نتحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وراقية بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Ozone International",
+   "en_cap": "UGC-style ads made with AI for a UAE brand.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بالذكاء الاصطناعي لعلامة إماراتية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  }
+ ]
+}
