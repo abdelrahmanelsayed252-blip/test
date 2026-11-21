@@ -1,0 +1,128 @@
+{
+ "slug": "sobeh-medical-center",
+ "company": "Sobeh Medical Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Sobeh Medical Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Sobeh Medical Center",
+  "eyebrow": "Collaboration · Treatment content and booking",
+  "h1": "Your offers deserve <em>a booking that takes one tap.</em>",
+  "lead": "Hi Sobeh team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. You list offers for laser hair removal, dermatology and dental packages at The Walk in Al Mouj, and every Book now button already opens WhatsApp. The booking form on your site has no name or phone field yet, and a few menu links go nowhere, so I made this page with a few ideas.",
+  "why_title": "A few ideas for Sobeh Medical Center",
+  "why": [
+   {
+    "h": "A reel per offer",
+    "p": "Short motion videos for laser, dental packages and IV drips, in Arabic and English, each ending on your WhatsApp."
+   },
+   {
+    "h": "A booking page that works",
+    "p": "Choose the treatment and the doctor, then land in WhatsApp with the request already written."
+   },
+   {
+    "h": "Meet your doctors",
+    "p": "Short intro posts for Dr. Mohammed Sobeh, Dr. Fady Affara and the team, so patients know who they will see."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Sobeh Medical Center"
+ },
+ "ar": {
+  "tag": "مُعدّة لـمركز صبح الطبي",
+  "eyebrow": "تعاون · محتوى العلاجات والحجز",
+  "h1": "عروضكم تستحق <em>حجزاً بلمسة واحدة.</em>",
+  "lead": "أهلاً فريق مركز صبح، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. لديكم عروض لإزالة الشعر بالليزر والجلدية وباقات الأسنان في ذا ووك بالموج، وكل أزرار الحجز تفتح واتساب. نموذج الحجز في موقعكم لا يحتوي بعد على خانة للاسم أو الهاتف، وبعض روابط القائمة لا تعمل، لذلك جهزت هذه الصفحة بأفكار مقترحة.",
+  "why_title": "أفكار لـمركز صبح الطبي",
+  "why": [
+   {
+    "h": "ريل لكل عرض",
+    "p": "فيديوهات موشن قصيرة لليزر وباقات الأسنان وجلسات المغذيات الوريدية بالعربية والإنجليزية، تنتهي كلها بواتساب."
+   },
+   {
+    "h": "صفحة حجز تعمل",
+    "p": "يختار المريض العلاج والطبيب ثم ينتقل إلى واتساب ورسالة الحجز مكتوبة مسبقاً."
+   },
+   {
+    "h": "تعرّفوا على الأطباء",
+    "p": "بوستات قصيرة تعرّف بالدكتور محمد صبح والدكتور فادي عفارة والفريق، ليعرف المريض من سيقابله."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون زيادته."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما حقق النتائج ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes that feel calm and premium.",
+   "ar_title": "صور منتجات · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات هادئة وراقية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces made for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "janat-dilmun",
+ "company": "Janat Dilmun Waterpark",
+ "default_lang": "en",
+ "country_en": "Bahrain",
+ "country_ar": "البحرين",
+ "en": {
+  "title": "For Janat Dilmun Waterpark | Graphic Designer, Abdelrahman Elsayed",
+  "tag": "Prepared for Janat Dilmun Waterpark · Bahrain",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "A waterpark sells <em>the feeling of the first splash.</em>",
+  "lead": "Hi Janat Dilmun team, I'm Abdelrahman, a graphic and motion designer with 6+ years of brand work for Gulf companies. A park themed on ancient Dilmun, with 20+ slides, has a story most brands would envy, so I made this page for your Graphic Designer opening.",
+  "why_title": "What I'd bring to Janat Dilmun",
+  "why": [
+   {
+    "h": "Season key visuals",
+    "p": "One idea per season carried across posts, stories, ads and on-site signage, like my Saudi National Day and delivery campaigns."
+   },
+   {
+    "h": "Motion and reels",
+    "p": "Short reels in Arabic and English with After Effects and Premiere, built around rides, offers and events."
+   },
+   {
+    "h": "AI visuals",
+    "p": "AI scenes and short AI video for ideas that are hard to shoot, finished by hand to stay on brand."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Learn the brand, the Dilmun theme and the season calendar."
+   },
+   {
+    "h": "Key visual",
+    "p": "One strong visual for the next season or event."
+   },
+   {
+    "h": "Roll-out",
+    "p": "Posts, stories, ads and park signage in the same look."
+   },
+   {
+    "h": "Review",
+    "p": "Check what brought visitors and adjust the next campaign."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Janat Dilmun. I saw your page.",
+  "mail_subject": "Janat Dilmun - Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لحديقة جنات دلمون المائية · البحرين",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "الحديقة المائية تبيع <em>إحساس أول قفزة في الماء.</em>",
+  "lead": "أهلاً فريق جنات دلمون، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة أكثر من 6 سنوات في العلامات التجارية الخليجية. حديقة مستوحاة من حضارة دلمون وبأكثر من 20 زلاقة لديها قصة مميزة، لذلك جهزت هذه الصفحة لوظيفة مصمم الجرافيك لديكم.",
+  "why_title": "ماذا أضيف لجنات دلمون",
+  "why": [
+   {
+    "h": "صور رئيسية لكل موسم",
+    "p": "فكرة واحدة لكل موسم تمتد عبر البوستات والستوريز والإعلانات ولافتات الحديقة، مثل حملة اليوم الوطني السعودي وحملة التوصيل."
+   },
+   {
+    "h": "موشن وريلز",
+    "p": "ريلز قصيرة بالعربية والإنجليزية على أفتر إفكتس وبريمير، حول الألعاب والعروض والفعاليات."
+   },
+   {
+    "h": "صور بالذكاء الاصطناعي",
+    "p": "مشاهد وفيديوهات قصيرة بالذكاء الاصطناعي للأفكار التي يصعب تصويرها، مكتملة يدوياً لتحافظ على الهوية."
+   }
+  ],
+  "steps_title": "كيف سأبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "فهم العلامة وطابع دلمون وتقويم المواسم."
+   },
+   {
+    "h": "الصورة الرئيسية",
+    "p": "صورة قوية واحدة للموسم أو الفعالية القادمة."
+   },
+   {
+    "h": "التنفيذ",
+    "p": "بوستات وستوريز وإعلانات ولافتات الحديقة بنفس الشكل."
+   },
+   {
+    "h": "المراجعة",
+    "p": "مراجعة ما جلب الزوار وتطوير الحملة التالية."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك جنات دلمون. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "AI-built city scene, finished by hand.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "مشهد مدينة بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces made for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One clear message, made for the feed.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "رسالة واحدة واضحة مصممة للسوشيال."
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "al-turath-oud",
+ "company": "Al Turath Oud & Amber",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Al Turath Oud & Amber | Abdelrahman Elsayed",
+  "tag": "Prepared for Al Turath Oud & Amber",
+  "eyebrow": "Collaboration · Product visuals and store",
+  "h1": "Let people see the scent <em>before they open the box.</em>",
+  "lead": "Hi Al Turath team, I'm Abdelrahman, a graphic and motion designer who also builds online stores. Khaltat Al Shuyukh, Rooh Al Anbar, Hojari frankincense and your pearl shell gift box deserve scenes that match their story. On your site the Shop by category section stays on Loading, prices do not show on the homepage and the Arabic version is empty, so I made this page with a few ideas.",
+  "why_title": "A few ideas for Al Turath Oud & Amber",
+  "why": [
+   {
+    "h": "A scene per scent",
+    "p": "AI product scenes for each blend and the golden chest, finished by hand so they look designed, not generated."
+   },
+   {
+    "h": "Gift season reels",
+    "p": "Short reels for gift boxes and National Day, in Arabic and English, ending on your WhatsApp."
+   },
+   {
+    "h": "A store that loads",
+    "p": "Categories and prices that show on every phone, plus a full Arabic version."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Al Turath Oud & Amber"
+ },
+ "ar": {
+  "tag": "مُعدّة لـالتراث للعود والعنبر",
+  "eyebrow": "تعاون · صور المنتجات والمتجر",
+  "h1": "دعوا الناس يرون العطر <em>قبل أن يفتحوا العلبة.</em>",
+  "lead": "أهلاً فريق التراث، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني المتاجر الإلكترونية أيضاً. خلطة الشيوخ وروح العنبر واللبان الحوجري وعلبة الهدايا الصدفية تستحق مشاهد تليق بقصتها. في موقعكم يبقى قسم التسوق حسب الفئة على وضع التحميل، والأسعار لا تظهر في الصفحة الرئيسية، والنسخة العربية فارغة، لذلك جهزت هذه الصفحة بأفكار مقترحة.",
+  "why_title": "أفكار لـالتراث للعود والعنبر",
+  "why": [
+   {
+    "h": "مشهد لكل عطر",
+    "p": "مشاهد منتجات بالذكاء الاصطناعي لكل خلطة وللصندوق الذهبي، مكتملة يدوياً لتظهر مصممة وليست مولّدة."
+   },
+   {
+    "h": "ريلز لمواسم الهدايا",
+    "p": "ريلز قصيرة لعلب الهدايا واليوم الوطني بالعربية والإنجليزية، تنتهي بواتساب."
+   },
+   {
+    "h": "متجر يعمل بسلاسة",
+    "p": "فئات وأسعار تظهر على كل هاتف، مع نسخة عربية كاملة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون زيادته."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما حقق النتائج ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes that feel calm and premium.",
+   "ar_title": "صور منتجات · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات هادئة وراقية."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Ozone International",
+   "en_cap": "UGC-style ads made with AI for a UAE brand.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات بأسلوب UGC بالذكاء الاصطناعي لعلامة إماراتية."
+  },
+  {
+   "src": "id-khayrat",
+   "en_title": "Identity · Khayrat Al-Ahsa",
+   "en_cap": "A brand identity built for Gulf shelves and screens.",
+   "ar_title": "هوية بصرية · خيرات الأحساء",
+   "ar_cap": "هوية مصممة للرفوف والشاشات الخليجية."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "isfahan-sweets",
+ "company": "Isfahan Sweets",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Isfahan Sweets | Abdelrahman Elsayed",
+  "tag": "Prepared for Isfahan Sweets",
+  "eyebrow": "Collaboration · Cake visuals and ordering",
+  "h1": "Your cakes sell faster <em>when the photo looks as good as the taste.</em>",
+  "lead": "Hi Isfahan Sweets team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. You have a lot going on in Al Azaiba: the National Day code, the weekly 1 Rial tiramisu, the Ribbon Floral layered cake and the sweet boxes. A few links on your site still point to a staging address and the wedding cake offer page is empty, so I made this page with a few ideas.",
+  "why_title": "A few ideas for Isfahan Sweets",
+  "why": [
+   {
+    "h": "A scene per cake",
+    "p": "AI product scenes for your signature cakes and sweet boxes, finished by hand."
+   },
+   {
+    "h": "Offer reels",
+    "p": "Short motion reels for the weekly offers and National Day, in Arabic and English."
+   },
+   {
+    "h": "Order on WhatsApp",
+    "p": "A clean order page with your real links, ending on WhatsApp with the cake and date already written."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Isfahan Sweets"
+ },
+ "ar": {
+  "tag": "مُعدّة لـحلويات أصفهان",
+  "eyebrow": "تعاون · صور الكيك والطلب",
+  "h1": "الكيك يُباع أسرع <em>حين تكون صورته بجمال طعمه.</em>",
+  "lead": "أهلاً فريق حلويات أصفهان، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. لديكم الكثير في العذيبة: كود اليوم الوطني، وتيراميسو الريال الواحد الأسبوعي، وكيكة الأشرطة والورود، وعلب الحلويات. بعض روابط موقعكم ما زالت تشير إلى عنوان تجريبي، وصفحة عرض كيك الأعراس فارغة، لذلك جهزت هذه الصفحة بأفكار مقترحة.",
+  "why_title": "أفكار لـحلويات أصفهان",
+  "why": [
+   {
+    "h": "مشهد لكل كيكة",
+    "p": "مشاهد منتجات بالذكاء الاصطناعي لأشهر الكيك وعلب الحلويات، مكتملة يدوياً."
+   },
+   {
+    "h": "ريلز للعروض",
+    "p": "ريلز موشن قصيرة للعروض الأسبوعية واليوم الوطني بالعربية والإنجليزية."
+   },
+   {
+    "h": "الطلب عبر واتساب",
+    "p": "صفحة طلب واضحة بروابطكم الصحيحة، تنتهي بواتساب ونوع الكيكة والتاريخ مكتوبان مسبقاً."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون زيادته."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما حقق النتائج ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scenes · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشاهد منتجات بالذكاء الاصطناعي · بانكيكس كوفي",
+   "ar_cap": "كل مشهد جاهز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces made for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One clear message, made for the feed.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "رسالة واحدة واضحة مصممة للسوشيال."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  }
+ ],
+ "kind": "client"
+}

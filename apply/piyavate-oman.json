@@ -1,0 +1,128 @@
+{
+ "slug": "piyavate-oman",
+ "company": "Piyavate Rehabilitation & Physiotherapy Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Piyavate Rehabilitation & Physiotherapy Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Piyavate Rehabilitation & Physiotherapy Center",
+  "eyebrow": "Collaboration · Therapy content and booking",
+  "h1": "Show what each therapy feels like, <em>then book it on WhatsApp.</em>",
+  "lead": "Hi Piyavate team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. VitalStim swallowing therapy, radial shockwave, high-intensity laser and your Snoezelen sensory room are hard to picture from a list. Your 6- and 12-session packages have no prices online, and the 2026 checkup packages link does not open a PDF. I made this page with a few ideas for your Al Khuwair centre.",
+  "why_title": "A few ideas for Piyavate Rehabilitation & Physiotherapy Center",
+  "why": [
+   {
+    "h": "A short video per therapy",
+    "p": "20-second motion explainers for shockwave, laser, dry needling and VitalStim, in Arabic and English."
+   },
+   {
+    "h": "A clear packages page",
+    "p": "Every package with sessions and price, ending on your WhatsApp Muscat desk."
+   },
+   {
+    "h": "Recovery stories",
+    "p": "Simple patient-journey reels and posts that show progress without exposing anyone's identity."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you want more of."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, I saw your page and I'd like to talk",
+  "mail_subject": "Ideas for Piyavate Oman"
+ },
+ "ar": {
+  "tag": "مُعدّة لـمركز بيافيت للتأهيل والعلاج الطبيعي",
+  "eyebrow": "تعاون · محتوى العلاجات والحجز",
+  "h1": "اعرضوا كل علاج كما هو، <em>ثم احجزوه عبر واتساب.</em>",
+  "lead": "أهلاً فريق بيافيت، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. علاج البلع VitalStim والموجات الصادمة والليزر عالي الكثافة وغرفة سنوزلين الحسية يصعب تخيلها من قائمة. باقات الست جلسات والاثنتي عشرة جلسة بلا أسعار على الموقع، ورابط باقات الفحص لعام 2026 لا يفتح ملف PDF. جهزت هذه الصفحة بأفكار لمركزكم في الخوير.",
+  "why_title": "أفكار لـمركز بيافيت للتأهيل والعلاج الطبيعي",
+  "why": [
+   {
+    "h": "فيديو قصير لكل علاج",
+    "p": "فيديوهات موشن مدتها 20 ثانية للموجات الصادمة والليزر والإبر الجافة وVitalStim بالعربية والإنجليزية."
+   },
+   {
+    "h": "صفحة باقات واضحة",
+    "p": "كل باقة بعدد جلساتها وسعرها، وتنتهي بمكتب واتساب في مسقط."
+   },
+   {
+    "h": "قصص التعافي",
+    "p": "ريلز وبوستات بسيطة تعرض رحلة المريض وتقدمه دون كشف هويته."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تريدون زيادته."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ريل واحد أو عدة صور مبنية على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما حقق النتائج ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، اطلعت على صفحتكم وأود أن نتحدث"
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces made for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social posts · Gulf brand",
+   "en_cap": "A steady feed in one recognisable look.",
+   "ar_title": "بوستات سوشيال · علامة خليجية",
+   "ar_cap": "محتوى منتظم بأسلوب واحد يسهل تمييزه."
+  },
+  {
+   "src": "skincare",
+   "en_title": "Product visuals · Skincare",
+   "en_cap": "Clean product scenes that feel calm and premium.",
+   "ar_title": "صور منتجات · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات هادئة وراقية."
+  }
+ ],
+ "kind": "client"
+}
