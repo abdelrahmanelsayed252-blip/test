@@ -1,0 +1,128 @@
+{
+ "slug": "flora-dlite",
+ "company": "Flora D'Lite",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Flora D'Lite | Abdelrahman Elsayed",
+  "tag": "Prepared for Flora D'Lite",
+  "eyebrow": "Collaboration · Flower and cake visuals",
+  "h1": "Same-day flowers deserve <em>same-day-quality visuals.</em>",
+  "lead": "Hi Flora D'Lite team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. From the Luxury Flower Tray to the Lotus Biscoff cake, your Muscat range is wide, with same-day delivery from Al Qurum and The Links. National Day is in your menu but there is no banner for it, and a few links and add-on images on the Oman site are broken, so I made this page with a few ideas.",
+  "why_title": "A few ideas for Flora D'Lite",
+  "why": [
+   {
+    "h": "A scene per arrangement",
+    "p": "AI scenes for bouquets, trays and cakes, finished by hand, so each product has a photo that sells."
+   },
+   {
+    "h": "Season reels",
+    "p": "Short reveal reels for National Day, Valentine's and Mother's Day, in Arabic and English."
+   },
+   {
+    "h": "A tidier Oman shop",
+    "p": "Clean menus without duplicates, working images and links, and an occasion banner that changes with the season."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which occasions matter most for you."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Flora D'Lite. I saw your page.",
+  "mail_subject": "Ideas for Flora D'Lite"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Flora D'Lite",
+  "eyebrow": "تعاون · صور الورود والكيك",
+  "h1": "ورود تصل في نفس اليوم تستحق <em>صوراً بنفس المستوى.</em>",
+  "lead": "أهلاً فريق فلورا دي لايت، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. من صينية الورد الفاخرة إلى كيكة لوتس بسكوف، تشكيلتكم في مسقط واسعة مع توصيل في نفس اليوم من القرم وذا لينكس. اليوم الوطني موجود في القائمة لكن بدون بانر، وبعض الروابط وصور الإضافات في الموقع لا تعمل، لذلك جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لفلورا دي لايت",
+  "why": [
+   {
+    "h": "مشهد لكل تنسيق",
+    "p": "مشاهد بالذكاء الاصطناعي للباقات والصواني والكيك، أكملها يدوياً لتكون لكل منتج صورة تبيع."
+   },
+   {
+    "h": "ريلز المواسم",
+    "p": "ريلز قصيرة لكشف الباقات في اليوم الوطني وعيد الحب ويوم الأم، بالعربية والإنجليزية."
+   },
+   {
+    "h": "متجر عُمان أكثر ترتيباً",
+    "p": "قوائم بدون تكرار، وصور وروابط تعمل، وبانر للمناسبة يتغير مع الموسم."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "خطوات صغيرة وسريعة وسهل أن تقولوا لا.",
+  "steps": [
+   {
+    "h": "محادثة قصيرة",
+    "p": "15 دقيقة لفهم المناسبات الأهم لكم."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "ريل واحد أو عدة تصاميم مبنية على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الهوية."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما حقق نتائج ونعدّل."
+   }
+  ],
+  "cta_h": "هل يمكننا التحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم. عادةً أرد في نفس اليوم.",
+  "wa_text": "مرحباً عبدالرحمن، معك Flora D'Lite. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scenes · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشاهد منتجات بالذكاء الاصطناعي · بانكيكس كوفي",
+   "ar_cap": "كل مشهد جاهز في أقل من ساعة."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social posts · Season",
+   "en_cap": "Season posts in Arabic and English.",
+   "ar_title": "بوستات سوشيال · مواسم",
+   "ar_cap": "منشورات المواسم بالعربية والإنجليزية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  }
+ ],
+ "kind": "client"
+}

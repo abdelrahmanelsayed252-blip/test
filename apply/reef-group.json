@@ -1,0 +1,127 @@
+{
+ "slug": "reef-group",
+ "company": "REEF Group",
+ "default_lang": "en",
+ "country_en": "Saudi Arabia",
+ "country_ar": "السعودية",
+ "en": {
+  "title": "For REEF Group | Abdelrahman Elsayed",
+  "tag": "Prepared for REEF Group",
+  "eyebrow": "Application · Graphic Designer",
+  "h1": "A perfume house with many names <em>still needs one clear look.</em>",
+  "lead": "Hi REEF team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar. REEF sells a numbered EDP line and Princess Reef through its own stores and Faces, and your Graphic Designer role covers several group brands, so I made this page for you.",
+  "why_title": "What I'd bring to REEF",
+  "why": [
+   {
+    "h": "Product visuals per scent",
+    "p": "AI product scenes for each bottle, finished by hand, so REEF 15 to REEF 36 each get their own mood without a new shoot every time."
+   },
+   {
+    "h": "Motion for stores and social",
+    "p": "Short reels and screen content for mall stores and Instagram, in Arabic and English."
+   },
+   {
+    "h": "One system for many brands",
+    "p": "Identity work like Gamela and IVY, so every group brand feels related but distinct."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the audience and what the first month should deliver."
+   },
+   {
+    "h": "First pieces",
+    "p": "A first set of designs and videos in your style within days."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm of posts, reels and campaign pieces."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is REEF Group. I saw your page.",
+  "mail_subject": "REEF Group - Graphic Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ REEF Group",
+  "eyebrow": "طلب توظيف · مصمم جرافيك",
+  "h1": "دار عطور بأسماء كثيرة <em>تحتاج هوية واضحة واحدة.</em>",
+  "lead": "أهلاً فريق ريف، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة تزيد على 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر. تبيع ريف مجموعة عطور مرقّمة وعطر برنسيس ريف في متاجرها وفي فيسز، ووظيفة مصمم الجرافيك تشمل عدة علامات في المجموعة، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أقدم لريف",
+  "why": [
+   {
+    "h": "صور منتج لكل عطر",
+    "p": "مشاهد منتجات بالذكاء الاصطناعي لكل زجاجة، أكملها يدوياً، لتكون لكل عطر أجواؤه بدون جلسة تصوير جديدة كل مرة."
+   },
+   {
+    "h": "موشن للمتاجر والسوشيال",
+    "p": "ريلز قصيرة ومحتوى لشاشات المتاجر وإنستغرام، بالعربية والإنجليزية."
+   },
+   {
+    "h": "نظام واحد لعدة علامات",
+    "p": "أعمال هوية مثل جميلة وآيفي، لتبدو كل علامة في المجموعة قريبة من الأخرى ومميزة في نفس الوقت."
+   }
+  ],
+  "steps_title": "كيف أبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والجمهور وما يجب إنجازه في الشهر الأول."
+   },
+   {
+    "h": "أولى الأعمال",
+    "p": "مجموعة أولى من التصاميم والفيديوهات بأسلوبكم خلال أيام."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي من المنشورات والريلز وأعمال الحملات."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نراجع ما نجح ونطوّر الجولة التالية."
+   }
+  ],
+  "cta_h": "هل يمكننا التحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم. عادةً أرد في نفس اليوم.",
+  "wa_text": "مرحباً عبدالرحمن، معك مجموعة ريف. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Key visual · Skincare",
+   "en_cap": "Clean product visuals with a premium feel.",
+   "ar_title": "صورة رئيسية · العناية بالبشرة",
+   "ar_cap": "صور منتجات نظيفة بإحساس فاخر."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A beauty identity that looks good on every screen.",
+   "ar_title": "هوية بصرية · جميلة",
+   "ar_cap": "هوية تجميل تظهر جميلة على كل شاشة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  }
+ ]
+}

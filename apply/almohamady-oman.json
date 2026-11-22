@@ -1,0 +1,128 @@
+{
+ "slug": "almohamady-oman",
+ "company": "Almohamady Oman",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Almohamady Oman | Abdelrahman Elsayed",
+  "tag": "Prepared for Almohamady Oman",
+  "eyebrow": "Collaboration · Food visuals and ordering",
+  "h1": "Shuwa and mandi this good <em>should be one tap away.</em>",
+  "lead": "Hi Almohamady team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. Your menu has it all, from Omani Shuwa and Chicken Mandi to the 1 KG seafood bucket and kunafa on charcoal. Right now the Book a table button only dials the phone, the counters show 0, and the contact page is still titled Bukhara Restaurant, so I made this page with a few ideas.",
+  "why_title": "A few ideas for Almohamady",
+  "why": [
+   {
+    "h": "A scene per dish",
+    "p": "AI food scenes for the shuwa, mandi and seafood buckets, finished by hand to look real and appetising."
+   },
+   {
+    "h": "Menu reels",
+    "p": "Short motion reels for TikTok, Snapchat and Instagram, in Arabic and English."
+   },
+   {
+    "h": "Order and book on WhatsApp",
+    "p": "A simple page to pick dishes or a table, ending on WhatsApp with the order already written."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which dishes sell best."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Almohamady Oman. I saw your page.",
+  "mail_subject": "Ideas for Almohamady Oman"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Almohamady Oman",
+  "eyebrow": "تعاون · صور الأطباق والطلبات",
+  "h1": "شواء ومندي بهذا المستوى <em>يجب أن يكونا على بعد لمسة.</em>",
+  "lead": "أهلاً فريق المحمدي، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. قائمتكم متكاملة، من الشواء العماني ومندي الدجاج إلى سطل المأكولات البحرية والكنافة على الفحم. حالياً زر حجز الطاولة يتصل بالهاتف فقط، والعدادات تعرض صفراً، وصفحة التواصل ما زال عنوانها مطعم بخارى، لذلك جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار للمحمدي",
+  "why": [
+   {
+    "h": "مشهد لكل طبق",
+    "p": "مشاهد طعام بالذكاء الاصطناعي للشواء والمندي وسطول المأكولات البحرية، أكملها يدوياً لتبدو حقيقية وشهية."
+   },
+   {
+    "h": "ريلز القائمة",
+    "p": "ريلز موشن قصيرة لتيك توك وسناب شات وإنستغرام، بالعربية والإنجليزية."
+   },
+   {
+    "h": "الطلب والحجز عبر واتساب",
+    "p": "صفحة بسيطة لاختيار الأطباق أو الطاولة، تنتهي في واتساب والطلب مكتوب جاهز."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "خطوات صغيرة وسريعة وسهل أن تقولوا لا.",
+  "steps": [
+   {
+    "h": "محادثة قصيرة",
+    "p": "15 دقيقة لفهم الأطباق الأكثر مبيعاً."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "ريل واحد أو عدة تصاميم مبنية على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الهوية."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما حقق نتائج ونعدّل."
+   }
+  ],
+  "cta_h": "هل يمكننا التحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم. عادةً أرد في نفس اليوم.",
+  "wa_text": "مرحباً عبدالرحمن، معك Almohamady Oman. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scenes · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشاهد منتجات بالذكاء الاصطناعي · بانكيكس كوفي",
+   "ar_cap": "كل مشهد جاهز في أقل من ساعة."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A season campaign built around one idea.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة موسمية مبنية على فكرة واحدة."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One clear message, made for the feed.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "رسالة واحدة واضحة مصممة للسوشيال."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  }
+ ],
+ "kind": "client"
+}

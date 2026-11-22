@@ -1,0 +1,128 @@
+{
+ "slug": "bun-al-qassab",
+ "company": "Bun Al Qassab",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Bun Al Qassab | Abdelrahman Elsayed",
+  "tag": "Prepared for Bun Al Qassab",
+  "eyebrow": "Collaboration · Coffee visuals and online shop",
+  "h1": "Your beans are roasted behind glass. <em>Let people see that online.</em>",
+  "lead": "Hi Bun Al Qassab team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. You roast in Rusayl, open at 5:30 AM in Al Maabilah and Al Khoudh, and sell Omani, Turkish, filter, espresso and drip bags across Oman. A few things on your shop still show placeholder text, like the FAQ brackets and an empty Coffee boxes section, so I made this page with a few ideas.",
+  "why_title": "A few ideas for Bun Al Qassab",
+  "why": [
+   {
+    "h": "A scene per coffee",
+    "p": "AI product scenes for each bag and drip box, finished by hand, so every product page has its own look."
+   },
+   {
+    "h": "Roasting reels",
+    "p": "Short motion reels of the roast, the cup and the morning rush, in Arabic and English."
+   },
+   {
+    "h": "A finished shop and a pickup pager",
+    "p": "Clean shop copy in place of the placeholders, plus a flipd-style pager: guests scan a QR code and their own phone rings when the order is ready. I run it in pilot at Pancakes Coffee."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which coffees you want to push."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Bun Al Qassab. I saw your page.",
+  "mail_subject": "Ideas for Bun Al Qassab"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Bun Al Qassab",
+  "eyebrow": "تعاون · صور القهوة والمتجر الإلكتروني",
+  "h1": "تحمّصون القهوة خلف الزجاج. <em>دعوا الناس يرون ذلك على الإنترنت.</em>",
+  "lead": "أهلاً فريق بن القصاب، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. تحمّصون في الرسيل، وتفتحون الساعة 5:30 صباحاً في المعبيلة والخوض، وتبيعون القهوة العمانية والتركية والفلتر والإسبريسو وأكياس التقطير في كل عُمان. ما زالت بعض أجزاء المتجر تعرض نصوصاً مؤقتة، مثل أقواس الأسئلة الشائعة وقسم صناديق القهوة الفارغ، لذلك جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لبن القصاب",
+  "why": [
+   {
+    "h": "مشهد لكل قهوة",
+    "p": "مشاهد منتجات بالذكاء الاصطناعي لكل كيس وصندوق، أكملها يدوياً لتكون لكل صفحة منتج هويتها."
+   },
+   {
+    "h": "ريلز التحميص",
+    "p": "ريلز موشن قصيرة للتحميص والكوب وزحمة الصباح، بالعربية والإنجليزية."
+   },
+   {
+    "h": "متجر مكتمل وجهاز استدعاء",
+    "p": "نصوص واضحة بدل النصوص المؤقتة، ونظام استدعاء مثل flipd: يمسح العميل رمز QR فيرن هاتفه عند جاهزية طلبه. أشغّله تجريبياً في بانكيكس كوفي."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "خطوات صغيرة وسريعة وسهل أن تقولوا لا.",
+  "steps": [
+   {
+    "h": "محادثة قصيرة",
+    "p": "15 دقيقة لفهم القهوة التي تريدون التركيز عليها."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "ريل واحد أو عدة تصاميم مبنية على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الهوية."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما حقق نتائج ونعدّل."
+   }
+  ],
+  "cta_h": "هل يمكننا التحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم. عادةً أرد في نفس اليوم.",
+  "wa_text": "مرحباً عبدالرحمن، معك Bun Al Qassab. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scenes · Pancakes Coffee",
+   "en_cap": "Each scene made in under an hour.",
+   "ar_title": "مشاهد منتجات بالذكاء الاصطناعي · بانكيكس كوفي",
+   "ar_cap": "كل مشهد جاهز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One clear message, made for the feed.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "رسالة واحدة واضحة مصممة للسوشيال."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social posts · Offers",
+   "en_cap": "Offer posts that stay on brand.",
+   "ar_title": "بوستات سوشيال · عروض",
+   "ar_cap": "بوستات عروض تحافظ على هوية العلامة."
+  }
+ ],
+ "kind": "client"
+}

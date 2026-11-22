@@ -1,0 +1,128 @@
+{
+ "slug": "recovery-station",
+ "company": "Recovery Station",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Recovery Station | Abdelrahman Elsayed",
+  "tag": "Prepared for Recovery Station",
+  "eyebrow": "Collaboration · Booking and treatment videos",
+  "h1": "People in pain want one thing: <em>an easy way to book.</em>",
+  "lead": "Hi Recovery Station team, I'm Abdelrahman, a graphic and motion designer who also builds web pages. Opposite The Chedi you offer pain management, neuro rehab, dry needling, Pilates and HydraFacial, with Basic, Standard and Premium packages. On the site the counters show 0, the packages have no prices and booking is only a request form, so I made this page with a few ideas.",
+  "why_title": "A few ideas for Recovery Station",
+  "why": [
+   {
+    "h": "A real booking page",
+    "p": "Pick the service and a time, then confirm on WhatsApp, fast on mobile and in Arabic and English."
+   },
+   {
+    "h": "Treatment explainers",
+    "p": "Short motion videos that show what happens in a session, so first-time patients feel at ease."
+   },
+   {
+    "h": "A clear packages page",
+    "p": "Basic, Standard and Premium side by side, so people choose before they call."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which services you want more bookings for."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Recovery Station. I saw your page.",
+  "mail_subject": "Ideas for Recovery Station"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Recovery Station",
+  "eyebrow": "تعاون · الحجز وفيديوهات العلاج",
+  "h1": "من يعاني من الألم يريد شيئاً واحداً: <em>طريقة سهلة للحجز.</em>",
+  "lead": "أهلاً فريق ريكفري ستيشن، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني صفحات الويب أيضاً. مقابل فندق شيدي تقدمون علاج الألم والتأهيل العصبي والإبر الجافة والبيلاتس والهيدرافيشل، مع باقات أساسية وقياسية ومميزة. في الموقع العدادات تعرض صفراً، والباقات بدون أسعار، والحجز مجرد نموذج طلب، لذلك جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لريكفري ستيشن",
+  "why": [
+   {
+    "h": "صفحة حجز حقيقية",
+    "p": "اختيار الخدمة والموعد ثم التأكيد عبر واتساب، سريعة على الجوال وبالعربية والإنجليزية."
+   },
+   {
+    "h": "فيديوهات شرح العلاج",
+    "p": "فيديوهات موشن قصيرة توضح ما يحدث في الجلسة ليطمئن المريض الجديد."
+   },
+   {
+    "h": "صفحة باقات واضحة",
+    "p": "الباقات الثلاث جنباً إلى جنب ليختار العميل قبل أن يتصل."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "خطوات صغيرة وسريعة وسهل أن تقولوا لا.",
+  "steps": [
+   {
+    "h": "محادثة قصيرة",
+    "p": "15 دقيقة لفهم الخدمات التي تريدون زيادة حجوزاتها."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "ريل واحد أو عدة تصاميم مبنية على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الهوية."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما حقق نتائج ونعدّل."
+   }
+  ],
+  "cta_h": "هل يمكننا التحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم. عادةً أرد في نفس اليوم.",
+  "wa_text": "مرحباً عبدالرحمن، معك Recovery Station. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Key visual · Skincare",
+   "en_cap": "Clean product visuals with a premium feel.",
+   "ar_title": "صورة رئيسية · العناية بالبشرة",
+   "ar_cap": "صور منتجات نظيفة بإحساس فاخر."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social posts · Campaign",
+   "en_cap": "A consistent look across the feed.",
+   "ar_title": "بوستات سوشيال · حملة",
+   "ar_cap": "مظهر متناسق في كل المنشورات."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "A beauty identity that looks good on every screen.",
+   "ar_title": "هوية بصرية · جميلة",
+   "ar_cap": "هوية تجميل تظهر جميلة على كل شاشة."
+  }
+ ],
+ "kind": "client"
+}

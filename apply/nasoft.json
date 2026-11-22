@@ -1,0 +1,127 @@
+{
+ "slug": "nasoft",
+ "company": "Nasoft",
+ "default_lang": "en",
+ "country_en": "Remote (Saudi market)",
+ "country_ar": "عن بُعد (السوق السعودي)",
+ "en": {
+  "title": "For Nasoft | Abdelrahman Elsayed",
+  "tag": "Prepared for Nasoft",
+  "eyebrow": "Application · Senior Graphic & Motion Designer (remote)",
+  "h1": "An ERP is hard to love. <em>Good motion makes it easy to understand.</em>",
+  "lead": "Hi Nasoft team, I'm Abdelrahman, a graphic and motion designer with 6+ years of work for brands in Saudi Arabia, the UAE, Oman and Qatar, based in Giza. Your role asks for Arabic typography, explainer motion and ad creative for a cloud ERP serving Saudi businesses, so I made this page for you.",
+  "why_title": "What I'd bring to Nasoft",
+  "why": [
+   {
+    "h": "Explainers for a product",
+    "p": "Short Arabic and English motion videos that turn accounting, POS and inventory features into one clear idea each, made in After Effects and Premiere."
+   },
+   {
+    "h": "A monthly Arabic calendar",
+    "p": "Social posts and ad creative in the existing purple and orange identity, with proper Arabic RTL typography."
+   },
+   {
+    "h": "AI video when it helps",
+    "p": "Talking-character ads in Gulf dialect I made for a Saudi financing company, useful for fast product ads."
+   }
+  ],
+  "steps_title": "How I'd start",
+  "steps_sub": "The first weeks, step by step.",
+  "steps": [
+   {
+    "h": "Brief",
+    "p": "Agree the brand, the audience and what the first month should deliver."
+   },
+   {
+    "h": "First pieces",
+    "p": "A first set of designs and videos in your style within days."
+   },
+   {
+    "h": "Steady output",
+    "p": "A weekly rhythm of posts, reels and campaign pieces."
+   },
+   {
+    "h": "Review",
+    "p": "Check what worked and adjust the next round."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Nasoft. I saw your page.",
+  "mail_subject": "Nasoft - Senior Graphic & Motion Designer"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Nasoft",
+  "eyebrow": "طلب توظيف · مصمم جرافيك وموشن أول (عن بُعد)",
+  "h1": "نظام ERP ليس سهلاً على الفهم. <em>الموشن الجيد يجعله واضحاً.</em>",
+  "lead": "أهلاً فريق ناسوفت، معكم عبدالرحمن، مصمم جرافيك وموشن بخبرة تزيد على 6 سنوات مع علامات تجارية في السعودية والإمارات وعُمان وقطر، ومقيم في الجيزة. الوظيفة تطلب خبرة في الخط العربي وفيديوهات الشرح وتصاميم الإعلانات لنظام ERP سحابي يخدم الشركات السعودية، لذلك جهزت لكم هذه الصفحة.",
+  "why_title": "ماذا أقدم لناسوفت",
+  "why": [
+   {
+    "h": "فيديوهات شرح للمنتج",
+    "p": "فيديوهات موشن قصيرة بالعربية والإنجليزية تحوّل ميزات المحاسبة ونقاط البيع والمخزون إلى فكرة واضحة لكل ميزة، على After Effects وPremiere."
+   },
+   {
+    "h": "تقويم محتوى عربي شهري",
+    "p": "منشورات وتصاميم إعلانات بالهوية البنفسجية والبرتقالية الحالية، مع خط عربي صحيح من اليمين لليسار."
+   },
+   {
+    "h": "فيديو بالذكاء الاصطناعي عند الحاجة",
+    "p": "إعلانات بشخصيات متحدثة باللهجة الخليجية نفذتها لشركة تمويل سعودية، مفيدة لإعلانات المنتج السريعة."
+   }
+  ],
+  "steps_title": "كيف أبدأ",
+  "steps_sub": "الأسابيع الأولى خطوة بخطوة.",
+  "steps": [
+   {
+    "h": "الموجز",
+    "p": "نتفق على العلامة والجمهور وما يجب إنجازه في الشهر الأول."
+   },
+   {
+    "h": "أولى الأعمال",
+    "p": "مجموعة أولى من التصاميم والفيديوهات بأسلوبكم خلال أيام."
+   },
+   {
+    "h": "إنتاج منتظم",
+    "p": "إيقاع أسبوعي من المنشورات والريلز وأعمال الحملات."
+   },
+   {
+    "h": "مراجعة",
+    "p": "نراجع ما نجح ونطوّر الجولة التالية."
+   }
+  ],
+  "cta_h": "هل يمكننا التحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم. عادةً أرد في نفس اليوم.",
+  "wa_text": "مرحباً عبدالرحمن، معك ناسوفت. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI presenter · Gulf dialect",
+   "en_cap": "Talking-character ads for a Saudi financing company.",
+   "ar_title": "مقدّم بالذكاء الاصطناعي · لهجة خليجية",
+   "ar_cap": "إعلانات بشخصيات متحدثة لشركة تمويل سعودية."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social posts · Campaign",
+   "en_cap": "A consistent look across the feed.",
+   "ar_title": "بوستات سوشيال · حملة",
+   "ar_cap": "مظهر متناسق في كل المنشورات."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A season campaign built around one idea.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة موسمية مبنية على فكرة واحدة."
+  }
+ ]
+}

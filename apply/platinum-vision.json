@@ -1,0 +1,128 @@
+{
+ "slug": "platinum-vision",
+ "company": "Platinum Vision Properties",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Platinum Vision Properties | Abdelrahman Elsayed",
+  "tag": "Prepared for Platinum Vision Properties",
+  "eyebrow": "Collaboration · Listings and website",
+  "h1": "Your listings are in Muscat. <em>Your website still says Miami.</em>",
+  "lead": "Hi Platinum Vision team, I'm Abdelrahman, a graphic and motion designer who also builds websites. You have real listings like the Azura Residence 2BR and an Al Mouj 2+1, but your site still shows the theme's demo address in Florida, a Miami address on Oman listings, and a Free Consultation button that dials 1234567890. I made this page with a few ideas.",
+  "why_title": "A few ideas for Platinum Vision",
+  "why": [
+   {
+    "h": "A clean bilingual website",
+    "p": "Arabic and English, fast on mobile, with your real contacts and a WhatsApp button on every listing."
+   },
+   {
+    "h": "AI lifestyle scenes",
+    "p": "Furnished, lived-in scenes for each unit, so buyers and tenants picture themselves there."
+   },
+   {
+    "h": "Listing reels",
+    "p": "Short motion reels per property for Instagram, in Arabic and English."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand which listings you want to move first."
+   },
+   {
+    "h": "A first sample",
+    "p": "One reel or a few visuals built around your own products."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what brought results and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Platinum Vision Properties. I saw your page.",
+  "mail_subject": "Ideas for Platinum Vision Properties"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ Platinum Vision Properties",
+  "eyebrow": "تعاون · العقارات والموقع الإلكتروني",
+  "h1": "عقاراتكم في مسقط. <em>وموقعكم ما زال يقول ميامي.</em>",
+  "lead": "أهلاً فريق بلاتينيوم فيجن، معكم عبدالرحمن، مصمم جرافيك وموشن وأبني المواقع أيضاً. لديكم عقارات حقيقية مثل شقة غرفتين في أزورا ريزيدنس ووحدة في الموج، لكن الموقع ما زال يعرض عنوان القالب التجريبي في فلوريدا، وعنواناً في ميامي على عقارات عُمان، وزر استشارة مجانية يتصل بالرقم 1234567890. لذلك جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لبلاتينيوم فيجن",
+  "why": [
+   {
+    "h": "موقع نظيف بلغتين",
+    "p": "بالعربية والإنجليزية، سريع على الجوال، ببيانات تواصل حقيقية وزر واتساب في كل عقار."
+   },
+   {
+    "h": "مشاهد أسلوب حياة بالذكاء الاصطناعي",
+    "p": "مشاهد مفروشة لكل وحدة ليتخيل المشتري أو المستأجر نفسه فيها."
+   },
+   {
+    "h": "ريلز للعقارات",
+    "p": "ريلز موشن قصيرة لكل عقار على إنستغرام، بالعربية والإنجليزية."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "خطوات صغيرة وسريعة وسهل أن تقولوا لا.",
+  "steps": [
+   {
+    "h": "محادثة قصيرة",
+    "p": "15 دقيقة لفهم العقارات التي تريدون تسويقها أولاً."
+   },
+   {
+    "h": "عينة أولى",
+    "p": "ريل واحد أو عدة تصاميم مبنية على منتجاتكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الهوية."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "نراجع ما حقق نتائج ونعدّل."
+   }
+  ],
+  "cta_h": "هل يمكننا التحدث 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم. عادةً أرد في نفس اليوم.",
+  "wa_text": "مرحباً عبدالرحمن، معك Platinum Vision Properties. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "villa",
+   "en_title": "Key visual · Villa launch",
+   "en_cap": "A launch visual that sells the lifestyle.",
+   "ar_title": "صورة رئيسية · إطلاق فلل",
+   "ar_cap": "صورة إطلاق تبيع أسلوب الحياة."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI scenes · Real estate",
+   "en_cap": "Lifestyle scenes before the photos exist.",
+   "ar_title": "مشاهد بالذكاء الاصطناعي · عقارات",
+   "ar_cap": "مشاهد أسلوب حياة قبل وجود الصور."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social posts · Campaign",
+   "en_cap": "A consistent look across the feed.",
+   "ar_title": "بوستات سوشيال · حملة",
+   "ar_cap": "مظهر متناسق في كل المنشورات."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Short motion pieces for reels and screens.",
+   "ar_title": "موشن · بانكيكس كوفي",
+   "ar_cap": "مقاطع موشن قصيرة للريلز والشاشات."
+  }
+ ],
+ "kind": "client"
+}
