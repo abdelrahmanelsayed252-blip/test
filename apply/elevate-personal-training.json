@@ -1,0 +1,129 @@
+{
+ "slug": "elevate-personal-training",
+ "company": "Elevate Personal Training",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Elevate Personal Training | Abdelrahman Elsayed",
+  "tag": "Prepared for Elevate Personal Training",
+  "eyebrow": "Collaboration · Studio app and reels",
+  "h1": "Six studios, one <em>easy way to book.</em>",
+  "lead": "Hi Elevate team, I'm Abdelrahman, a graphic and motion designer who also builds web apps. You run six private studios across Azaiba, Madinat Qaboos and Shatti Al Qurum, three of them ladies-only, and new clients start with a consultation and an InBody scan, booked by form, WhatsApp or DM. I made this page with a few ideas for that journey.",
+  "why_title": "A few ideas for Elevate Personal Training",
+  "why": [
+   {
+    "h": "One booking page for all studios",
+    "p": "Pick the studio, ladies-only or mixed, and a consultation slot, then confirm on WhatsApp. Arabic and English, fast on mobile."
+   },
+   {
+    "h": "A staff app across branches",
+    "p": "Trainer shifts, attendance and daily reports in one place. I built one for a coffee chain and it is approved for 5 branches."
+   },
+   {
+    "h": "Progress reels",
+    "p": "Short motion reels on programmes and InBody results, made to post every week."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to walk through how a new client books today."
+   },
+   {
+    "h": "A first sample",
+    "p": "A clickable booking page draft or one programme reel."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Elevate Personal Training. I saw your page.",
+  "mail_subject": "Collaboration idea for Elevate Personal Training"
+ },
+ "ar": {
+  "title": "لـ إيليفيت للتدريب الشخصي | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ إيليفيت للتدريب الشخصي",
+  "eyebrow": "تعاون · تطبيق للاستوديوهات وريلز",
+  "h1": "ستة استوديوهات و<em>طريقة حجز واحدة سهلة.</em>",
+  "lead": "أهلاً فريق إيليفيت، معكم عبدالرحمن، مصمم جرافيك وموشن أبني أيضاً تطبيقات ويب. لديكم ستة استوديوهات خاصة بين العذيبة ومدينة قابوس وشاطئ القرم، ثلاثة منها للسيدات فقط، ويبدأ العميل الجديد باستشارة وفحص InBody يُحجز عبر نموذج أو واتساب أو رسالة. جهزت لكم هذه الصفحة بأفكار لهذه الرحلة.",
+  "why_title": "أفكار لـ إيليفيت للتدريب الشخصي",
+  "why": [
+   {
+    "h": "صفحة حجز واحدة لكل الاستوديوهات",
+    "p": "اختيار الاستوديو، للسيدات أو مختلط، وموعد الاستشارة، ثم التأكيد على واتساب. بالعربي والإنجليزي وسريعة على الجوال."
+   },
+   {
+    "h": "تطبيق للفريق في كل الفروع",
+    "p": "مناوبات المدربين والحضور والتقارير اليومية في مكان واحد. بنيت تطبيقاً مثله لسلسلة مقاهٍ واعتُمد في 5 فروع."
+   },
+   {
+    "h": "ريلز عن التقدم",
+    "p": "ريلز متحركة قصيرة عن البرامج ونتائج InBody، جاهزة للنشر كل أسبوع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنمر على طريقة حجز العميل الجديد حالياً."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "نسخة أولى قابلة للتجربة من صفحة الحجز أو ريل واحد لبرنامج."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك إيليفيت للتدريب الشخصي. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A steady weekly flow in one look.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "محتوى أسبوعي منتظم بهوية واحدة."
+  },
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Gulf brand",
+   "en_cap": "Short AI ads cut for reels, stories and TikTok.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية خليجية",
+   "ar_cap": "إعلانات قصيرة بالذكاء الاصطناعي مقصوصة للريلز والستوريز وتيك توك."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

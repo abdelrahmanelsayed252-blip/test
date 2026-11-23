@@ -1,0 +1,129 @@
+{
+ "slug": "amc-muscat",
+ "company": "Advanced Medical Center",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Advanced Medical Center | Abdelrahman Elsayed",
+  "tag": "Prepared for Advanced Medical Center",
+  "eyebrow": "Collaboration · Website and booking",
+  "h1": "Nine departments deserve <em>a site patients can book on.</em>",
+  "lead": "Hi AMC team, I'm Abdelrahman, a graphic and motion designer who also builds websites. Behind Qurum Sultan Center you cover dermatology, gynecology, pediatrics, dental, ophthalmology, radiology, lab and pharmacy, but the \"Book an appointment\" button only opens the doctors list and the site footer still says 2020. I made this page with a few ideas.",
+  "why_title": "A few ideas for Advanced Medical Center",
+  "why": [
+   {
+    "h": "A new Arabic and English site",
+    "p": "Clear department pages, doctor profiles and fast loading on mobile."
+   },
+   {
+    "h": "A real booking page",
+    "p": "Choose the department, doctor and time, then confirm on WhatsApp."
+   },
+   {
+    "h": "A calmer waiting area",
+    "p": "A simple pager for the pharmacy and lab: patients scan a QR code and their own phone rings when it is their turn. I built one that is in pilot now."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to hear how patients book and wait today."
+   },
+   {
+    "h": "A first sample",
+    "p": "A homepage and booking page draft you can click through."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Advanced Medical Center. I saw your page.",
+  "mail_subject": "Collaboration idea for Advanced Medical Center"
+ },
+ "ar": {
+  "title": "لـ المركز الطبي المتقدم | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ المركز الطبي المتقدم",
+  "eyebrow": "تعاون · موقع إلكتروني وحجز",
+  "h1": "تسعة أقسام تستحق <em>موقعاً يحجز منه المريض.</em>",
+  "lead": "أهلاً فريق المركز الطبي المتقدم، معكم عبدالرحمن، مصمم جرافيك وموشن أبني أيضاً مواقع إلكترونية. خلف سلطان سنتر القرم تقدمون الجلدية والنساء والأطفال والأسنان والعيون والأشعة والمختبر والصيدلية، لكن زر حجز موعد يفتح قائمة الأطباء فقط، وتذييل الموقع ما زال يحمل تاريخ 2020. جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "أفكار لـ المركز الطبي المتقدم",
+  "why": [
+   {
+    "h": "موقع جديد بالعربي والإنجليزي",
+    "p": "صفحات واضحة للأقسام وملفات للأطباء وسرعة على الجوال."
+   },
+   {
+    "h": "صفحة حجز حقيقية",
+    "p": "اختيار القسم والطبيب والموعد، ثم التأكيد على واتساب."
+   },
+   {
+    "h": "انتظار أهدأ",
+    "p": "نظام تنبيه بسيط للصيدلية والمختبر: يمسح المريض رمز QR ويرن هاتفه عندما يحين دوره. بنيت نظاماً مثله وهو قيد التجربة حالياً."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنعرف كيف يحجز المرضى وينتظرون حالياً."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "نسخة أولى من الصفحة الرئيسية وصفحة الحجز يمكنكم تجربتها."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك المركز الطبي المتقدم. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes that feel premium.",
+   "ar_title": "صورة منتج · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة بإحساس فاخر."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A steady weekly flow in one look.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "محتوى أسبوعي منتظم بهوية واحدة."
+  }
+ ],
+ "kind": "client"
+}

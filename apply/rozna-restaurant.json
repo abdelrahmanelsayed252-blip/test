@@ -1,0 +1,129 @@
+{
+ "slug": "rozna-restaurant",
+ "company": "Rozna Restaurant",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Rozna Restaurant | Abdelrahman Elsayed",
+  "tag": "Prepared for Rozna Restaurant",
+  "eyebrow": "Collaboration · Dish visuals and reels",
+  "h1": "A fort, a falaj and Qabuli: <em>show it before they arrive.</em>",
+  "lead": "Hi Rozna team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion reels for a Gulf coffee brand. Rozna already has what most restaurants wish for: a fort-style house, family rooms, the falaj under the dining hall and dishes like Meat Qabuli, Ursiya and Chicken Mandi. I made this page with a few ideas to show more of that online.",
+  "why_title": "A few ideas for Rozna Restaurant",
+  "why": [
+   {
+    "h": "Dish scenes for every signature plate",
+    "p": "Qabuli, Ursiya, Mandi and the mixed grill in rich, warm scenes, made fast and finished by hand."
+   },
+   {
+    "h": "Short reels of the house",
+    "p": "The fort walls, the falaj and the family rooms in short motion reels for Instagram and TikTok."
+   },
+   {
+    "h": "A calmer wait for walk-ins",
+    "p": "When the hall is full, a simple order pager that rings the guest's own phone when the table is ready, no app needed. I built one for a coffee brand and it is in pilot now."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to hear which dishes and moments you want people to see."
+   },
+   {
+    "h": "A first sample",
+    "p": "Three dish scenes or one reel built around your own plates."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Rozna Restaurant. I saw your page.",
+  "mail_subject": "Collaboration idea for Rozna Restaurant"
+ },
+ "ar": {
+  "title": "لـ مطعم روزنة | عبدالرحمن السيد",
+  "tag": "مُعدّة لـ مطعم روزنة",
+  "eyebrow": "تعاون · صور الأطباق والريلز",
+  "h1": "قلعة وفلج وقبولي: <em>اعرضوها قبل أن يصل الضيف.</em>",
+  "lead": "أهلاً فريق روزنة، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات بالذكاء الاصطناعي وريلز متحركة لعلامة قهوة خليجية. لدى روزنة ما يتمناه أي مطعم: مبنى على طراز القلعة، وغرف عائلية، والفلج تحت صالة الطعام، وأطباق مثل قبولي اللحم والعرسية ومندي الدجاج. جهزت لكم هذه الصفحة بأفكار لإظهار ذلك أكثر على الإنترنت.",
+  "why_title": "أفكار لـ مطعم روزنة",
+  "why": [
+   {
+    "h": "مشهد لكل طبق مميز",
+    "p": "القبولي والعرسية والمندي والمشاوي في مشاهد دافئة وغنية، تُنجز بسرعة وتكتمل يدوياً."
+   },
+   {
+    "h": "ريلز قصيرة عن المكان",
+    "p": "جدران القلعة والفلج والغرف العائلية في ريلز متحركة قصيرة لإنستغرام وتيك توك."
+   },
+   {
+    "h": "انتظار أهدأ للضيوف",
+    "p": "عندما تمتلئ الصالة، نظام تنبيه بسيط يرن على هاتف الضيف عندما تجهز طاولته، دون تطبيق. صممت نظاماً مثله لعلامة قهوة وهو قيد التجربة حالياً."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنعرف الأطباق واللحظات التي تريدون أن يراها الناس."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "ثلاثة مشاهد أطباق أو ريل واحد مبني على أطباقكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مطعم روزنة. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "AI-built scene, finished by hand.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "مشهد بالذكاء الاصطناعي، مكتمل يدوياً."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}
