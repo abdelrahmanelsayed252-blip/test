@@ -1,0 +1,128 @@
+{
+ "slug": "azhar-medical-group",
+ "company": "Azhar Medical Group",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Azhar Medical Group | Abdelrahman Elsayed",
+  "tag": "Prepared for Azhar Medical Group",
+  "eyebrow": "Collaboration · Healthcare brand",
+  "h1": "One clear look for <em>every Azhar clinic.</em>",
+  "lead": "Hi Azhar team, I'm Abdelrahman, a graphic and motion designer who has made AI video and social content for 20+ brands in the Gulf. Azhar runs a private hospital and polyclinics in Mawaleh and beyond, but the branch pages are short and the booking form starts by asking for an ID number. I made this page with a few ideas.",
+  "why_title": "What I could do for Azhar Medical Group",
+  "why": [
+   {
+    "h": "A simple booking page",
+    "p": "A short mobile page per branch: pick the clinic and time, send it on WhatsApp. No ID number at the first step."
+   },
+   {
+    "h": "Branch and doctor reels",
+    "p": "Short videos of the Mawaleh polyclinic, the hospital and the Cosmo clinic, in Arabic and English."
+   },
+   {
+    "h": "One visual system",
+    "p": "The same names, colours and photo style across the site, Instagram and every branch."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Azhar Medical Group. I saw your page.",
+  "mail_subject": "Collaboration idea for Azhar Medical Group"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مجموعة الأزهر الطبية",
+  "eyebrow": "تعاون · هوية طبية",
+  "h1": "هوية واحدة واضحة <em>لكل عيادات الأزهر.</em>",
+  "lead": "أهلاً فريق الأزهر، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج فيديوهات بالذكاء الاصطناعي ومحتوى سوشيال لأكثر من 20 علامة تجارية في الخليج. تدير الأزهر مستشفى خاصاً ومستوصفات في الموالح وغيرها، لكن صفحات الفروع مختصرة ونموذج الحجز يبدأ بطلب رقم البطاقة. جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مجموعة الأزهر الطبية",
+  "why": [
+   {
+    "h": "صفحة حجز بسيطة",
+    "p": "صفحة قصيرة للجوال لكل فرع: اختيار العيادة والموعد ثم الإرسال عبر واتساب، دون رقم بطاقة في الخطوة الأولى."
+   },
+   {
+    "h": "ريلز للفروع والأطباء",
+    "p": "فيديوهات قصيرة لمستوصف الموالح والمستشفى وعيادة كوزمو بالعربي والإنجليزي."
+   },
+   {
+    "h": "نظام بصري واحد",
+    "p": "نفس الأسماء والألوان وأسلوب الصور في الموقع وإنستغرام وكل الفروع."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مجموعة الأزهر الطبية. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وفاخرة بالذكاء الاصطناعي."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "id-khayrat",
+   "en_title": "Identity · Khayrat Al-Ahsa",
+   "en_cap": "One system applied across every touchpoint.",
+   "ar_title": "هوية · خيرات الأحساء",
+   "ar_cap": "نظام واحد على كل نقاط التواصل."
+  },
+  {
+   "src": "social-3",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

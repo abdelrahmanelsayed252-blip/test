@@ -1,0 +1,128 @@
+{
+ "slug": "muscat-pardha",
+ "company": "Muscat Pardha",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Muscat Pardha | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Pardha",
+  "eyebrow": "Collaboration · Fashion visuals",
+  "h1": "Show the abayas <em>the way they look in person.</em>",
+  "lead": "Hi Muscat Pardha team, I'm Abdelrahman, a graphic and motion designer who has worked with 20+ brands in the Gulf and builds Arabic and English sites. Your Darsait store carries designer abayas, shawls and accessories, while the site's offers page is still empty. I made this page with a few ideas.",
+  "why_title": "What I could do for Muscat Pardha",
+  "why": [
+   {
+    "h": "AI lookbook scenes",
+    "p": "Your abayas styled in clean, modest scenes for each new collection, without a full photo shoot."
+   },
+   {
+    "h": "Collection reels",
+    "p": "Short motion reels for new arrivals and Eid collections, for Instagram and stories."
+   },
+   {
+    "h": "A new mobile site",
+    "p": "A fast Arabic and English site with your collections, live offers and a WhatsApp order button."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muscat Pardha. I saw your page.",
+  "mail_subject": "Collaboration idea for Muscat Pardha"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مسقط بردة",
+  "eyebrow": "تعاون · محتوى أزياء",
+  "h1": "اعرضوا العبايات <em>كما تبدو في الحقيقة.</em>",
+  "lead": "أهلاً فريق مسقط بردة، معكم عبدالرحمن، مصمم جرافيك وموشن عمل مع أكثر من 20 علامة تجارية في الخليج ويبني مواقع بالعربي والإنجليزي. متجركم في دارسيت يقدم عبايات وشالات وإكسسوارات، بينما صفحة العروض في الموقع ما زالت فارغة. جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مسقط بردة",
+  "why": [
+   {
+    "h": "مشاهد لوك بوك بالذكاء الاصطناعي",
+    "p": "عباياتكم في مشاهد أنيقة ومحتشمة لكل مجموعة جديدة، دون جلسة تصوير كاملة."
+   },
+   {
+    "h": "ريلز للمجموعات",
+    "p": "ريلز موشن قصيرة للوصول الجديد ومجموعات العيد لإنستغرام والستوريز."
+   },
+   {
+    "h": "موقع جديد للجوال",
+    "p": "موقع سريع بالعربي والإنجليزي فيه المجموعات والعروض الحالية وزر طلب عبر واتساب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مسقط بردة. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-zone",
+   "en_title": "AI video · Product ads",
+   "en_cap": "Short AI ads built around one product.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · إعلانات منتجات",
+   "ar_cap": "إعلانات قصيرة بالذكاء الاصطناعي حول منتج واحد."
+  },
+  {
+   "src": "id-ivy",
+   "en_title": "Identity · IVY",
+   "en_cap": "A calm, premium brand look.",
+   "ar_title": "هوية · IVY",
+   "ar_cap": "هوية هادئة وفاخرة."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}

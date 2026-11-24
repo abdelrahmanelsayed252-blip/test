@@ -1,0 +1,128 @@
+{
+ "slug": "alhayat-polyclinic",
+ "company": "Al Hayat Polyclinic",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Al Hayat Polyclinic | Abdelrahman Elsayed",
+  "tag": "Prepared for Al Hayat Polyclinic",
+  "eyebrow": "Collaboration · Healthcare content",
+  "h1": "Let patients <em>meet your doctors before they book.</em>",
+  "lead": "Hi Al Hayat team, I'm Abdelrahman, a graphic and motion designer who has made AI video and social content for 20+ brands in the Gulf. Your Al Ghubra and Al Hail polyclinics already take bookings online, while the news section has been quiet since early 2025. I made this page with a few ideas for keeping it alive.",
+  "why_title": "What I could do for Al Hayat Polyclinic",
+  "why": [
+   {
+    "h": "Doctor intro reels",
+    "p": "Short videos that introduce each doctor and clinic, so patients feel they know who they will see."
+   },
+   {
+    "h": "Monthly health content",
+    "p": "Posts and stories in Arabic and English on seasonal topics, in one look across both branches."
+   },
+   {
+    "h": "A staff app for branches",
+    "p": "Like the staff app I built for a coffee chain approved for 5 branches: shifts, attendance and daily reports in one place."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Al Hayat Polyclinic. I saw your page.",
+  "mail_subject": "Collaboration idea for Al Hayat Polyclinic"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مستوصف الحياة",
+  "eyebrow": "تعاون · محتوى صحي",
+  "h1": "دعوا المرضى <em>يتعرفون على أطبائكم قبل الحجز.</em>",
+  "lead": "أهلاً فريق الحياة، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج فيديوهات بالذكاء الاصطناعي ومحتوى سوشيال لأكثر من 20 علامة تجارية في الخليج. مستوصفاكم في الغبرة والحيل يستقبلان الحجوزات أونلاين، بينما قسم الأخبار هادئ منذ بداية 2025. جهزت لكم هذه الصفحة بأفكار لإحيائه.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مستوصف الحياة",
+  "why": [
+   {
+    "h": "ريلز تعريفية بالأطباء",
+    "p": "فيديوهات قصيرة تعرّف بكل طبيب وعيادة، ليشعر المريض أنه يعرف من سيقابل."
+   },
+   {
+    "h": "محتوى صحي شهري",
+    "p": "بوستات وستوريز بالعربي والإنجليزي عن مواضيع موسمية، بأسلوب واحد للفرعين."
+   },
+   {
+    "h": "تطبيق موظفين للفروع",
+    "p": "مثل تطبيق الموظفين الذي بنيته لسلسلة مقاهٍ واعتُمد لخمسة فروع: الورديات والحضور والتقارير اليومية في مكان واحد."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مستوصف الحياة. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-saba",
+   "en_title": "AI campaign · Saba HomeCare",
+   "en_cap": "A consistent AI cast across a full campaign.",
+   "ar_title": "حملة بالذكاء الاصطناعي · سابا هوم كير",
+   "ar_cap": "نفس الشخصيات ثابتة على مدار الحملة كاملة."
+  },
+  {
+   "src": "skincare",
+   "en_title": "AI product visuals · Skincare",
+   "en_cap": "Clean, premium product scenes made with AI.",
+   "ar_title": "صور منتجات بالذكاء الاصطناعي · عناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة وفاخرة بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · UAE brand",
+   "en_cap": "UGC-style ads with AI characters and voice.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · علامة تجارية إماراتية",
+   "ar_cap": "إعلانات بأسلوب UGC بشخصيات وأصوات بالذكاء الاصطناعي."
+  }
+ ],
+ "kind": "client"
+}

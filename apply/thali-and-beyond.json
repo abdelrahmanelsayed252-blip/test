@@ -1,0 +1,128 @@
+{
+ "slug": "thali-and-beyond",
+ "company": "Thali and Beyond",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Thali and Beyond | Abdelrahman Elsayed",
+  "tag": "Prepared for Thali and Beyond",
+  "eyebrow": "Collaboration · Food visuals",
+  "h1": "Make every thali <em>look as good as it tastes.</em>",
+  "lead": "Hi Thali and Beyond team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee brand. Your online menu in Al Khoud already takes orders, but many dishes still show a placeholder picture. I made this page with a few ideas for that.",
+  "why_title": "What I could do for Thali and Beyond",
+  "why": [
+   {
+    "h": "Real-looking dish photos",
+    "p": "Every thali, biryani and grill item in its own scene, made in under an hour each and finished by hand, so no item shows an empty picture."
+   },
+   {
+    "h": "Menu and catering reels",
+    "p": "Short reels of the thali spread and your catering setups for Instagram and your WhatsApp channel."
+   },
+   {
+    "h": "A cleaner menu site",
+    "p": "Fixed item photos and copy, a correct directions button for Al Khoud, and a pager idea: guests scan a QR code and their phone rings when the order is ready."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Thali and Beyond. I saw your page.",
+  "mail_subject": "Collaboration idea for Thali and Beyond"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ ثالي آند بيوند",
+  "eyebrow": "تعاون · صور أطعمة",
+  "h1": "اجعلوا كل ثالي <em>يبدو بطعمه نفسه.</em>",
+  "lead": "أهلاً فريق ثالي آند بيوند، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة خليجية. قائمتكم على الموقع في الخوض تستقبل الطلبات، لكن أصنافاً كثيرة ما زالت بصورة مؤقتة. جهزت لكم هذه الصفحة بأفكار لذلك.",
+  "why_title": "ماذا أستطيع أن أقدم لـ ثالي آند بيوند",
+  "why": [
+   {
+    "h": "صور أطباق واقعية",
+    "p": "كل ثالي وبرياني وصنف مشويات في مشهد خاص، يُنجز كل منها في أقل من ساعة ويكتمل يدوياً، فلا يبقى صنف بلا صورة."
+   },
+   {
+    "h": "ريلز للقائمة والضيافة",
+    "p": "ريلز قصيرة لسفرة الثالي وتجهيزات الضيافة لإنستغرام وقناة واتساب."
+   },
+   {
+    "h": "موقع قائمة أنظف",
+    "p": "صور ونصوص مصححة للأصناف، وزر اتجاهات صحيح للخوض، وفكرة جهاز نداء: يمسح الضيف رمز QR فيرن هاتفه عند جاهزية الطلب."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك ثالي آند بيوند. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day meals",
+   "en_cap": "A full meal spread built as one campaign image.",
+   "ar_title": "صورة رئيسية · وجبات اليوم الوطني السعودي",
+   "ar_cap": "سفرة كاملة في صورة حملة واحدة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Menu and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للقائمة والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}
