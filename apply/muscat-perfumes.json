@@ -1,0 +1,128 @@
+{
+ "slug": "muscat-perfumes",
+ "company": "Muscat Perfumes",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Muscat Perfumes | Abdelrahman Elsayed",
+  "tag": "Prepared for Muscat Perfumes",
+  "eyebrow": "Collaboration · Product visuals & ordering",
+  "h1": "Give every bottle <em>its own scene.</em>",
+  "lead": "Hi Muscat Perfumes team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and reels for Gulf brands, including Dr. Scent in Qatar. Your Domes, Elit and Vintage range sells through WhatsApp, so I made this page with ideas to make each bottle easier to choose.",
+  "why_title": "What I could do for Muscat Perfumes",
+  "why": [
+   {
+    "h": "AI bottle scenes",
+    "p": "Each fragrance in a scene that matches its notes, made fast and finished by hand."
+   },
+   {
+    "h": "Motion reels",
+    "p": "Short reels for Or Dear Night and new arrivals, ready for Instagram and WhatsApp status."
+   },
+   {
+    "h": "A WhatsApp order page",
+    "p": "A simple catalogue page I build, where each bottle has a button that opens a ready WhatsApp order."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Muscat Perfumes. I saw your page.",
+  "mail_subject": "Collaboration idea for Muscat Perfumes"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ عطورات مسقط",
+  "eyebrow": "تعاون · صور المنتجات والطلبات",
+  "h1": "امنحوا كل زجاجة <em>مشهدها الخاص.</em>",
+  "lead": "أهلاً فريق عطورات مسقط، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وريلز بالذكاء الاصطناعي لعلامات خليجية منها Dr. Scent في قطر. تشكيلتكم من Domes وElit وVintage تُباع عبر واتساب، لذلك جهزت هذه الصفحة بأفكار تسهّل اختيار كل زجاجة.",
+  "why_title": "ماذا أستطيع أن أقدم لـ عطورات مسقط",
+  "why": [
+   {
+    "h": "مشاهد الزجاجات بالذكاء الاصطناعي",
+    "p": "كل عطر في مشهد يناسب مكوناته، يُنجز بسرعة ويكتمل يدوياً."
+   },
+   {
+    "h": "ريلز موشن",
+    "p": "ريلز قصيرة لعطر Or Dear Night والإصدارات الجديدة، جاهزة لإنستغرام وحالة واتساب."
+   },
+   {
+    "h": "صفحة طلب عبر واتساب",
+    "p": "صفحة كتالوج بسيطة أبنيها، لكل زجاجة زر يفتح طلب واتساب جاهز."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك عطورات مسقط. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for care and beauty brands.",
+   "ar_title": "صورة منتج · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات العناية والتجميل."
+  },
+  {
+   "src": "ai-video-zone",
+   "en_title": "AI video · Ozone International UAE",
+   "en_cap": "UGC-style video ads made with AI.",
+   "ar_title": "فيديو بالذكاء الاصطناعي · Ozone International",
+   "ar_cap": "إعلانات فيديو بأسلوب UGC بالذكاء الاصطناعي."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "social-2",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "A consistent look across a full month of posts.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "أسلوب ثابت على مدار شهر كامل من المنشورات."
+  }
+ ],
+ "kind": "client"
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "yum-yum-lebanese",
+ "company": "Yum Yum Lebanese Restaurant",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Yum Yum Lebanese Restaurant | Abdelrahman Elsayed",
+  "tag": "Prepared for Yum Yum Lebanese Restaurant",
+  "eyebrow": "Collaboration · Food visuals & ordering",
+  "h1": "Make every Lebanese plate <em>worth ordering tonight.</em>",
+  "lead": "Hi Yum Yum team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee brand. Your Qurum kitchen takes orders straight on WhatsApp, so I made this page with ideas to make those orders come faster.",
+  "why_title": "What I could do for Yum Yum Lebanese Restaurant",
+  "why": [
+   {
+    "h": "Motion menus",
+    "p": "Short animated menus and daily offer reels for stories and WhatsApp status."
+   },
+   {
+    "h": "AI dish scenes",
+    "p": "Your dishes in fresh scenes, finished by hand to match what you really serve."
+   },
+   {
+    "h": "An order page",
+    "p": "A light bilingual menu page I build, where each dish opens a ready WhatsApp order."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Yum Yum Lebanese Restaurant. I saw your page.",
+  "mail_subject": "Collaboration idea for Yum Yum Lebanese Restaurant"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ مطعم يم يم اللبناني",
+  "eyebrow": "تعاون · صور الأطباق والطلبات",
+  "h1": "اجعلوا كل طبق لبناني <em>يستحق الطلب الليلة.</em>",
+  "lead": "أهلاً فريق يم يم، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة خليجية. مطبخكم في القرم يستقبل الطلبات مباشرة عبر واتساب، لذلك جهزت هذه الصفحة بأفكار تجعل الطلبات تأتي أسرع.",
+  "why_title": "ماذا أستطيع أن أقدم لـ مطعم يم يم اللبناني",
+  "why": [
+   {
+    "h": "قوائم متحركة",
+    "p": "قوائم متحركة قصيرة وريلز للعروض اليومية للستوريز وحالة واتساب."
+   },
+   {
+    "h": "مشاهد الأطباق بالذكاء الاصطناعي",
+    "p": "أطباقكم في مشاهد جديدة، بلمسات يدوية تطابق ما تقدمونه فعلاً."
+   },
+   {
+    "h": "صفحة طلبات",
+    "p": "صفحة قائمة خفيفة بالعربي والإنجليزي أبنيها، كل طبق فيها يفتح طلب واتساب جاهز."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك مطعم يم يم اللبناني. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  }
+ ],
+ "kind": "client"
+}

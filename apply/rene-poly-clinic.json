@@ -1,0 +1,128 @@
+{
+ "slug": "rene-poly-clinic",
+ "company": "René Poly Clinic",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For René Poly Clinic | Abdelrahman Elsayed",
+  "tag": "Prepared for René Poly Clinic",
+  "eyebrow": "Collaboration · Clinic content & booking",
+  "h1": "Explain every treatment <em>before the first visit.</em>",
+  "lead": "Hi René Poly Clinic team, I'm Abdelrahman, a graphic and motion designer working with brands in Saudi Arabia, the UAE, Oman and Qatar. Your blog already answers real patient questions on hair transplant, melasma and laser care, so I made this page with ideas to turn that into short videos.",
+  "why_title": "What I could do for René Poly Clinic",
+  "why": [
+   {
+    "h": "Treatment explainers",
+    "p": "Short motion videos that walk patients through a hair transplant or laser session, step by step."
+   },
+   {
+    "h": "One look for three services",
+    "p": "Dermatology, transplant and dental posts in the same calm, trusted style."
+   },
+   {
+    "h": "A booking page that works",
+    "p": "A fast bilingual booking page I design and build, so patients can pick a service and a time."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is René Poly Clinic. I saw your page.",
+  "mail_subject": "Collaboration idea for René Poly Clinic"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ رينيه بولي كلينك",
+  "eyebrow": "تعاون · محتوى العيادة والحجز",
+  "h1": "اشرحوا كل علاج <em>قبل الزيارة الأولى.</em>",
+  "lead": "أهلاً فريق رينيه بولي كلينك، معكم عبدالرحمن، مصمم جرافيك وموشن أعمل مع علامات تجارية في السعودية والإمارات وعُمان وقطر. مدونتكم تجيب بالفعل على أسئلة المرضى عن زراعة الشعر والكلف والعناية بعد الليزر، لذلك جهزت هذه الصفحة بأفكار لتحويلها إلى فيديوهات قصيرة.",
+  "why_title": "ماذا أستطيع أن أقدم لـ رينيه بولي كلينك",
+  "why": [
+   {
+    "h": "فيديوهات تشرح العلاج",
+    "p": "فيديوهات موشن قصيرة تشرح للمريض خطوات زراعة الشعر أو جلسة الليزر."
+   },
+   {
+    "h": "أسلوب واحد لثلاث خدمات",
+    "p": "منشورات الجلدية والزراعة والأسنان بنفس الأسلوب الهادئ الموثوق."
+   },
+   {
+    "h": "صفحة حجز تعمل",
+    "p": "صفحة حجز سريعة بالعربي والإنجليزي أصممها وأبنيها، ليختار المريض الخدمة والموعد."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك رينيه بولي كلينك. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "skincare",
+   "en_title": "Product visual · Skincare",
+   "en_cap": "Clean product scenes for care and beauty brands.",
+   "ar_title": "صورة منتج · العناية بالبشرة",
+   "ar_cap": "مشاهد منتجات نظيفة لعلامات العناية والتجميل."
+  },
+  {
+   "src": "ai-saba",
+   "en_title": "AI talking character · Saudi financing company",
+   "en_cap": "A character that explains the offer in Gulf dialect.",
+   "ar_title": "شخصية متحدثة بالذكاء الاصطناعي · شركة تمويل سعودية",
+   "ar_cap": "شخصية تشرح العرض باللهجة الخليجية."
+  },
+  {
+   "src": "social-1",
+   "en_title": "Social design · Gulf brands",
+   "en_cap": "Posts and stories in Arabic and English.",
+   "ar_title": "تصميم سوشيال · علامات تجارية خليجية",
+   "ar_cap": "بوستات وستوريز بالعربي والإنجليزي."
+  },
+  {
+   "src": "id-gamela",
+   "en_title": "Identity · Gamela",
+   "en_cap": "Logo, colours and type for a beauty brand.",
+   "ar_title": "هوية بصرية · Gamela",
+   "ar_cap": "شعار وألوان وخطوط لعلامة تجميل."
+  }
+ ],
+ "kind": "client"
+}

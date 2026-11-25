@@ -1,0 +1,128 @@
+{
+ "slug": "kabab-planet",
+ "company": "Kabab Planet",
+ "default_lang": "en",
+ "country_en": "Oman",
+ "country_ar": "عُمان",
+ "en": {
+  "title": "For Kabab Planet | Abdelrahman Elsayed",
+  "tag": "Prepared for Kabab Planet",
+  "eyebrow": "Collaboration · Food visuals & bookings",
+  "h1": "Make the Jumbo Platter <em>the reel people share.</em>",
+  "lead": "Hi Kabab Planet team, I'm Abdelrahman, a graphic and motion designer who makes AI product scenes and motion menus for a Gulf coffee brand. Your charcoal grill at The Walk and Salam Gallery has the kind of food that sells on video, so I made this page with a few ideas.",
+  "why_title": "What I could do for Kabab Planet",
+  "why": [
+   {
+    "h": "Grill reels",
+    "p": "Short reels of the Koobideh and lamb chops coming off the charcoal, cut for stories and Talabat."
+   },
+   {
+    "h": "AI platter scenes",
+    "p": "Each platter in a fresh scene for menus, catering and the franchise page, finished by hand."
+   },
+   {
+    "h": "A booking page",
+    "p": "A simple bilingual page for table bookings and catering requests, instead of a pre-filled WhatsApp message."
+   }
+  ],
+  "steps_title": "How we would start",
+  "steps_sub": "Small, fast, and easy to say no to.",
+  "steps": [
+   {
+    "h": "A short chat",
+    "p": "15 minutes to understand what you offer and who you want to reach."
+   },
+   {
+    "h": "A first sample",
+    "p": "A few visuals or one reel built around your own work."
+   },
+   {
+    "h": "A monthly plan",
+    "p": "A steady flow of content in the same look."
+   },
+   {
+    "h": "Review and improve",
+    "p": "We look at what worked and adjust."
+   }
+  ],
+  "cta_h": "Can we talk for 15 minutes?",
+  "cta_p": "Pick whatever is easier for you. I usually reply the same day.",
+  "wa_text": "Hi Abdelrahman, this is Kabab Planet. I saw your page.",
+  "mail_subject": "Collaboration idea for Kabab Planet"
+ },
+ "ar": {
+  "tag": "مُعدّة لـ كباب بلانيت",
+  "eyebrow": "تعاون · صور الأطباق والحجوزات",
+  "h1": "اجعلوا الطبق الجامبو <em>الريل الذي يتشاركه الجميع.</em>",
+  "lead": "أهلاً فريق كباب بلانيت، معكم عبدالرحمن، مصمم جرافيك وموشن أنتج مشاهد منتجات وقوائم متحركة بالذكاء الاصطناعي لعلامة قهوة خليجية. مشاوي الفحم في فرعي ذا ووك وصلام جاليري تستحق أن تُعرض بالفيديو، لذلك جهزت لكم هذه الصفحة ببعض الأفكار.",
+  "why_title": "ماذا أستطيع أن أقدم لـ كباب بلانيت",
+  "why": [
+   {
+    "h": "ريلز المشاوي",
+    "p": "ريلز قصيرة للكوبيده وريش الغنم وهي تخرج من الفحم، مقاسة للستوريز وطلبات."
+   },
+   {
+    "h": "مشاهد الأطباق بالذكاء الاصطناعي",
+    "p": "كل طبق في مشهد جديد للقائمة والتموين وصفحة الامتياز، مع لمسات يدوية."
+   },
+   {
+    "h": "صفحة حجز",
+    "p": "صفحة بسيطة بالعربي والإنجليزي لحجز الطاولات وطلبات التموين بدلاً من رسالة واتساب جاهزة."
+   }
+  ],
+  "steps_title": "كيف نبدأ",
+  "steps_sub": "بداية صغيرة وسريعة، ولا تلزمكم بشيء.",
+  "steps": [
+   {
+    "h": "حديث قصير",
+    "p": "15 دقيقة لنفهم ما تقدمونه ومن تريدون الوصول إليه."
+   },
+   {
+    "h": "نموذج أول",
+    "p": "عدة صور أو ريل واحد مبني على أعمالكم."
+   },
+   {
+    "h": "خطة شهرية",
+    "p": "محتوى منتظم بنفس الأسلوب."
+   },
+   {
+    "h": "مراجعة وتطوير",
+    "p": "ننظر إلى ما نجح ونعدّل."
+   }
+  ],
+  "cta_h": "نتكلم 15 دقيقة؟",
+  "cta_p": "اختاروا الطريقة الأسهل لكم، وغالباً أرد في نفس اليوم.",
+  "wa_text": "أهلاً عبدالرحمن، معك كباب بلانيت. اطلعت على صفحتك."
+ },
+ "images": [
+  {
+   "src": "ai-pancakes",
+   "en_title": "AI product scene · Pancakes Coffee",
+   "en_cap": "Each product scene made in under an hour.",
+   "ar_title": "مشهد منتج بالذكاء الاصطناعي · Pancakes Coffee",
+   "ar_cap": "كل مشهد منتج يُنجز في أقل من ساعة."
+  },
+  {
+   "src": "motion-pancakes",
+   "en_title": "Motion · Pancakes Coffee",
+   "en_cap": "Product and offer reels in After Effects.",
+   "ar_title": "موشن · Pancakes Coffee",
+   "ar_cap": "ريلز للمنتجات والعروض على After Effects."
+  },
+  {
+   "src": "ksa-day-meals",
+   "en_title": "Key visual · Saudi National Day",
+   "en_cap": "A seasonal campaign built around the menu.",
+   "ar_title": "صورة رئيسية · اليوم الوطني السعودي",
+   "ar_cap": "حملة موسمية مبنية حول القائمة."
+  },
+  {
+   "src": "delivery",
+   "en_title": "Key visual · Delivery campaign",
+   "en_cap": "One idea carried across posts, stories and ads.",
+   "ar_title": "صورة رئيسية · حملة توصيل",
+   "ar_cap": "فكرة واحدة على البوستات والستوريز والإعلانات."
+  }
+ ],
+ "kind": "client"
+}
